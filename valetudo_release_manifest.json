@@ -1,0 +1,12 @@
+{
+  "timestamp": "2022-01-13T20:41:49.687Z",
+  "version": "2022.01.0",
+  "sha256sums": {
+    "valetudo-armv7": "fbcbc2f2316412909c5b89f132ce27bf4d9be72427c25a827203d6b1e9a5cb69",
+    "valetudo-armv7-lowmem": "63827bd8fcb50396e57a5571f1588dcdbe3fb93d121a7a075105dea5c13cc419",
+    "valetudo-aarch64": "b447196900ffcfc49d84f23f6e31fc9a1ec99066f2e331b5a9922120ab0596ab",
+    "valetudo-armv7.upx": "7c3410a57ba1adfa5de516227a45bc4d86968d27349e1a242cb5fe7765648537",
+    "valetudo-armv7-lowmem.upx": "128d08e90274bcc94e07212e1773ec514e99e45d8135476b925c06f2095b81e5",
+    "valetudo-aarch64.upx": "b220dcda94e68cf2d444c456386eaef8f5617c1ed263390bb699eeb18ea75fad"
+  }
+}
