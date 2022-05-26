@@ -1,12 +1,13 @@
 {
-  "timestamp": "2022-05-26T11:03:21.819Z",
+  "timestamp": "2022-05-26T11:19:52.365Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "6e1576a0a90f8a1d434210f7c12358e299efb44eb50626b87828e9b447fe3116",
-    "valetudo-armv7-lowmem": "ae205e528e8364bf464e067879497a3c8c38a8224def61dfd1df0871df5f8c05",
-    "valetudo-aarch64": "ca4b7d2fb14b13070622c391687f6627da4a7170eb6913a0ec5e2e38ffc0cb7f",
-    "valetudo-armv7.upx": "bb3a5399c5c26ebb53cf3eff960e4dcf7d7e58b70f8b541bb9ed1791ce1c162d",
-    "valetudo-armv7-lowmem.upx": "588c6a787c809a3a655de5570b1f205e9156179c6c99ac0a7c259652b2c67233",
-    "valetudo-aarch64.upx": "c7e4a1a93dbd547e42540904f1d2fed041bd33f98688b49cb84f43e13d56bd78"
-  }
+    "valetudo-armv7": "98927d943bf73120120b23d4717a987de338021d444588252ce1ef9748d71efc",
+    "valetudo-armv7-lowmem": "0f39982fc5b5c24238cd507172a9a58477aba28b87030df8d6b2b84935290881",
+    "valetudo-aarch64": "a89dd667b49db04339323562d1eab67211299f703e22810e5fc3ddc46c985d62",
+    "valetudo-armv7.upx": "87fdae5c697297004502bf9f6d43d814a1eced64b4f8894b1b92a99ffd1c2364",
+    "valetudo-armv7-lowmem.upx": "6a86c19099ae80afcb0d4b6b53360f7dba0d3ba421d44dd6a31e01b1fc442aa8",
+    "valetudo-aarch64.upx": "44296610402670efd9d47c4ed3daf3cd6f2775837deeeb6c9bc67cfdef04fe07"
+  },
+  "changelog": "## Valetudo nightly (2022-05-26T11:19:51.649Z)\n\n### Features\n\n- **updater**: Add changelog to nightly update provider [`3a874db`](https://github.com/Hypfer/Valetudo/commit/3a874db088f445d03e71f08f9125ac5ce9cbc4d6)\n"
 }
