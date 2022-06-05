@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-06-04T02:46:34.223Z",
+  "timestamp": "2022-06-05T02:50:25.159Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "98927d943bf73120120b23d4717a987de338021d444588252ce1ef9748d71efc",
-    "valetudo-armv7-lowmem": "0f39982fc5b5c24238cd507172a9a58477aba28b87030df8d6b2b84935290881",
-    "valetudo-aarch64": "a89dd667b49db04339323562d1eab67211299f703e22810e5fc3ddc46c985d62",
-    "valetudo-armv7.upx": "87fdae5c697297004502bf9f6d43d814a1eced64b4f8894b1b92a99ffd1c2364",
-    "valetudo-armv7-lowmem.upx": "6a86c19099ae80afcb0d4b6b53360f7dba0d3ba421d44dd6a31e01b1fc442aa8",
-    "valetudo-aarch64.upx": "44296610402670efd9d47c4ed3daf3cd6f2775837deeeb6c9bc67cfdef04fe07"
+    "valetudo-armv7": "33e2decb54f9e9aac5eeac4bdfeed0d400d30d140eb170e8cc9d22c9c5527212",
+    "valetudo-armv7-lowmem": "7140b4c0518e6fcaf6ab37c2ce4d83589d20afdc52282807e24b19a34865e6af",
+    "valetudo-aarch64": "3b50a8abed49ec520465bf760dd1fd4488dd6b60853c6f088fd498ca7f20e4de",
+    "valetudo-armv7.upx": "86a4f218fcb04d309de83f35b203dec0bf945259e7622c553ab36b0e1f5a26a0",
+    "valetudo-armv7-lowmem.upx": "3dcbc5164cc43c170527fd4f28465ab2e0dec3bd97e6b3695df18bb4ac358021",
+    "valetudo-aarch64.upx": "1b21fc30008397bebb7aed56b0877a2dd57d5dcdc2ab0a29d5e2b629fdfc6249"
   },
-  "changelog": "## Valetudo nightly (2022-06-04T02:46:33.547Z)\n\n### Features\n\n- **updater**: Add changelog to nightly update provider [`3a874db`](https://github.com/Hypfer/Valetudo/commit/3a874db088f445d03e71f08f9125ac5ce9cbc4d6)\n"
+  "changelog": "## Valetudo nightly (2022-06-05T02:50:24.370Z)\n\n### Refactoring\n\n- **ui**: Do not monkey patch the 2d context of the map renderer [`212e4f5`](https://github.com/Hypfer/Valetudo/commit/212e4f541b14a9d5a55d4fe10d54a5c173fc2800)\n"
 }

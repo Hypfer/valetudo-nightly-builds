@@ -1,5 +1,5 @@
-## Valetudo nightly (2022-06-04T02:46:33.547Z)
+## Valetudo nightly (2022-06-05T02:50:24.370Z)
 
-### Features
+### Refactoring
 
-- **updater**: Add changelog to nightly update provider [`3a874db`](https://github.com/Hypfer/Valetudo/commit/3a874db088f445d03e71f08f9125ac5ce9cbc4d6)
+- **ui**: Do not monkey patch the 2d context of the map renderer [`212e4f5`](https://github.com/Hypfer/Valetudo/commit/212e4f541b14a9d5a55d4fe10d54a5c173fc2800)
