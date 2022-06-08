@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-06-07T02:48:30.401Z)
+## Valetudo nightly (2022-06-08T02:53:15.258Z)
 
 ### Features
 
@@ -7,6 +7,7 @@
 
 ### Fixes
 
+- **ui**: Fix map SSE EventSource not reconnecting on error [`d84efd5`](https://github.com/Hypfer/Valetudo/commit/d84efd586122aff81cab8524517cc2c5a0b7b37b)
 - **ui**: fix circular chunk dependency [`271e53c`](https://github.com/Hypfer/Valetudo/commit/271e53c6fa6aa659f94e14e4fd10934901857b82)
 - **ui**: Fix map not properly redrawing on visibility state change [`bd77d2e`](https://github.com/Hypfer/Valetudo/commit/bd77d2e22adc33813fb4ab5e3897e6b58d5340e2)
 - **utils**: hash key instead of value (#1503) [`bae09ab`](https://github.com/Hypfer/Valetudo/commit/bae09ab9f1d09ca98cd54272aab96afac05e52cb)
@@ -16,6 +17,7 @@
 
 ### Refactoring
 
+- **vendor.roborock**: Improve logic legibility in ZoneCleaningCapability [`560a50e`](https://github.com/Hypfer/Valetudo/commit/560a50edfca23c6a80378f0bed9cc3c1a533d8bc)
 - **ui**: Port map color finder to typescript [`6c1b126`](https://github.com/Hypfer/Valetudo/commit/6c1b126138f4e8b751913eb4d4c411a22d7f492c)
 - **ui**: Make use of webpack 5 and convert the map layer render webworker to typescript [`d17b66d`](https://github.com/Hypfer/Valetudo/commit/d17b66d6be3381a9c14cf3dfe118f560bd5ed408)
 - **ui**: Port map touch handling to typescript [`9548012`](https://github.com/Hypfer/Valetudo/commit/95480129dbf4d72eb2e87a7a0ac1d9c18e429369)
