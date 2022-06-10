@@ -1,4 +1,7 @@
-## Valetudo nightly (2022-06-09T02:57:53.077Z)
+## Valetudo nightly (2022-06-10T02:55:24.025Z)
+### Breaking Changes
+
+- **timers**: Updating timers should be a PUT instead of a POST [`9c57f0c`](https://github.com/Hypfer/Valetudo/commit/9c57f0c6db069eae796b6fb68766ca2f5d16c907)
 
 ### Features
 
@@ -7,6 +10,7 @@
 
 ### Fixes
 
+- **ui**: Remove obsolete css statement [`6793c67`](https://github.com/Hypfer/Valetudo/commit/6793c67eb12bb4bf90a83adfb22c0dca01b741ef)
 - **ui**: Fix map SSE EventSource not reconnecting on error [`d84efd5`](https://github.com/Hypfer/Valetudo/commit/d84efd586122aff81cab8524517cc2c5a0b7b37b)
 - **ui**: fix circular chunk dependency [`271e53c`](https://github.com/Hypfer/Valetudo/commit/271e53c6fa6aa659f94e14e4fd10934901857b82)
 - **ui**: Fix map not properly redrawing on visibility state change [`bd77d2e`](https://github.com/Hypfer/Valetudo/commit/bd77d2e22adc33813fb4ab5e3897e6b58d5340e2)
