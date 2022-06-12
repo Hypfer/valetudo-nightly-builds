@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-06-11T02:50:32.075Z)
+## Valetudo nightly (2022-06-12T02:57:44.828Z)
 ### Breaking Changes
 
 - **timers**: Updating timers should be a PUT instead of a POST [`9c57f0c`](https://github.com/Hypfer/Valetudo/commit/9c57f0c6db069eae796b6fb68766ca2f5d16c907)
