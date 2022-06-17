@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-06-16T02:58:45.040Z",
+  "timestamp": "2022-06-17T02:56:14.026Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "ed78052c991605d62f4dc9921b491f87b0dedf53314bb2c9db97f13e92d4f01e",
-    "valetudo-armv7-lowmem": "adc4e5cde1d91d2d196a51f2fb768837bcbc171b473c63f1e51eab26b321fc82",
-    "valetudo-aarch64": "c86c7456e069661e03250c30a3ec6ceb4977fbe74601079b88f49a495ca8ca6d",
-    "valetudo-armv7.upx": "01d2e7f6dba81d78ef5b12eb8a3ab6b409622957e4fe9f8c3cfb922488f882b1",
-    "valetudo-armv7-lowmem.upx": "8c0fe45413b2a98a8d1244d0557c74758ade04364bde7a17cb8a1948afb54aab",
-    "valetudo-aarch64.upx": "8b8a4af2e02e332714dafb7ae4cecdf8f124cdcf9a7263fba6e8da9f5bdfc1fe"
+    "valetudo-armv7": "e2b53e347c9873c99a900dce26fbd8817c2fe24ed2cde9afd2641b4c631402cb",
+    "valetudo-armv7-lowmem": "93f87fff137dc9a5036e8a10f60ef66b429450902ab0bddc59ec6dc6fddd3599",
+    "valetudo-aarch64": "c9830392936363922327a03b37aee3937ae706765ac0a9f59e8cf65f34271d59",
+    "valetudo-armv7.upx": "776a9726e0dbfc5f2d71b0d6d1906de4397ee458459a72bf31713bf5f43757b7",
+    "valetudo-armv7-lowmem.upx": "46ed606383d803642a65b92674b7178f4e01a7329de539b87fc9758414e16daf",
+    "valetudo-aarch64.upx": "71f986c1960f28e805029deb30ebc7cc1fdbf652219c01013d28cd6fb3bca8d2"
   },
-  "changelog": "## Valetudo nightly (2022-06-16T02:58:44.575Z)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
+  "changelog": "## Valetudo nightly (2022-06-17T02:56:13.550Z)\n\n### Refactoring\n\n- **webserver**: Response cleanup [`839310a`](https://github.com/Hypfer/Valetudo/commit/839310ab0941941d68ea4ba0c1fbfc17b8924443)\n- **webserver**: Actually make use of the openapi schema validation [`6e2d2e1`](https://github.com/Hypfer/Valetudo/commit/6e2d2e1904040aa891dda5d35909654553e04eb7)\n- Introduce RobotFirmwareError and refactor CapabilityRouter for unified error logs [`1d2ad47`](https://github.com/Hypfer/Valetudo/commit/1d2ad47e9d49eac71f0621d2aa0444acf871acec)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
 }
