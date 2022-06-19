@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-18T02:54:38.526Z",
+  "timestamp": "2022-06-19T02:59:47.301Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "e2b53e347c9873c99a900dce26fbd8817c2fe24ed2cde9afd2641b4c631402cb",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "46ed606383d803642a65b92674b7178f4e01a7329de539b87fc9758414e16daf",
     "valetudo-aarch64.upx": "71f986c1960f28e805029deb30ebc7cc1fdbf652219c01013d28cd6fb3bca8d2"
   },
-  "changelog": "## Valetudo nightly (2022-06-18T02:54:38.093Z)\n\n### Refactoring\n\n- **webserver**: Response cleanup [`839310a`](https://github.com/Hypfer/Valetudo/commit/839310ab0941941d68ea4ba0c1fbfc17b8924443)\n- **webserver**: Actually make use of the openapi schema validation [`6e2d2e1`](https://github.com/Hypfer/Valetudo/commit/6e2d2e1904040aa891dda5d35909654553e04eb7)\n- Introduce RobotFirmwareError and refactor CapabilityRouter for unified error logs [`1d2ad47`](https://github.com/Hypfer/Valetudo/commit/1d2ad47e9d49eac71f0621d2aa0444acf871acec)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
+  "changelog": "## Valetudo nightly (2022-06-19T02:59:46.872Z)\n\n### Refactoring\n\n- **webserver**: Response cleanup [`839310a`](https://github.com/Hypfer/Valetudo/commit/839310ab0941941d68ea4ba0c1fbfc17b8924443)\n- **webserver**: Actually make use of the openapi schema validation [`6e2d2e1`](https://github.com/Hypfer/Valetudo/commit/6e2d2e1904040aa891dda5d35909654553e04eb7)\n- Introduce RobotFirmwareError and refactor CapabilityRouter for unified error logs [`1d2ad47`](https://github.com/Hypfer/Valetudo/commit/1d2ad47e9d49eac71f0621d2aa0444acf871acec)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
 }
