@@ -1,4 +1,12 @@
-## Valetudo nightly (2022-06-20T02:56:58.657Z)
+## Valetudo nightly (2022-06-21T03:00:08.943Z)
+
+### Features
+
+- **vendor.dreame**: Add Mop Dock UV-C Toggle Quirk [`7ce4abe`](https://github.com/Hypfer/Valetudo/commit/7ce4abe7353567fd3db6a7a9cc1c767d68a9db93)
+
+### Fixes
+
+- **webserver**: Fix openapi schema for MapSegmentEditCapability [`f106735`](https://github.com/Hypfer/Valetudo/commit/f106735cbae0eed2ebfebaa6843c7da976c5127e)
 
 ### Refactoring
 

@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-06-20T02:56:59.223Z",
+  "timestamp": "2022-06-21T03:00:09.388Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "e2b53e347c9873c99a900dce26fbd8817c2fe24ed2cde9afd2641b4c631402cb",
-    "valetudo-armv7-lowmem": "93f87fff137dc9a5036e8a10f60ef66b429450902ab0bddc59ec6dc6fddd3599",
-    "valetudo-aarch64": "c9830392936363922327a03b37aee3937ae706765ac0a9f59e8cf65f34271d59",
-    "valetudo-armv7.upx": "776a9726e0dbfc5f2d71b0d6d1906de4397ee458459a72bf31713bf5f43757b7",
-    "valetudo-armv7-lowmem.upx": "46ed606383d803642a65b92674b7178f4e01a7329de539b87fc9758414e16daf",
-    "valetudo-aarch64.upx": "71f986c1960f28e805029deb30ebc7cc1fdbf652219c01013d28cd6fb3bca8d2"
+    "valetudo-armv7": "4f8185a62f8fe909a1b96c40e622e65a7e908f5dc0720e328b5b6af9869cca74",
+    "valetudo-armv7-lowmem": "c87ed332b0e5febf204b065cb349d1120c0f86b8209a2d450db39aa6f1e5c157",
+    "valetudo-aarch64": "a1e1fa7b6a1d326c3d2c8f00088b7023a16f5bab40f9be474ae3772cefa1d678",
+    "valetudo-armv7.upx": "5282b4ad1db51100845e563d2353cecc175c5b50df6ae69c1839111132db013c",
+    "valetudo-armv7-lowmem.upx": "6d551192ecd66d298fe87a958d833fdcca6d36f61c6194eaf492b99df6c3f508",
+    "valetudo-aarch64.upx": "9d6b734d83a96957e5320c438c83ed8313b49daf7348f8fb3776abf52ced2f3a"
   },
-  "changelog": "## Valetudo nightly (2022-06-20T02:56:58.657Z)\n\n### Refactoring\n\n- **webserver**: Response cleanup [`839310a`](https://github.com/Hypfer/Valetudo/commit/839310ab0941941d68ea4ba0c1fbfc17b8924443)\n- **webserver**: Actually make use of the openapi schema validation [`6e2d2e1`](https://github.com/Hypfer/Valetudo/commit/6e2d2e1904040aa891dda5d35909654553e04eb7)\n- Introduce RobotFirmwareError and refactor CapabilityRouter for unified error logs [`1d2ad47`](https://github.com/Hypfer/Valetudo/commit/1d2ad47e9d49eac71f0621d2aa0444acf871acec)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
+  "changelog": "## Valetudo nightly (2022-06-21T03:00:08.943Z)\n\n### Features\n\n- **vendor.dreame**: Add Mop Dock UV-C Toggle Quirk [`7ce4abe`](https://github.com/Hypfer/Valetudo/commit/7ce4abe7353567fd3db6a7a9cc1c767d68a9db93)\n\n### Fixes\n\n- **webserver**: Fix openapi schema for MapSegmentEditCapability [`f106735`](https://github.com/Hypfer/Valetudo/commit/f106735cbae0eed2ebfebaa6843c7da976c5127e)\n\n### Refactoring\n\n- **webserver**: Response cleanup [`839310a`](https://github.com/Hypfer/Valetudo/commit/839310ab0941941d68ea4ba0c1fbfc17b8924443)\n- **webserver**: Actually make use of the openapi schema validation [`6e2d2e1`](https://github.com/Hypfer/Valetudo/commit/6e2d2e1904040aa891dda5d35909654553e04eb7)\n- Introduce RobotFirmwareError and refactor CapabilityRouter for unified error logs [`1d2ad47`](https://github.com/Hypfer/Valetudo/commit/1d2ad47e9d49eac71f0621d2aa0444acf871acec)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
 }
