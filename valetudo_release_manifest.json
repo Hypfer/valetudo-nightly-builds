@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-28T03:01:15.959Z",
+  "timestamp": "2022-06-29T03:03:32.139Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "4f8185a62f8fe909a1b96c40e622e65a7e908f5dc0720e328b5b6af9869cca74",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "6d551192ecd66d298fe87a958d833fdcca6d36f61c6194eaf492b99df6c3f508",
     "valetudo-aarch64.upx": "9d6b734d83a96957e5320c438c83ed8313b49daf7348f8fb3776abf52ced2f3a"
   },
-  "changelog": "## Valetudo nightly (2022-06-28T03:01:15.527Z)\n\n### Features\n\n- **vendor.dreame**: Add Mop Dock UV-C Toggle Quirk [`7ce4abe`](https://github.com/Hypfer/Valetudo/commit/7ce4abe7353567fd3db6a7a9cc1c767d68a9db93)\n\n### Fixes\n\n- **webserver**: Fix openapi schema for MapSegmentEditCapability [`f106735`](https://github.com/Hypfer/Valetudo/commit/f106735cbae0eed2ebfebaa6843c7da976c5127e)\n\n### Refactoring\n\n- **webserver**: Response cleanup [`839310a`](https://github.com/Hypfer/Valetudo/commit/839310ab0941941d68ea4ba0c1fbfc17b8924443)\n- **webserver**: Actually make use of the openapi schema validation [`6e2d2e1`](https://github.com/Hypfer/Valetudo/commit/6e2d2e1904040aa891dda5d35909654553e04eb7)\n- Introduce RobotFirmwareError and refactor CapabilityRouter for unified error logs [`1d2ad47`](https://github.com/Hypfer/Valetudo/commit/1d2ad47e9d49eac71f0621d2aa0444acf871acec)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
+  "changelog": "## Valetudo nightly (2022-06-29T03:03:31.686Z)\n\n### Features\n\n- **vendor.dreame**: Add Mop Dock UV-C Toggle Quirk [`7ce4abe`](https://github.com/Hypfer/Valetudo/commit/7ce4abe7353567fd3db6a7a9cc1c767d68a9db93)\n\n### Fixes\n\n- **webserver**: Fix openapi schema for MapSegmentEditCapability [`f106735`](https://github.com/Hypfer/Valetudo/commit/f106735cbae0eed2ebfebaa6843c7da976c5127e)\n\n### Refactoring\n\n- **webserver**: Response cleanup [`839310a`](https://github.com/Hypfer/Valetudo/commit/839310ab0941941d68ea4ba0c1fbfc17b8924443)\n- **webserver**: Actually make use of the openapi schema validation [`6e2d2e1`](https://github.com/Hypfer/Valetudo/commit/6e2d2e1904040aa891dda5d35909654553e04eb7)\n- Introduce RobotFirmwareError and refactor CapabilityRouter for unified error logs [`1d2ad47`](https://github.com/Hypfer/Valetudo/commit/1d2ad47e9d49eac71f0621d2aa0444acf871acec)\n\n### Chores\n\n- Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)\n"
 }
