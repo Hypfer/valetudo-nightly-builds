@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-06-29T03:03:31.686Z)
+## Valetudo nightly (2022-06-30T03:02:05.946Z)
 
 ### Features
 
@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Fix maps for newer firmwares [`5f67103`](https://github.com/Hypfer/Valetudo/commit/5f6710348fd304046a201c2423490555e44d3b20)
 - **webserver**: Fix openapi schema for MapSegmentEditCapability [`f106735`](https://github.com/Hypfer/Valetudo/commit/f106735cbae0eed2ebfebaa6843c7da976c5127e)
 
 ### Refactoring
