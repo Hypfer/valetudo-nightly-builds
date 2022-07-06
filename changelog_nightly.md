@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-07-05T03:03:16.534Z)
+## Valetudo nightly (2022-07-06T03:02:32.582Z)
 
 ### Features
 
@@ -17,4 +17,5 @@
 
 ### Chores
 
+- Update wording in VoicepackHelp.ts [`05a6b89`](https://github.com/Hypfer/Valetudo/commit/05a6b89848b5c1e9a04f4a822da58e03cd89b5f8)
 - Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)
