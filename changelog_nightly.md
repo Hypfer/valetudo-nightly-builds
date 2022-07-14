@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-07-13T03:00:56.426Z)
+## Valetudo nightly (2022-07-14T03:02:31.390Z)
 
 ### Features
 
@@ -20,6 +20,7 @@
 
 ### Chores
 
+- **ui**: Add missing rel="noopener" tag to menu bar [`a7e6920`](https://github.com/Hypfer/Valetudo/commit/a7e6920c7924b5db43b9eb086a434fddaa276d75)
 - **build**: Bump to NodeJS v18.5.0 [`66712f9`](https://github.com/Hypfer/Valetudo/commit/66712f91dd3f16c24b0b22b334a37ecfeb983df9)
 - Update wording in VoicepackHelp.ts [`05a6b89`](https://github.com/Hypfer/Valetudo/commit/05a6b89848b5c1e9a04f4a822da58e03cd89b5f8)
 - Update issue template [`cebca05`](https://github.com/Hypfer/Valetudo/commit/cebca057ceb05d202f3f76211a2e63290f39b002)
