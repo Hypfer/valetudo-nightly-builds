@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-07-17T03:06:00.048Z)
+## Valetudo nightly (2022-07-18T03:02:38.376Z)
 
 ### Features
 
@@ -7,6 +7,7 @@
 
 ### Fixes
 
+- **miio**: Gracefully handle connectivity issues when receiving fds uploads [`8aab94f`](https://github.com/Hypfer/Valetudo/commit/8aab94fa2ab01479997968904e9312fbc8111a83)
 - **vendor.dreame**: Ignore timezone update message [`5ecf7fa`](https://github.com/Hypfer/Valetudo/commit/5ecf7fa0842c498a2ad8abfd792a71b420ce34bf)
 - **ui**: Allow sending home basic control command while paused [`0dfb4ba`](https://github.com/Hypfer/Valetudo/commit/0dfb4ba59bd1334f994beea211ac17fdf5323f1f)
 - **vendor.dreame**: Fix maps for newer firmwares [`5f67103`](https://github.com/Hypfer/Valetudo/commit/5f6710348fd304046a201c2423490555e44d3b20)
