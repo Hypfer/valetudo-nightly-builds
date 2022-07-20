@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-07-19T03:09:59.825Z)
+## Valetudo nightly (2022-07-20T03:01:21.998Z)
 
 ### Features
 
@@ -21,6 +21,7 @@
 
 ### Chores
 
+- Add close_threads github workflow [`e10313d`](https://github.com/Hypfer/Valetudo/commit/e10313dc75a0f7867d64c195fbd9ef69ca3b199b)
 - **ui**: Add missing rel="noopener" tag to menu bar [`a7e6920`](https://github.com/Hypfer/Valetudo/commit/a7e6920c7924b5db43b9eb086a434fddaa276d75)
 - **build**: Bump to NodeJS v18.5.0 [`66712f9`](https://github.com/Hypfer/Valetudo/commit/66712f91dd3f16c24b0b22b334a37ecfeb983df9)
 - Update wording in VoicepackHelp.ts [`05a6b89`](https://github.com/Hypfer/Valetudo/commit/05a6b89848b5c1e9a04f4a822da58e03cd89b5f8)
