@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-07-21T03:01:52.177Z)
+## Valetudo nightly (2022-07-22T03:04:06.794Z)
 
 ### Features
 
@@ -21,6 +21,7 @@
 
 ### Chores
 
+- Add eslintrc flavors [`b3843f8`](https://github.com/Hypfer/Valetudo/commit/b3843f8bd3c95346735d674f7df4543ff5f78b81)
 - Add close_threads github workflow [`e10313d`](https://github.com/Hypfer/Valetudo/commit/e10313dc75a0f7867d64c195fbd9ef69ca3b199b)
 - **ui**: Add missing rel="noopener" tag to menu bar [`a7e6920`](https://github.com/Hypfer/Valetudo/commit/a7e6920c7924b5db43b9eb086a434fddaa276d75)
 - **build**: Bump to NodeJS v18.5.0 [`66712f9`](https://github.com/Hypfer/Valetudo/commit/66712f91dd3f16c24b0b22b334a37ecfeb983df9)
