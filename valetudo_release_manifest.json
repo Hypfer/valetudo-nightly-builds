@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-21T02:25:55.180Z",
+  "timestamp": "2023-07-22T02:22:35.654Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "625d4a4e8d805d4c683edc4e9844a23aa644fe1bada208ea71814ce7029c5b5c",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "d00426485d9f8657e77ac8f74912c0958c80df592ddfbff2cf1b997f09c0ab1a",
     "valetudo-aarch64.upx": "6cd277491ac6ccd97a9a4292fd51a497077d96b94358e90a6999819713f430e6"
   },
-  "changelog": "## Valetudo nightly (2023-07-21T02:25:54.441Z)\n\n### Features\n\n- **vendor.roborock**: S8 support + map parser cleanup [`12aa3a7`](https://github.com/Hypfer/Valetudo/commit/12aa3a73371cfd55d6ffa0a99575ba19ae523e73)\n- **vendor.dreame**: L10 Ultra [`4e4b7ae`](https://github.com/Hypfer/Valetudo/commit/4e4b7ae2641fff08bb91197b704e4ebf977901c9)\n\n### Chores\n\n- **build**: Include openAPI spec json as a release asset for prod and nightly [`db9f42e`](https://github.com/Hypfer/Valetudo/commit/db9f42ea8c0e727108a9680fc3c825753fd20131)\n"
+  "changelog": "## Valetudo nightly (2023-07-22T02:22:35.165Z)\n\n### Features\n\n- **vendor.roborock**: S8 support + map parser cleanup [`12aa3a7`](https://github.com/Hypfer/Valetudo/commit/12aa3a73371cfd55d6ffa0a99575ba19ae523e73)\n- **vendor.dreame**: L10 Ultra [`4e4b7ae`](https://github.com/Hypfer/Valetudo/commit/4e4b7ae2641fff08bb91197b704e4ebf977901c9)\n\n### Chores\n\n- **build**: Include openAPI spec json as a release asset for prod and nightly [`db9f42e`](https://github.com/Hypfer/Valetudo/commit/db9f42ea8c0e727108a9680fc3c825753fd20131)\n"
 }
