@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-07-29T02:19:44.053Z",
+  "timestamp": "2023-07-29T14:21:12.396Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "625d4a4e8d805d4c683edc4e9844a23aa644fe1bada208ea71814ce7029c5b5c",
-    "valetudo-armv7-lowmem": "ff4c030b774b0d89b14ccf211cf75dbc0cc234e1c3bb2396bb6521c0c4a6b637",
-    "valetudo-aarch64": "e2a8176a97ff4c80b0c499352608de91eae9620c512dbf67518687cc9c4c6481",
-    "valetudo-armv7.upx": "b79daf41f0bdcef5c3e78b746eab061350e1c5ebe5c22ba9402bd763b19812ba",
-    "valetudo-armv7-lowmem.upx": "d00426485d9f8657e77ac8f74912c0958c80df592ddfbff2cf1b997f09c0ab1a",
-    "valetudo-aarch64.upx": "6cd277491ac6ccd97a9a4292fd51a497077d96b94358e90a6999819713f430e6"
+    "valetudo-armv7": "81dbc1609e47fd1acf704b2379372c48fd4596714e2e614d7680001d8e5e902e",
+    "valetudo-armv7-lowmem": "24be0d496fc9cd7ac568cb6a35389442efa2b6ba46093b53e28116790540e1df",
+    "valetudo-aarch64": "1c165075d25670df28b7e9954130be1e5b176eb21d6f3bbfc5be54b2964ff029",
+    "valetudo-armv7.upx": "8b2c03aab6c37ae65fcb6a3f769faf3472b697151796e3dac4671ec1a1fd6b25",
+    "valetudo-armv7-lowmem.upx": "cc33cac24b5ac538eff436a2c52bcbf367df475962ad3076076d4ce12944592a",
+    "valetudo-aarch64.upx": "a75d39a96fb4ece1d3442c8f0475449cff8887079002f44507cc05db5339d869"
   },
-  "changelog": "## Valetudo nightly (2023-07-29T02:19:43.653Z)\n\n### Features\n\n- **vendor.roborock**: S8 support + map parser cleanup [`12aa3a7`](https://github.com/Hypfer/Valetudo/commit/12aa3a73371cfd55d6ffa0a99575ba19ae523e73)\n- **vendor.dreame**: L10 Ultra [`4e4b7ae`](https://github.com/Hypfer/Valetudo/commit/4e4b7ae2641fff08bb91197b704e4ebf977901c9)\n\n### Chores\n\n- **build**: Include openAPI spec json as a release asset for prod and nightly [`db9f42e`](https://github.com/Hypfer/Valetudo/commit/db9f42ea8c0e727108a9680fc3c825753fd20131)\n"
+  "changelog": "## Valetudo nightly (2023-07-29T14:21:11.991Z)\n\n### Features\n\n- **vendor.roborock**: S8 Pro Ultra support [`0f390e0`](https://github.com/Hypfer/Valetudo/commit/0f390e0c6dfdee6cd1773765881906e2d355fbf1)\n- **vendor.viomi**: Support outline cleaning mode (#1844) [`f68b995`](https://github.com/Hypfer/Valetudo/commit/f68b99586f69a7644f75cf4fff1e33ccd3f4a5ef)\n- CarpetSensorModeControlCapability [`a4261b6`](https://github.com/Hypfer/Valetudo/commit/a4261b641e21a3fa8674c68042f1114a21181065)\n- CollisionAvoidantNavigationControlCapability [`e22e532`](https://github.com/Hypfer/Valetudo/commit/e22e532982673fcc95ec6ece9740e078626ac51e)\n- **vendor.dreame**: More quirks [`5a3ecc6`](https://github.com/Hypfer/Valetudo/commit/5a3ecc64c5f5499bb9cf2b43ce1e22850fb4622c)\n- PetObstacleAvoidanceControlCapability [`7eae549`](https://github.com/Hypfer/Valetudo/commit/7eae549ee55331ddf888383cd3d0b83ab7421fb2)\n- **vendor.roborock**: RoborockObstacleAvoidanceControlCapability [`bd1febe`](https://github.com/Hypfer/Valetudo/commit/bd1febe337192a31185a1bb316793d029da4abff)\n- Return of the ObstacleAvoidanceControlCapability [`e48aa7e`](https://github.com/Hypfer/Valetudo/commit/e48aa7e78de3ddd8d27056fe15dc61387f15b89b)\n- **vendor.roborock**: S8 support + map parser cleanup [`12aa3a7`](https://github.com/Hypfer/Valetudo/commit/12aa3a73371cfd55d6ffa0a99575ba19ae523e73)\n- **vendor.dreame**: L10 Ultra [`4e4b7ae`](https://github.com/Hypfer/Valetudo/commit/4e4b7ae2641fff08bb91197b704e4ebf977901c9)\n\n### Refactoring\n\n- **vendor.dreame**: Hard-code miot IDs for capabilities that are exclusive to the gen2 miot schema [`ef93adf`](https://github.com/Hypfer/Valetudo/commit/ef93adf2d5259e7537f1983eed2848e0df030ef8)\n\n### Chores\n\n- **build**: Include openAPI spec json as a release asset for prod and nightly [`db9f42e`](https://github.com/Hypfer/Valetudo/commit/db9f42ea8c0e727108a9680fc3c825753fd20131)\n"
 }
