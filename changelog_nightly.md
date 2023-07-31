@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-07-30T02:23:22.862Z)
+## Valetudo nightly (2023-07-31T02:22:52.442Z)
 
 ### Features
 
@@ -24,4 +24,6 @@
 
 ### Chores
 
+- Update PR template [`0ffa7b4`](https://github.com/Hypfer/Valetudo/commit/0ffa7b407a28859af8b0b3687976193922db97f0)
+- **vendor.dreame**: Minor cleanup of confusing loglines [`eb73525`](https://github.com/Hypfer/Valetudo/commit/eb7352565f7c55d2dd783fedb1d2f9c7a2abc166)
 - **build**: Include openAPI spec json as a release asset for prod and nightly [`db9f42e`](https://github.com/Hypfer/Valetudo/commit/db9f42ea8c0e727108a9680fc3c825753fd20131)
