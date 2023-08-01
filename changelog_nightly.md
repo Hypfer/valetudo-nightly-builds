@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-07-31T02:22:52.442Z)
+## Valetudo nightly (2023-08-01T02:27:37.544Z)
 
 ### Features
 
@@ -16,6 +16,7 @@
 
 ### Fixes
 
+- **vendor.roborock**: Remove invalid quirk for S8 series [`76bba87`](https://github.com/Hypfer/Valetudo/commit/76bba87a3976bdfefec899eb7d8d9b84449e7bba)
 - **vendor.dreame**: The L10S Pro does not support the CollisionAvoidantNavigationControlCapability [`c3405bd`](https://github.com/Hypfer/Valetudo/commit/c3405bdb8ebbd930a21835152211b2e8363da705)
 
 ### Refactoring
