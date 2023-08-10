@@ -1,7 +1,8 @@
-## Valetudo nightly (2023-08-09T02:21:44.259Z)
+## Valetudo nightly (2023-08-10T02:24:34.877Z)
 
 ### Features
 
+- **ui**: Include consumable name in consumable reset confirm dialog [`7f7b218`](https://github.com/Hypfer/Valetudo/commit/7f7b218001c4355ae069e31bb9f30786f0f5daf4)
 - **mqtt**: Expose battery state and status flag as home assistant sensor entities [`5f26145`](https://github.com/Hypfer/Valetudo/commit/5f2614580ed7390ea8467174c310a36b8ab99709)
 - **vendor.roborock**: S8 Pro Ultra support [`0f390e0`](https://github.com/Hypfer/Valetudo/commit/0f390e0c6dfdee6cd1773765881906e2d355fbf1)
 - **vendor.viomi**: Support outline cleaning mode (#1844) [`f68b995`](https://github.com/Hypfer/Valetudo/commit/f68b99586f69a7644f75cf4fff1e33ccd3f4a5ef)
