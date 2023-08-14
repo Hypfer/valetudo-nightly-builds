@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-08-13T02:13:06.915Z",
+  "timestamp": "2023-08-14T02:14:06.684Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "2cd525dfb3063e82b41b0035c793128e574d31e8523fed7694596cb3abc4f6e5",
-    "valetudo-armv7-lowmem": "a6ae80f0866496d95acabc6274cf1ec9207f1dffc8398967966454f3bd5fc7b9",
-    "valetudo-aarch64": "abe7e4a5270340b26c26affef891d92647667a3a479132b7c5b7194d73a15320",
-    "valetudo-armv7.upx": "96cd7d24b4f9caf6d00272e721af7842fd78a50ceea8d20be2229133e8cd4fd8",
-    "valetudo-armv7-lowmem.upx": "3e3e48389f5a912fa96d105966568fe42265c9bc528c18f83179b4fcdd1ecb76",
-    "valetudo-aarch64.upx": "c9fc9683d66243f350d88f8e30dcaada7bd637e32cebf82dadcfd05e44cc931f"
+    "valetudo-armv7": "2ce7678353fcf67ec33116161b145472d231ac3140b5193ba75d1cd325b1d308",
+    "valetudo-armv7-lowmem": "950b3869baf48bb1e1e9f2d4258a0fe28f46766cd1df8b20de887a63e2427530",
+    "valetudo-aarch64": "6d6b6a23d21b7a0a2897b8825cb5185ce81768efe6c32e1168858ed07309be31",
+    "valetudo-armv7.upx": "f01a582a50e94443b9a11bf764ed7aa148a441430798d17fd7c484f519740828",
+    "valetudo-armv7-lowmem.upx": "e2f6a16890219ef17302a7c0b7d911b18640f1e02b0706e807afa1feeebde4f6",
+    "valetudo-aarch64.upx": "ca35bed66194521df65a129a98b9b64f7d8f34ce3c60496d709f258cf0eac854"
   },
-  "changelog": "## Valetudo nightly (2023-08-13T02:13:06.504Z)\n\n### Features\n\n- **ui**: Include consumable name in consumable reset confirm dialog [`7f7b218`](https://github.com/Hypfer/Valetudo/commit/7f7b218001c4355ae069e31bb9f30786f0f5daf4)\n- **mqtt**: Expose battery state and status flag as home assistant sensor entities [`5f26145`](https://github.com/Hypfer/Valetudo/commit/5f2614580ed7390ea8467174c310a36b8ab99709)\n- **vendor.roborock**: S8 Pro Ultra support [`0f390e0`](https://github.com/Hypfer/Valetudo/commit/0f390e0c6dfdee6cd1773765881906e2d355fbf1)\n- **vendor.viomi**: Support outline cleaning mode (#1844) [`f68b995`](https://github.com/Hypfer/Valetudo/commit/f68b99586f69a7644f75cf4fff1e33ccd3f4a5ef)\n- CarpetSensorModeControlCapability [`a4261b6`](https://github.com/Hypfer/Valetudo/commit/a4261b641e21a3fa8674c68042f1114a21181065)\n- CollisionAvoidantNavigationControlCapability [`e22e532`](https://github.com/Hypfer/Valetudo/commit/e22e532982673fcc95ec6ece9740e078626ac51e)\n- **vendor.dreame**: More quirks [`5a3ecc6`](https://github.com/Hypfer/Valetudo/commit/5a3ecc64c5f5499bb9cf2b43ce1e22850fb4622c)\n- PetObstacleAvoidanceControlCapability [`7eae549`](https://github.com/Hypfer/Valetudo/commit/7eae549ee55331ddf888383cd3d0b83ab7421fb2)\n- **vendor.roborock**: RoborockObstacleAvoidanceControlCapability [`bd1febe`](https://github.com/Hypfer/Valetudo/commit/bd1febe337192a31185a1bb316793d029da4abff)\n- Return of the ObstacleAvoidanceControlCapability [`e48aa7e`](https://github.com/Hypfer/Valetudo/commit/e48aa7e78de3ddd8d27056fe15dc61387f15b89b)\n- **vendor.roborock**: S8 support + map parser cleanup [`12aa3a7`](https://github.com/Hypfer/Valetudo/commit/12aa3a73371cfd55d6ffa0a99575ba19ae523e73)\n- **vendor.dreame**: L10 Ultra [`4e4b7ae`](https://github.com/Hypfer/Valetudo/commit/4e4b7ae2641fff08bb91197b704e4ebf977901c9)\n\n### Fixes\n\n- **vendor.roborock**: Remove invalid quirk for S8 series [`76bba87`](https://github.com/Hypfer/Valetudo/commit/76bba87a3976bdfefec899eb7d8d9b84449e7bba)\n- **vendor.dreame**: The L10S Pro does not support the CollisionAvoidantNavigationControlCapability [`c3405bd`](https://github.com/Hypfer/Valetudo/commit/c3405bdb8ebbd930a21835152211b2e8363da705)\n\n### Refactoring\n\n- **vendor.dreame**: Hard-code miot IDs for capabilities that are exclusive to the gen2 miot schema [`ef93adf`](https://github.com/Hypfer/Valetudo/commit/ef93adf2d5259e7537f1983eed2848e0df030ef8)\n\n### Chores\n\n- Update PR template [`0ffa7b4`](https://github.com/Hypfer/Valetudo/commit/0ffa7b407a28859af8b0b3687976193922db97f0)\n- **vendor.dreame**: Minor cleanup of confusing loglines [`eb73525`](https://github.com/Hypfer/Valetudo/commit/eb7352565f7c55d2dd783fedb1d2f9c7a2abc166)\n- **build**: Include openAPI spec json as a release asset for prod and nightly [`db9f42e`](https://github.com/Hypfer/Valetudo/commit/db9f42ea8c0e727108a9680fc3c825753fd20131)\n"
+  "changelog": "## Valetudo nightly (2023-08-14T02:14:06.254Z)\n"
 }
