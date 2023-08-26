@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-25T02:14:15.841Z",
+  "timestamp": "2023-08-26T02:11:48.777Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "e80e3aaeb3d4407904f174f62fb70b30fb38eaed198eb79680c152a27056bb1a",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "94a75203d0b30baa8ee4453abeee05b51f7c5000c4081d44898521e700b48505",
     "valetudo-aarch64.upx": "9fee34f2a365a394f712e34323172dcd138e8a66bf4b21e2a74a582fe4d86eaa"
   },
-  "changelog": "## Valetudo nightly (2023-08-25T02:14:15.428Z)\n### Breaking Changes\n\n- **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)\n\n### Fixes\n\n- **ui**: Correctly scale map structures during pinch zoom [`1e0a306`](https://github.com/Hypfer/Valetudo/commit/1e0a306da22fa5cbd0dfe7f676a766cfa2457b02)\n\n### Refactoring\n\n- **ui**: Remove no longer needed workaround for a bug in DOMMatrix.invertSelf in Blink 107 [`9acc263`](https://github.com/Hypfer/Valetudo/commit/9acc2633a4dcfa52e7023c31714fdec362f60151)\n"
+  "changelog": "## Valetudo nightly (2023-08-26T02:11:48.399Z)\n### Breaking Changes\n\n- **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)\n\n### Fixes\n\n- **ui**: Correctly scale map structures during pinch zoom [`1e0a306`](https://github.com/Hypfer/Valetudo/commit/1e0a306da22fa5cbd0dfe7f676a766cfa2457b02)\n\n### Refactoring\n\n- **ui**: Remove no longer needed workaround for a bug in DOMMatrix.invertSelf in Blink 107 [`9acc263`](https://github.com/Hypfer/Valetudo/commit/9acc2633a4dcfa52e7023c31714fdec362f60151)\n"
 }
