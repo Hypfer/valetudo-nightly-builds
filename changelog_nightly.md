@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-08-28T02:13:49.869Z)
+## Valetudo nightly (2023-08-29T02:41:55.724Z)
 ### Breaking Changes
 
 - **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)
@@ -14,4 +14,5 @@
 
 ### Refactoring
 
+- Remove old config migration code [`d34f49c`](https://github.com/Hypfer/Valetudo/commit/d34f49cb535e2ed6984eedbccd95288a495a2936)
 - **ui**: Remove no longer needed workaround for a bug in DOMMatrix.invertSelf in Blink 107 [`9acc263`](https://github.com/Hypfer/Valetudo/commit/9acc2633a4dcfa52e7023c31714fdec362f60151)
