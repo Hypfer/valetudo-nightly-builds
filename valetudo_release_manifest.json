@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-08-29T02:41:56.110Z",
+  "timestamp": "2023-08-30T02:13:18.217Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "29311ac5ee9da394422190d2709e9379cf2a1d28ec221660247871967820074a",
-    "valetudo-armv7-lowmem": "a0cd8ac569e2b72a32200a68800a17d5f2fc0aba4e5125d7f8266d38686e60b2",
-    "valetudo-aarch64": "038942cb52da62f3eab6b4c29a95d7e3632b146b17917e411d1368065bcc6153",
-    "valetudo-armv7.upx": "d9982701bcea84a9d5dd86e0e7f1f073b6449ae043e4952f60a3c32786406186",
-    "valetudo-armv7-lowmem.upx": "670450c0c93f8a07f3ce86f0fbb9b945fe36f8922015f13152a4001fbe6acf8f",
-    "valetudo-aarch64.upx": "953010ed36f8cb45f3a5f0edf294b5d123acd918f9cf05ccb3cefa6f490d228c"
+    "valetudo-armv7": "aabace40e660dc6a2488b0d4f4294d8ba092a41effbba11e8cca107533afe7ae",
+    "valetudo-armv7-lowmem": "7206ac36e757bc4564b69d2ecd0c2b69af8e01594bfbf946bd9d776a9e298664",
+    "valetudo-aarch64": "cf648153d0401c132475bd24698f18a50a3e0771ec4e6d252f244083e54ccdde",
+    "valetudo-armv7.upx": "3dafeb6f7ef7d6ee03441e3063e6dcf3ce367546a4ee7640df1e453ac5efbc19",
+    "valetudo-armv7-lowmem.upx": "d354871615ea99b90f0c236e570469579c4f8212f8c92626aa0306df261b4c4c",
+    "valetudo-aarch64.upx": "71b15a6daab3d3dbd0f39c0d0eb1e124a793043b13554fccbfb67cb460870889"
   },
-  "changelog": "## Valetudo nightly (2023-08-29T02:41:55.724Z)\n### Breaking Changes\n\n- **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)\n\n### Features\n\n- Allow skipping the wifi credential validation [`810e2e7`](https://github.com/Hypfer/Valetudo/commit/810e2e7a0df5208304452052b9e340379b97878d)\n- **vendor.roborock**: G10S support [`7e4fdfe`](https://github.com/Hypfer/Valetudo/commit/7e4fdfe0e003a661bffd4c838340ba0fdcbf6a8b)\n\n### Fixes\n\n- **ui**: Correctly scale map structures during pinch zoom [`1e0a306`](https://github.com/Hypfer/Valetudo/commit/1e0a306da22fa5cbd0dfe7f676a766cfa2457b02)\n\n### Refactoring\n\n- Remove old config migration code [`d34f49c`](https://github.com/Hypfer/Valetudo/commit/d34f49cb535e2ed6984eedbccd95288a495a2936)\n- **ui**: Remove no longer needed workaround for a bug in DOMMatrix.invertSelf in Blink 107 [`9acc263`](https://github.com/Hypfer/Valetudo/commit/9acc2633a4dcfa52e7023c31714fdec362f60151)\n"
+  "changelog": "## Valetudo nightly (2023-08-30T02:13:17.833Z)\n### Breaking Changes\n\n- **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)\n\n### Features\n\n- **vendor.dreame**: W10 Pro [`db52169`](https://github.com/Hypfer/Valetudo/commit/db5216979e95a29fa1b47a7893f0b0d8ad6696fd)\n- Allow skipping the wifi credential validation [`810e2e7`](https://github.com/Hypfer/Valetudo/commit/810e2e7a0df5208304452052b9e340379b97878d)\n- **vendor.roborock**: G10S support [`7e4fdfe`](https://github.com/Hypfer/Valetudo/commit/7e4fdfe0e003a661bffd4c838340ba0fdcbf6a8b)\n\n### Fixes\n\n- **ui**: Correctly scale map structures during pinch zoom [`1e0a306`](https://github.com/Hypfer/Valetudo/commit/1e0a306da22fa5cbd0dfe7f676a766cfa2457b02)\n\n### Refactoring\n\n- Remove old config migration code [`d34f49c`](https://github.com/Hypfer/Valetudo/commit/d34f49cb535e2ed6984eedbccd95288a495a2936)\n- **ui**: Remove no longer needed workaround for a bug in DOMMatrix.invertSelf in Blink 107 [`9acc263`](https://github.com/Hypfer/Valetudo/commit/9acc2633a4dcfa52e7023c31714fdec362f60151)\n"
 }
