@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-08-30T02:13:17.833Z)
+## Valetudo nightly (2023-08-31T02:15:24.296Z)
 ### Breaking Changes
 
 - **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)
@@ -11,6 +11,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Map error code 69 & 70 [`fd8193a`](https://github.com/Hypfer/Valetudo/commit/fd8193ae8be711a3206947b207624153e0e45348)
 - **ui**: Correctly scale map structures during pinch zoom [`1e0a306`](https://github.com/Hypfer/Valetudo/commit/1e0a306da22fa5cbd0dfe7f676a766cfa2457b02)
 
 ### Refactoring
