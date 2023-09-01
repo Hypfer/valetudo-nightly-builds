@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-08-31T02:15:24.296Z)
+## Valetudo nightly (2023-09-01T02:18:22.966Z)
 ### Breaking Changes
 
 - **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)
