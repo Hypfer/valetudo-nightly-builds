@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-09-06T02:13:42.227Z",
+  "timestamp": "2023-09-07T02:15:08.977Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "3d003e3552cc6ce695356aa62bca2e7abd94a429e0cf467a02bad0af5fed8106",
-    "valetudo-armv7-lowmem": "ab1524f602d05d5444fcbc8bf9ab40ec7df83e33a0a7b04593028c493fbb0f6c",
-    "valetudo-aarch64": "822eb62fe741820a70f92927b8373252f560daadfc42247b22d0d56a3f8bbf15",
-    "valetudo-armv7.upx": "a52b6de2027109dc43ca59d6b3eba062e9743f406525bffc1c0fc85d6f86741d",
-    "valetudo-armv7-lowmem.upx": "afffc4b9278b2acb997e93bfc92efcf7841deef6ef9991e2127be72f1b66c17b",
-    "valetudo-aarch64.upx": "76ed720c5f370c4c7dc0467642db55e8514aaf3910b939073b15877636bde020"
+    "valetudo-armv7": "804d9525b54255c60b9b4b83ddfa304a2a55d8bed8a081f94ec59ea19bdd0a68",
+    "valetudo-armv7-lowmem": "b411f2b0c215a54b99ee36d7080210e0924505de180099a0e1de21b597a190b8",
+    "valetudo-aarch64": "4117e1574bbe092b9b84f723b2002c01cc7f344d5e9872a8500c93e37b01ff53",
+    "valetudo-armv7.upx": "ad203065011ed241353292b1c671c72df6d1c82cfcfa877e3bdd5562c5d63602",
+    "valetudo-armv7-lowmem.upx": "97fd06790b3e951b4de5bade6cf637c90623ff8a1f8d516f764e3d7f24ea3eec",
+    "valetudo-aarch64.upx": "d977c9cf932e3170d2a0c608ec8d050e71a01683d5ac3c11319d46c2cf0589de"
   },
-  "changelog": "## Valetudo nightly (2023-09-06T02:13:41.836Z)\n### Breaking Changes\n\n- **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)\n\n### Features\n\n- **vendor.dreame**: W10 Pro [`db52169`](https://github.com/Hypfer/Valetudo/commit/db5216979e95a29fa1b47a7893f0b0d8ad6696fd)\n- Allow skipping the wifi credential validation [`810e2e7`](https://github.com/Hypfer/Valetudo/commit/810e2e7a0df5208304452052b9e340379b97878d)\n- **vendor.roborock**: G10S support [`7e4fdfe`](https://github.com/Hypfer/Valetudo/commit/7e4fdfe0e003a661bffd4c838340ba0fdcbf6a8b)\n\n### Fixes\n\n- **vendor.dreame**: Map error code 69 & 70 [`fd8193a`](https://github.com/Hypfer/Valetudo/commit/fd8193ae8be711a3206947b207624153e0e45348)\n- **ui**: Correctly scale map structures during pinch zoom [`1e0a306`](https://github.com/Hypfer/Valetudo/commit/1e0a306da22fa5cbd0dfe7f676a766cfa2457b02)\n\n### Refactoring\n\n- Remove old config migration code [`d34f49c`](https://github.com/Hypfer/Valetudo/commit/d34f49cb535e2ed6984eedbccd95288a495a2936)\n- **ui**: Remove no longer needed workaround for a bug in DOMMatrix.invertSelf in Blink 107 [`9acc263`](https://github.com/Hypfer/Valetudo/commit/9acc2633a4dcfa52e7023c31714fdec362f60151)\n"
+  "changelog": "## Valetudo nightly (2023-09-07T02:15:08.494Z)\n### Breaking Changes\n\n- **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)\n\n### Features\n\n- **MockRobot**: Mock more capabilities [`5987b91`](https://github.com/Hypfer/Valetudo/commit/5987b918549bae14b40f04607c2ddf9ccf2f20d8)\n- **vendor.dreame**: W10 Pro [`db52169`](https://github.com/Hypfer/Valetudo/commit/db5216979e95a29fa1b47a7893f0b0d8ad6696fd)\n- Allow skipping the wifi credential validation [`810e2e7`](https://github.com/Hypfer/Valetudo/commit/810e2e7a0df5208304452052b9e340379b97878d)\n- **vendor.roborock**: G10S support [`7e4fdfe`](https://github.com/Hypfer/Valetudo/commit/7e4fdfe0e003a661bffd4c838340ba0fdcbf6a8b)\n\n### Fixes\n\n- **vendor.dreame**: Map error code 69 & 70 [`fd8193a`](https://github.com/Hypfer/Valetudo/commit/fd8193ae8be711a3206947b207624153e0e45348)\n- **ui**: Correctly scale map structures during pinch zoom [`1e0a306`](https://github.com/Hypfer/Valetudo/commit/1e0a306da22fa5cbd0dfe7f676a766cfa2457b02)\n\n### Refactoring\n\n- Remove old config migration code [`d34f49c`](https://github.com/Hypfer/Valetudo/commit/d34f49cb535e2ed6984eedbccd95288a495a2936)\n- **ui**: Remove no longer needed workaround for a bug in DOMMatrix.invertSelf in Blink 107 [`9acc263`](https://github.com/Hypfer/Valetudo/commit/9acc2633a4dcfa52e7023c31714fdec362f60151)\n"
 }
