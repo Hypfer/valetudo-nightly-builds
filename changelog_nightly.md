@@ -1,11 +1,11 @@
-## Valetudo nightly (2023-09-07T02:15:08.494Z)
+## Valetudo nightly (2023-09-08T02:14:26.680Z)
 ### Breaking Changes
 
 - **mqtt**: Comply with new home assistant 2023.8 naming requirements [`9d0fed1`](https://github.com/Hypfer/Valetudo/commit/9d0fed13cbb6b20ccbb3a0e79111382bcda6b9fc)
 
 ### Features
 
-- **MockRobot**: Mock more capabilities [`5987b91`](https://github.com/Hypfer/Valetudo/commit/5987b918549bae14b40f04607c2ddf9ccf2f20d8)
+- **MockRobot**: Mock more capabilities [`a7179d2`](https://github.com/Hypfer/Valetudo/commit/a7179d218ba699caf9c7d6a03fc3b5030b694f9d)
 - **vendor.dreame**: W10 Pro [`db52169`](https://github.com/Hypfer/Valetudo/commit/db5216979e95a29fa1b47a7893f0b0d8ad6696fd)
 - Allow skipping the wifi credential validation [`810e2e7`](https://github.com/Hypfer/Valetudo/commit/810e2e7a0df5208304452052b9e340379b97878d)
 - **vendor.roborock**: G10S support [`7e4fdfe`](https://github.com/Hypfer/Valetudo/commit/7e4fdfe0e003a661bffd4c838340ba0fdcbf6a8b)
