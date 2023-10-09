@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-08T02:18:31.329Z",
+  "timestamp": "2023-10-09T02:15:21.026Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "f14586526e93b1d8a059b38dd0b3e296d460f4da045e98b48e405a3f85b47e4d",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "c7cf2b7a1d9eb5b966ba245564c445fa2ab9762fda442796366eaca97852ebdc",
     "valetudo-aarch64.upx": "7f83c613f91e183d60e68b230ef2c23b58e65ed17c679de9af8696c67159da95"
   },
-  "changelog": "## Valetudo nightly (2023-10-08T02:18:30.740Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
+  "changelog": "## Valetudo nightly (2023-10-09T02:15:20.534Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
 }
