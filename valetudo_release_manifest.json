@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-10-11T02:15:25.472Z",
+  "timestamp": "2023-10-12T02:14:39.363Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "f14586526e93b1d8a059b38dd0b3e296d460f4da045e98b48e405a3f85b47e4d",
-    "valetudo-armv7-lowmem": "54aaa3bc3a4e1cbfafe857c53f23c07ba81a6f45d08b6f6131dd7a026195532c",
-    "valetudo-aarch64": "89d085eb85bbe09bb5f5a9453fdf43599b7042c4455e50b2d1203099ac240d2f",
-    "valetudo-armv7.upx": "29bc89ff690a746a9fb6579fb11aac3cf61d1abf3a2d426862982003b6d4a510",
-    "valetudo-armv7-lowmem.upx": "c7cf2b7a1d9eb5b966ba245564c445fa2ab9762fda442796366eaca97852ebdc",
-    "valetudo-aarch64.upx": "7f83c613f91e183d60e68b230ef2c23b58e65ed17c679de9af8696c67159da95"
+    "valetudo-armv7": "2b2179e939b24f9091920f62172cc1d8154bdb98d0493f141779a43eddc726d9",
+    "valetudo-armv7-lowmem": "9f0fc398cd41f332dfde1024e44224b7d59d2701802069c011f3b6cf76eacd97",
+    "valetudo-aarch64": "16fd9284e7b7fa8f95137c8db66b987ff0599263111910b19b3a35a514946fcf",
+    "valetudo-armv7.upx": "9470334293a0661b00316c5339b239fd5df3faf4fe0c3df97e9670f7691a1cfd",
+    "valetudo-armv7-lowmem.upx": "3b935c1d312cd0dc153116d9036d3550fc0d4ebfbb137618d280bd12c966fa2c",
+    "valetudo-aarch64.upx": "bda09f52723c4faac9fff3ec483c0ab879529cc0b5c1b527c794cdf133add378"
   },
-  "changelog": "## Valetudo nightly (2023-10-11T02:15:24.980Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
+  "changelog": "## Valetudo nightly (2023-10-12T02:14:38.849Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
 }
