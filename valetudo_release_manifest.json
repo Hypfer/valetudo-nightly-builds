@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-10-26T02:13:53.514Z",
+  "timestamp": "2023-10-27T02:14:22.831Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "2740aababd03ab06614e3d359cf02f75b7a3b0f4168c20b162239b4cc2547394",
-    "valetudo-armv7-lowmem": "182c837942ed1e932e129285a53f88213c7b0bf36cf40a08998294477c8e6ddf",
-    "valetudo-aarch64": "19b0fa3124683bb399d3b9eb50c981389455a2b3bf2ba26ba042fb655ecbd302",
-    "valetudo-armv7.upx": "be47e3d023ea79b9871ef706156e4950f0f5fe5e07072ef81663e438175330e2",
-    "valetudo-armv7-lowmem.upx": "2f60bf47ebf04f7afb515e107e939914be68b739fd9a1135737c435eccaac75b",
-    "valetudo-aarch64.upx": "98f0414cab09502bb80845811448cfe09aa1121aae3c68619aa34fe8c82fdef3"
+    "valetudo-armv7": "f4e0480d5d71e9c8b71051a30d8803b77074c57bd97799a9be0497e83eb0e23f",
+    "valetudo-armv7-lowmem": "23c1ae33cb918d4e6ecff4b4585c079b37d5a5ee69bf0ec175e7488580e1d04a",
+    "valetudo-aarch64": "df38f1d3589e92a4e13938be39cfc3f5182a20431ba1bac1fd0652f05a24914d",
+    "valetudo-armv7.upx": "c09f828d2fd7a9f0a428a8040c197684a470a0624a98d8614bb1ba6782e5d3e8",
+    "valetudo-armv7-lowmem.upx": "a9b54a66eaaf3676f6d8a07621cf7b6631eeca35b1765940833be6375e10d957",
+    "valetudo-aarch64.upx": "cb0a2920439c1828b9b7a9b77e35710b65f0fbf63700352239f1dfa71d618079"
   },
-  "changelog": "## Valetudo nightly (2023-10-26T02:13:53.036Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
+  "changelog": "## Valetudo nightly (2023-10-27T02:14:22.379Z)\n\n### Features\n\n- **mqtt**: Add device_class attribute to battery and WiFi sensors for Home Assistant  (#1910) [`aac0f51`](https://github.com/Hypfer/Valetudo/commit/aac0f51da1d8009cee8380dcee81dda8eafdf3f1)\n- **vendor.dreame**: Edge mopping for the L10 Ultra [`744fe20`](https://github.com/Hypfer/Valetudo/commit/744fe20833deec24a069029a22df8df6a0465d9c)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
 }
