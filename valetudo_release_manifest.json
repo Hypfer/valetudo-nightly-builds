@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-11-18T02:16:22.237Z",
+  "timestamp": "2023-11-19T02:19:07.316Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "4db640822760938f065d04fb3b30f4e761012553f35310408dbe20649afc3e3a",
-    "valetudo-armv7-lowmem": "b931c5e28529e68d67938b08feb4d2496841ae430239a46d11a2494c3bc93fc1",
-    "valetudo-aarch64": "b56b5ffd09b0a2489611922f1bdbcb8542251fd56ef7ccaec1421940eedcad42",
-    "valetudo-armv7.upx": "69ac02d5c3e46d372f8210eb4fed2eb487c02cb732cd8305e07b44580e4c7baf",
-    "valetudo-armv7-lowmem.upx": "4567ce139385f6d2791a2912c024f1c3ed6cbd43f2b3acf071c6f0f8dc288aab",
-    "valetudo-aarch64.upx": "594eb3fd99572291d4bfefa2ccbeac5fe4e738ff4ed06f8d4fe8e112277f70c5"
+    "valetudo-armv7": "43608d75585353d0d79866d6840ab70553f55a1dbcccf0eb0012a68568b6139d",
+    "valetudo-armv7-lowmem": "9912b98e3adf9406e6d08555b1bfd4458fe2bfda49373237e7ad607e63fbed77",
+    "valetudo-aarch64": "fc4af488d544c7c0c0396505558dc83545c5d6aa3532c8b3a1a86385306e1d6c",
+    "valetudo-armv7.upx": "98112ff4fad95b2ee7a26847ad4463a691a8576a8bb1efe81b734b9cae76cb9a",
+    "valetudo-armv7-lowmem.upx": "7c3e9c60f5365804aaa5fdcad640e06c32e0fbdd68dcc111a41d799964474ff2",
+    "valetudo-aarch64.upx": "b58e0433b1bc972525ef2b45e98d070b47f52d17baa48baeca56b30c050f465e"
   },
-  "changelog": "## Valetudo nightly (2023-11-18T02:16:21.858Z)\n\n### Features\n\n- Set the embedded process priority to below normal for good measure [`eadc2a7`](https://github.com/Hypfer/Valetudo/commit/eadc2a7a047531722c1a59729fcb5cde5e565bfa)\n- **mqtt**: Add device_class attribute to battery and WiFi sensors for Home Assistant  (#1910) [`aac0f51`](https://github.com/Hypfer/Valetudo/commit/aac0f51da1d8009cee8380dcee81dda8eafdf3f1)\n- **vendor.dreame**: Edge mopping for the L10 Ultra [`744fe20`](https://github.com/Hypfer/Valetudo/commit/744fe20833deec24a069029a22df8df6a0465d9c)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
+  "changelog": "## Valetudo nightly (2023-11-19T02:19:06.940Z)\n\n### Features\n\n- **vendor.roborock**: Dock dustbin consumable for all auto-empty docks [`e3d13fa`](https://github.com/Hypfer/Valetudo/commit/e3d13fa521b9944e9e2040f96847002f5feaa1e9)\n- Set the embedded process priority to below normal for good measure [`eadc2a7`](https://github.com/Hypfer/Valetudo/commit/eadc2a7a047531722c1a59729fcb5cde5e565bfa)\n- **mqtt**: Add device_class attribute to battery and WiFi sensors for Home Assistant  (#1910) [`aac0f51`](https://github.com/Hypfer/Valetudo/commit/aac0f51da1d8009cee8380dcee81dda8eafdf3f1)\n- **vendor.dreame**: Edge mopping for the L10 Ultra [`744fe20`](https://github.com/Hypfer/Valetudo/commit/744fe20833deec24a069029a22df8df6a0465d9c)\n\n### Fixes\n\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
 }
