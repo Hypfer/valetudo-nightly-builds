@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-23T02:17:05.998Z",
+  "timestamp": "2023-11-24T02:15:53.872Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "167469189bf9f20a6cf21370bb0b2481980a3e24b1c2faec4ec9df2c3a9c4aac",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "e4a1e4e4970e75c14b7a2e94ddfeb3537e37de55ba504bc665aa28b01a195910",
     "valetudo-aarch64.upx": "b58d9ca045aa4d4689df660e6c0ed12c4bad9f045fc24aa7833d955d4a8f3587"
   },
-  "changelog": "## Valetudo nightly (2023-11-23T02:17:05.627Z)\n\n### Features\n\n- **vendor.roborock**: Dock dustbin consumable for all auto-empty docks [`e3d13fa`](https://github.com/Hypfer/Valetudo/commit/e3d13fa521b9944e9e2040f96847002f5feaa1e9)\n- Set the embedded process priority to below normal for good measure [`eadc2a7`](https://github.com/Hypfer/Valetudo/commit/eadc2a7a047531722c1a59729fcb5cde5e565bfa)\n- **mqtt**: Add device_class attribute to battery and WiFi sensors for Home Assistant  (#1910) [`aac0f51`](https://github.com/Hypfer/Valetudo/commit/aac0f51da1d8009cee8380dcee81dda8eafdf3f1)\n- **vendor.dreame**: Edge mopping for the L10 Ultra [`744fe20`](https://github.com/Hypfer/Valetudo/commit/744fe20833deec24a069029a22df8df6a0465d9c)\n\n### Fixes\n\n- **vendor.dreame**: Remove CollisionAvoidantNavigationControl from the x10+ since it is not supported by the firmware [`d4f37e4`](https://github.com/Hypfer/Valetudo/commit/d4f37e4ea518a6d2ddc457db89a73d9255dba159)\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
+  "changelog": "## Valetudo nightly (2023-11-24T02:15:53.485Z)\n\n### Features\n\n- **vendor.roborock**: Dock dustbin consumable for all auto-empty docks [`e3d13fa`](https://github.com/Hypfer/Valetudo/commit/e3d13fa521b9944e9e2040f96847002f5feaa1e9)\n- Set the embedded process priority to below normal for good measure [`eadc2a7`](https://github.com/Hypfer/Valetudo/commit/eadc2a7a047531722c1a59729fcb5cde5e565bfa)\n- **mqtt**: Add device_class attribute to battery and WiFi sensors for Home Assistant  (#1910) [`aac0f51`](https://github.com/Hypfer/Valetudo/commit/aac0f51da1d8009cee8380dcee81dda8eafdf3f1)\n- **vendor.dreame**: Edge mopping for the L10 Ultra [`744fe20`](https://github.com/Hypfer/Valetudo/commit/744fe20833deec24a069029a22df8df6a0465d9c)\n\n### Fixes\n\n- **vendor.dreame**: Remove CollisionAvoidantNavigationControl from the x10+ since it is not supported by the firmware [`d4f37e4`](https://github.com/Hypfer/Valetudo/commit/d4f37e4ea518a6d2ddc457db89a73d9255dba159)\n- **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)\n"
 }
