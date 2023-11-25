@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-11-25T02:14:42.872Z)
+## Valetudo nightly (2023-11-25T20:16:55.359Z)
 
 ### Features
 
@@ -11,3 +11,7 @@
 
 - **vendor.dreame**: Remove CollisionAvoidantNavigationControl from the x10+ since it is not supported by the firmware [`d4f37e4`](https://github.com/Hypfer/Valetudo/commit/d4f37e4ea518a6d2ddc457db89a73d9255dba159)
 - **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)
+
+### Chores
+
+- **build**: Bump to NodeJS v18.18.2 [`ba90e9b`](https://github.com/Hypfer/Valetudo/commit/ba90e9b6601832f1f65b2993303f99f4e854b85f)
