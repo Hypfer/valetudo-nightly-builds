@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-11-26T17:35:59.088Z)
+## Valetudo nightly (2023-11-26T18:49:53.992Z)
 
 ### Features
 
@@ -9,6 +9,7 @@
 
 ### Fixes
 
+- **ui**: Fix achievement display and keep SSE connections alive for additional 500ms after the last subscriber disconnected [`c20731d`](https://github.com/Hypfer/Valetudo/commit/c20731d86102b8a7b83def05c3b6d03f2b3fdf6f)
 - **vendor.dreame**: Remove CollisionAvoidantNavigationControl from the x10+ since it is not supported by the firmware [`d4f37e4`](https://github.com/Hypfer/Valetudo/commit/d4f37e4ea518a6d2ddc457db89a73d9255dba159)
 - **vendor.dreame**: Fix edge mopping quirk state reporting [`9e4617b`](https://github.com/Hypfer/Valetudo/commit/9e4617ba3589ff1e069a99237f07826a674291ed)
 
