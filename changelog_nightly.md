@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-11-28T02:18:37.688Z)
+## Valetudo nightly (2023-11-29T02:17:57.287Z)
 
 ### Features
 
@@ -20,4 +20,5 @@
 
 ### Chores
 
+- **vendor.dreame**: Add test case with a ginormous map file from an industrial building [`0d5a7df`](https://github.com/Hypfer/Valetudo/commit/0d5a7df48b61b12b9216f3818a4f3271a9ec0a0a)
 - **build**: Bump to NodeJS v18.18.2 [`ba90e9b`](https://github.com/Hypfer/Valetudo/commit/ba90e9b6601832f1f65b2993303f99f4e854b85f)
