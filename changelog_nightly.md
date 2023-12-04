@@ -1,4 +1,4 @@
-## Valetudo nightly (2023-12-03T02:18:39.367Z)
+## Valetudo nightly (2023-12-04T02:18:51.765Z)
 
 ### Features
 
@@ -20,5 +20,6 @@
 
 ### Chores
 
+- Disallow some more footguns with eslint [`9d9213c`](https://github.com/Hypfer/Valetudo/commit/9d9213c84e366ed91447c73bb0834d08ecd1be08)
 - **vendor.dreame**: Add test case with a ginormous map file from an industrial building [`0d5a7df`](https://github.com/Hypfer/Valetudo/commit/0d5a7df48b61b12b9216f3818a4f3271a9ec0a0a)
 - **build**: Bump to NodeJS v18.18.2 [`ba90e9b`](https://github.com/Hypfer/Valetudo/commit/ba90e9b6601832f1f65b2993303f99f4e854b85f)
