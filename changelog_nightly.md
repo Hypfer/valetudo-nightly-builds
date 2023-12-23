@@ -1,7 +1,8 @@
-## Valetudo nightly (2023-12-22T02:16:07.881Z)
+## Valetudo nightly (2023-12-23T02:14:22.779Z)
 
 ### Features
 
+- **ui**: Add some nice icons to all map action buttons [`4e958da`](https://github.com/Hypfer/Valetudo/commit/4e958da68b810153fcf39a17bff63bc1d78d14dd)
 - **vendor.roborock**: Dock dustbin consumable for all auto-empty docks [`e3d13fa`](https://github.com/Hypfer/Valetudo/commit/e3d13fa521b9944e9e2040f96847002f5feaa1e9)
 - Set the embedded process priority to below normal for good measure [`eadc2a7`](https://github.com/Hypfer/Valetudo/commit/eadc2a7a047531722c1a59729fcb5cde5e565bfa)
 - **mqtt**: Add device_class attribute to battery and WiFi sensors for Home Assistant  (#1910) [`aac0f51`](https://github.com/Hypfer/Valetudo/commit/aac0f51da1d8009cee8380dcee81dda8eafdf3f1)
