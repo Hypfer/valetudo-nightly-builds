@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-01-01T02:20:57.413Z",
+  "timestamp": "2024-01-02T02:18:14.706Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "d5a27f9f4b15f17f48d8d8a4a4b2f95a12cc44d4b0b9ef36ce45605d7df9d471",
-    "valetudo-armv7-lowmem": "09dff36930b5baeb5f741421e43391a9f26e19f3dc82292c0c4134963bad2b65",
-    "valetudo-aarch64": "2b15d97adb7499ee02ed3b3ea91201df9f943195be60deb390818c4884f96e60",
-    "valetudo-armv7.upx": "23f44b08231d102eb9fdf572160d13ed37bce18158c80dd11850f46a99441509",
-    "valetudo-armv7-lowmem.upx": "2a15ee7bb317ab5ce6ace9ac74435724819ea210bac8ce261bb2a8bcc1f1431b",
-    "valetudo-aarch64.upx": "fb6d5b9ca035d7717ab8922044c20a426dfed842a6a26b5a8b1ef9e119de6f4d"
+    "valetudo-armv7": "5ec848d3b2533859cca61ec032ff0a1668adcfc59c7316c32fa31678c74aa3ad",
+    "valetudo-armv7-lowmem": "340538a021bae79f872158699baf092673e13a2f0190a1de7faf43af6acd9943",
+    "valetudo-aarch64": "b8f2415a07e9b604aa5550737bcf957a9b0c1a81eaa0e15cb23687999e13db54",
+    "valetudo-armv7.upx": "aba070b6887190f6c606604c1d31173916c3afba7f3542ba9929e2f7ec448ca2",
+    "valetudo-armv7-lowmem.upx": "8d66043a3484519cb0cece40fd348bcbc5994f011ee449bbeb4bdfaf3a4e7259",
+    "valetudo-aarch64.upx": "04222a58a81e37a55d9231b2e14d2d5ab4f1bcdfe4e5ad15fbb6563d9d5ca0ef"
   },
-  "changelog": "## Valetudo nightly (2024-01-01T02:20:57.043Z)\n"
+  "changelog": "## Valetudo nightly (2024-01-02T02:18:14.339Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
 }
