@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-01-08T02:19:36.609Z",
+  "timestamp": "2024-01-09T02:19:16.353Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "f89410bd72e2ad69366877dee2c1057a81a222d7c0dc3d18e43137d3c5dd7a1f",
-    "valetudo-armv7-lowmem": "10c6ae00d33529cd0f44a8c992445f2a2e6c1f8633b87d3bf467ad50db25e666",
-    "valetudo-aarch64": "3ef575da752dc7b9bb48ee725b38ee842de5965560e22964dfc41cabc4abcb90",
-    "valetudo-armv7.upx": "317b3ec2f3c12bb189ecd40de8c353d55d87aff8133b4882f5428adcc2e57fae",
-    "valetudo-armv7-lowmem.upx": "3ce57a9791b50e807cde85391b23e8f8ed38d7db7f83d96be3097d8a6e83662c",
-    "valetudo-aarch64.upx": "5d6e299f8120b0d309d1e371a89a6fb0fef545655a43ff711f5283b87c083d94"
+    "valetudo-armv7": "b27e5b176502e6c88027279819dbc8ce02ec0cd3727058ff98aa505aae47703c",
+    "valetudo-armv7-lowmem": "6de6dc4a74c2f40c65637fe29cc9c40c519b4491fbafb163f4893ffd2246eaa7",
+    "valetudo-aarch64": "65c18e9c895c36c5e3cd1b9e883a9766169ef88bc1ce8461dc3f5827369ca60a",
+    "valetudo-armv7.upx": "8f4e98882382d3969934fc12d0ec9a6f3308b51fedafcc9619a357052a746091",
+    "valetudo-armv7-lowmem.upx": "f604c822f275553769791f2856c4233e15f6a79cd575f9c144471bf015cdcf63",
+    "valetudo-aarch64.upx": "bf93afd413b50319ef6328ea210f632178125faa78eaa15b569dfc59124f4006"
   },
-  "changelog": "## Valetudo nightly (2024-01-08T02:19:36.236Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
+  "changelog": "## Valetudo nightly (2024-01-09T02:19:15.991Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
 }
