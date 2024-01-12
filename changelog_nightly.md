@@ -1,4 +1,8 @@
-## Valetudo nightly (2024-01-11T02:19:34.960Z)
+## Valetudo nightly (2024-01-12T02:19:28.483Z)
+
+### Features
+
+- **vendor.dreame**: Add implementation for the R2211 [`9b01829`](https://github.com/Hypfer/Valetudo/commit/9b0182968e277c3a7dbc991650704da4eb45c4ae)
 
 ### Fixes
 

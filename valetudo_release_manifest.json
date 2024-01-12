@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-01-11T02:19:35.324Z",
+  "timestamp": "2024-01-12T02:19:28.860Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "b27e5b176502e6c88027279819dbc8ce02ec0cd3727058ff98aa505aae47703c",
-    "valetudo-armv7-lowmem": "6de6dc4a74c2f40c65637fe29cc9c40c519b4491fbafb163f4893ffd2246eaa7",
-    "valetudo-aarch64": "65c18e9c895c36c5e3cd1b9e883a9766169ef88bc1ce8461dc3f5827369ca60a",
-    "valetudo-armv7.upx": "8f4e98882382d3969934fc12d0ec9a6f3308b51fedafcc9619a357052a746091",
-    "valetudo-armv7-lowmem.upx": "f604c822f275553769791f2856c4233e15f6a79cd575f9c144471bf015cdcf63",
-    "valetudo-aarch64.upx": "bf93afd413b50319ef6328ea210f632178125faa78eaa15b569dfc59124f4006"
+    "valetudo-armv7": "b0ea3207e405eed5ed2cc3e6fdb6601fe54f58ea235b834f7155d4baa7bc2b5f",
+    "valetudo-armv7-lowmem": "63cd094a6b96d383481f27931792789e2ca86ad86406d73d9c8698b7d25bda50",
+    "valetudo-aarch64": "f6c2dafcb79cf7f328acced5ca127be0689b2fc6149099691d5e9ed29de168ba",
+    "valetudo-armv7.upx": "3da1018baf52535437104ed4038d75b0f50daf0f1e875ab3f90d6edaa236e4c8",
+    "valetudo-armv7-lowmem.upx": "fa0d706b403b3ead4fcf0ab5ad6945b4fb11e9aacc130c75d1a8d135adacef7f",
+    "valetudo-aarch64.upx": "745465ef012a5c0f7173db64f0b301cb60ae33ffacd40ae18f9579584e4e1c3e"
   },
-  "changelog": "## Valetudo nightly (2024-01-11T02:19:34.960Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
+  "changelog": "## Valetudo nightly (2024-01-12T02:19:28.483Z)\n\n### Features\n\n- **vendor.dreame**: Add implementation for the R2211 [`9b01829`](https://github.com/Hypfer/Valetudo/commit/9b0182968e277c3a7dbc991650704da4eb45c4ae)\n\n### Fixes\n\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
 }
