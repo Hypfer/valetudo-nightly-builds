@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-01-14T02:20:29.528Z",
+  "timestamp": "2024-01-15T02:20:27.701Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "b0ea3207e405eed5ed2cc3e6fdb6601fe54f58ea235b834f7155d4baa7bc2b5f",
-    "valetudo-armv7-lowmem": "63cd094a6b96d383481f27931792789e2ca86ad86406d73d9c8698b7d25bda50",
-    "valetudo-aarch64": "f6c2dafcb79cf7f328acced5ca127be0689b2fc6149099691d5e9ed29de168ba",
-    "valetudo-armv7.upx": "3da1018baf52535437104ed4038d75b0f50daf0f1e875ab3f90d6edaa236e4c8",
-    "valetudo-armv7-lowmem.upx": "fa0d706b403b3ead4fcf0ab5ad6945b4fb11e9aacc130c75d1a8d135adacef7f",
-    "valetudo-aarch64.upx": "745465ef012a5c0f7173db64f0b301cb60ae33ffacd40ae18f9579584e4e1c3e"
+    "valetudo-armv7": "d7bbe0b0d3cd6ed34315af7da69ad7efd4e74d00d587bc8ead59abe66feddb9e",
+    "valetudo-armv7-lowmem": "f42bc7a6e0c6bc41bd390352fa9839af06f8746d8aa4dd65c75a906e27dec03f",
+    "valetudo-aarch64": "9fc08062157a282ce2460984a88be9d9dfe6a3d51004f0fd4b6232d54470a633",
+    "valetudo-armv7.upx": "12041c4cfabd4db1582d9755ec86399737a134c77df57b6e0efb3db255503f2f",
+    "valetudo-armv7-lowmem.upx": "4e4e853affed9b8b2ff154664db52ad9afdabf3096a5668cd64711f6847c5a50",
+    "valetudo-aarch64.upx": "3b0bd1c4c3cd2681b236563829098175dc188ece8da34a2557fe5b4250cab909"
   },
-  "changelog": "## Valetudo nightly (2024-01-14T02:20:29.164Z)\n\n### Features\n\n- **vendor.dreame**: Add implementation for the R2211 [`9b01829`](https://github.com/Hypfer/Valetudo/commit/9b0182968e277c3a7dbc991650704da4eb45c4ae)\n\n### Fixes\n\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
+  "changelog": "## Valetudo nightly (2024-01-15T02:20:27.318Z)\n\n### Features\n\n- **vendor.dreame**: Add implementation for the R2211 [`9b01829`](https://github.com/Hypfer/Valetudo/commit/9b0182968e277c3a7dbc991650704da4eb45c4ae)\n\n### Fixes\n\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
 }
