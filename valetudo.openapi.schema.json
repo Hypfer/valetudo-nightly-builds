@@ -3441,163 +3441,172 @@
         }
       }
     },
-    "/api/v2/ntpclient/state": {
+    "/api/v2/ntpclient/status": {
       "get": {
         "tags": [
           "NTP"
         ],
-        "summary": "Get NTPClient state",
+        "summary": "Get NTPClient status",
         "responses": {
           "200": {
-            "description": "The NTPClients current state.",
+            "description": "The NTPClient's current status.",
             "content": {
               "application/json": {
                 "schema": {
-                  "oneOf": [
-                    {
-                      "allOf": [
+                  "type": "object",
+                  "properties": {
+                    "state": {
+                      "type": "object",
+                      "oneOf": [
                         {
                           "allOf": [
                             {
-                              "type": "object",
-                              "properties": {
-                                "__class": {
-                                  "type": "string"
+                              "allOf": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "__class": {
+                                      "type": "string"
+                                    },
+                                    "metaData": {
+                                      "type": "object"
+                                    }
+                                  }
                                 },
-                                "metaData": {
-                                  "type": "object"
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "timestamp": {
+                                      "type": "string",
+                                      "format": "date-time",
+                                      "description": "The time this state was entered"
+                                    }
+                                  }
                                 }
-                              }
-                            },
-                            {
-                              "type": "object",
-                              "properties": {
-                                "timestamp": {
-                                  "type": "string",
-                                  "format": "date-time",
-                                  "description": "The time this state was entered"
-                                }
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "allOf": [
-                        {
-                          "allOf": [
-                            {
-                              "type": "object",
-                              "properties": {
-                                "__class": {
-                                  "type": "string"
-                                },
-                                "metaData": {
-                                  "type": "object"
-                                }
-                              }
-                            },
-                            {
-                              "type": "object",
-                              "properties": {
-                                "timestamp": {
-                                  "type": "string",
-                                  "format": "date-time",
-                                  "description": "The time this state was entered"
-                                }
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "allOf": [
-                        {
-                          "allOf": [
-                            {
-                              "type": "object",
-                              "properties": {
-                                "__class": {
-                                  "type": "string"
-                                },
-                                "metaData": {
-                                  "type": "object"
-                                }
-                              }
-                            },
-                            {
-                              "type": "object",
-                              "properties": {
-                                "timestamp": {
-                                  "type": "string",
-                                  "format": "date-time",
-                                  "description": "The time this state was entered"
-                                }
-                              }
+                              ]
                             }
                           ]
                         },
                         {
-                          "type": "object",
-                          "properties": {
-                            "type": {
-                              "type": "string",
-                              "enum": [
-                                "unknown",
-                                "transient",
-                                "name_resolution",
-                                "connection",
-                                "persisting"
+                          "allOf": [
+                            {
+                              "allOf": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "__class": {
+                                      "type": "string"
+                                    },
+                                    "metaData": {
+                                      "type": "object"
+                                    }
+                                  }
+                                },
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "timestamp": {
+                                      "type": "string",
+                                      "format": "date-time",
+                                      "description": "The time this state was entered"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "allOf": [
+                            {
+                              "allOf": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "__class": {
+                                      "type": "string"
+                                    },
+                                    "metaData": {
+                                      "type": "object"
+                                    }
+                                  }
+                                },
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "timestamp": {
+                                      "type": "string",
+                                      "format": "date-time",
+                                      "description": "The time this state was entered"
+                                    }
+                                  }
+                                }
                               ]
                             },
-                            "message": {
-                              "type": "string"
-                            }
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "allOf": [
-                        {
-                          "allOf": [
                             {
                               "type": "object",
                               "properties": {
-                                "__class": {
-                                  "type": "string"
-                                },
-                                "metaData": {
-                                  "type": "object"
-                                }
-                              }
-                            },
-                            {
-                              "type": "object",
-                              "properties": {
-                                "timestamp": {
+                                "type": {
                                   "type": "string",
-                                  "format": "date-time",
-                                  "description": "The time this state was entered"
+                                  "enum": [
+                                    "unknown",
+                                    "transient",
+                                    "name_resolution",
+                                    "connection",
+                                    "persisting"
+                                  ]
+                                },
+                                "message": {
+                                  "type": "string"
                                 }
                               }
                             }
                           ]
                         },
                         {
-                          "type": "object",
-                          "properties": {
-                            "offset": {
-                              "type": "number",
-                              "description": "The offset of the previous time on sync"
+                          "allOf": [
+                            {
+                              "allOf": [
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "__class": {
+                                      "type": "string"
+                                    },
+                                    "metaData": {
+                                      "type": "object"
+                                    }
+                                  }
+                                },
+                                {
+                                  "type": "object",
+                                  "properties": {
+                                    "timestamp": {
+                                      "type": "string",
+                                      "format": "date-time",
+                                      "description": "The time this state was entered"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "object",
+                              "properties": {
+                                "offset": {
+                                  "type": "number",
+                                  "description": "The offset of the previous time on sync"
+                                }
+                              }
                             }
-                          }
+                          ]
                         }
                       ]
+                    },
+                    "robotTime": {
+                      "type": "string"
                     }
-                  ]
+                  }
                 }
               }
             }

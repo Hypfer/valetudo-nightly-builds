@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-01-26T02:14:33.930Z",
+  "timestamp": "2024-01-27T02:11:45.763Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "b576924e2cd5d595df3d3f2cf50bb4d7b3d6c8c59f4cd3e91e5332239a1d7ab9",
-    "valetudo-armv7-lowmem": "c3064b33e17516fb9e97573f35359c979c09404cb238525df04311efe12fdad0",
-    "valetudo-aarch64": "49ac9990a1a3a5186c28fced1adb407815d93235738f117442e1682c42579018",
-    "valetudo-armv7.upx": "d58790a6e3eddd8907001a9013fee211b6178355a55c4b09d0fd51f69fd280c6",
-    "valetudo-armv7-lowmem.upx": "b08013231e249bc2ef1c1fbc983c13d82bbe2895710a139a2e53e65487eaf7bf",
-    "valetudo-aarch64.upx": "cc9cacb56a8227c611222c243d94a7def8d41fdc15447e2e48173cd6d1e52881"
+    "valetudo-armv7": "c7ddf5c2ecb0acf76337ceb68a9facb9ebfe7ca2243ab74a3817eb2bb7f8f233",
+    "valetudo-armv7-lowmem": "34ae957381fd4de46c70d3a4bd00ada0c430a15d43d7487dfccfdd7a23b58fed",
+    "valetudo-aarch64": "43e25d03f8840d744b65aad6240ab343beb8f09683d74b81037863c341c97004",
+    "valetudo-armv7.upx": "8fa124435b8472c3342753c9fb74e1fe203a2872b1da88e06e187cc351a3392b",
+    "valetudo-armv7-lowmem.upx": "1d39b749d68a28dcdea782d07650b081ca52def9199db7ded12ea064370c9e54",
+    "valetudo-aarch64.upx": "1e66b289fbc11a7c08b29cd698d5fe15cc2d73601e385083b340ad8ff67724ce"
   },
-  "changelog": "## Valetudo nightly (2024-01-26T02:14:33.546Z)\n\n### Features\n\n- **vendor.dreame**: Add implementation for the R2211 [`9b01829`](https://github.com/Hypfer/Valetudo/commit/9b0182968e277c3a7dbc991650704da4eb45c4ae)\n\n### Fixes\n\n- **vendor.dreame**: Add error code mapping for code 121 [`dbbb58a`](https://github.com/Hypfer/Valetudo/commit/dbbb58aacae6706f235b87c1018cf1f4aa855866)\n- Gracefully handle development on systems with bonded network interfaces [`9969307`](https://github.com/Hypfer/Valetudo/commit/9969307aef5ad4bf3b1ba81a51e4f36caccd06b7)\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
+  "changelog": "## Valetudo nightly (2024-01-27T02:11:45.390Z)\n\n### Features\n\n- **mqtt**: Publish ValetudoEvents to MQTT and allow interacting with it via MQTT [`cc2ecc3`](https://github.com/Hypfer/Valetudo/commit/cc2ecc3c000fa008a8711069619f8f65e0e93b53)\n- **ui**: Display current robot time in NTPConnectivity view [`3880f8b`](https://github.com/Hypfer/Valetudo/commit/3880f8bf3a0fe40bb18a6da32ff91712ed072617)\n- **vendor.dreame**: Add drain internal water tank quirk [`25f428f`](https://github.com/Hypfer/Valetudo/commit/25f428fd12843c2aa6de19746f572790c19be1f1)\n- **vendor.dreame**: Add implementation for the R2211 [`9b01829`](https://github.com/Hypfer/Valetudo/commit/9b0182968e277c3a7dbc991650704da4eb45c4ae)\n\n### Fixes\n\n- **vendor.dreame**: Add error code mapping for code 121 [`dbbb58a`](https://github.com/Hypfer/Valetudo/commit/dbbb58aacae6706f235b87c1018cf1f4aa855866)\n- Gracefully handle development on systems with bonded network interfaces [`9969307`](https://github.com/Hypfer/Valetudo/commit/9969307aef5ad4bf3b1ba81a51e4f36caccd06b7)\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n"
 }
