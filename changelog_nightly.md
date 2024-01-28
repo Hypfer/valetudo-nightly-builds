@@ -1,7 +1,8 @@
-## Valetudo nightly (2024-01-27T02:11:45.390Z)
+## Valetudo nightly (2024-01-28T02:14:30.711Z)
 
 ### Features
 
+- **ntpClient**: Use valetudo.pool.ntp.org as the default timeserver [`1a3a9f8`](https://github.com/Hypfer/Valetudo/commit/1a3a9f8b81eb923a9d7ee7858db9acab49aa88d2)
 - **mqtt**: Publish ValetudoEvents to MQTT and allow interacting with it via MQTT [`cc2ecc3`](https://github.com/Hypfer/Valetudo/commit/cc2ecc3c000fa008a8711069619f8f65e0e93b53)
 - **ui**: Display current robot time in NTPConnectivity view [`3880f8b`](https://github.com/Hypfer/Valetudo/commit/3880f8bf3a0fe40bb18a6da32ff91712ed072617)
 - **vendor.dreame**: Add drain internal water tank quirk [`25f428f`](https://github.com/Hypfer/Valetudo/commit/25f428fd12843c2aa6de19746f572790c19be1f1)
