@@ -1,7 +1,8 @@
-## Valetudo nightly (2024-01-29T02:13:01.274Z)
+## Valetudo nightly (2024-01-30T02:12:52.104Z)
 
 ### Features
 
+- **ntpClient**: Double wait time to next attempt on each sync error [`6b15920`](https://github.com/Hypfer/Valetudo/commit/6b15920dab633aa66f0df07f987a7d9015342ef0)
 - **ntpClient**: Use valetudo.pool.ntp.org as the default timeserver [`1a3a9f8`](https://github.com/Hypfer/Valetudo/commit/1a3a9f8b81eb923a9d7ee7858db9acab49aa88d2)
 - **mqtt**: Publish ValetudoEvents to MQTT and allow interacting with it via MQTT [`cc2ecc3`](https://github.com/Hypfer/Valetudo/commit/cc2ecc3c000fa008a8711069619f8f65e0e93b53)
 - **ui**: Display current robot time in NTPConnectivity view [`3880f8b`](https://github.com/Hypfer/Valetudo/commit/3880f8bf3a0fe40bb18a6da32ff91712ed072617)
