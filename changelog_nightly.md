@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-02-07T02:12:16.088Z)
+## Valetudo nightly (2024-02-08T02:12:12.374Z)
 
 ### Features
 
@@ -15,3 +15,7 @@
 - Gracefully handle development on systems with bonded network interfaces [`9969307`](https://github.com/Hypfer/Valetudo/commit/9969307aef5ad4bf3b1ba81a51e4f36caccd06b7)
 - **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)
 - **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)
+
+### Chores
+
+- Issue forms [`4069ef4`](https://github.com/Hypfer/Valetudo/commit/4069ef4778e41d0103b98fce070d64bbc3f4e79d)
