@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-02-08T02:12:12.374Z)
+## Valetudo nightly (2024-02-09T02:12:11.658Z)
 
 ### Features
 
@@ -18,4 +18,4 @@
 
 ### Chores
 
-- Issue forms [`4069ef4`](https://github.com/Hypfer/Valetudo/commit/4069ef4778e41d0103b98fce070d64bbc3f4e79d)
+- Issue forms [`4dcee5c`](https://github.com/Hypfer/Valetudo/commit/4dcee5c20a2fd2b617508c87e65041657c0c9712)
