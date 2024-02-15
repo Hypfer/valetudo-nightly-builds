@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-02-14T02:13:03.875Z",
+  "timestamp": "2024-02-15T02:13:04.971Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "595dff61b33f4e729e6fd774787a88de0b5ccbecba72bda1687a6494e730b151",
-    "valetudo-armv7-lowmem": "229cc179304acf59cc1eb516291c1246e1f31ef3d918620c419590f72a0d10a4",
-    "valetudo-aarch64": "026846099a7024fa155b3aa9e6b7ba86fe343776164b1c4faede6e755f3702fe",
-    "valetudo-armv7.upx": "79b1e6bea8d1430eb936c680db4633ebea706c4b1d6667552426dd166a6b3a7e",
-    "valetudo-armv7-lowmem.upx": "a4382f799f2cdd8338ba5ffa2a31f31c710cff865a1431b95a13083ec6fe3e00",
-    "valetudo-aarch64.upx": "2976ac08072e35889c7bbdf033e93c0008322bcf1b8eb1a342cf40ec568f37ea"
+    "valetudo-armv7": "092c1cec2156cee3acab3e60c641490e951a98ad9cf681c4d0e979b0b1ed5ce7",
+    "valetudo-armv7-lowmem": "6d66339e1d229fe8a117bedea548aaab9b0f3886ac24f94a389898a028551344",
+    "valetudo-aarch64": "db8bea0b0dcc22aeb926375f432e7bf502307ad75bf6b1ac3726a351e36feefa",
+    "valetudo-armv7.upx": "9ddc3ef85eabc9b33308425d0a4168edf6bfaa1bda84f0d3fac7d864ef4a33c1",
+    "valetudo-armv7-lowmem.upx": "6188191116974b62aab11640d7073bf0abe4a2302a060363c8da0f04aad5d1b1",
+    "valetudo-aarch64.upx": "8f8111f72c19a83c9342a9828bd33076360dc91ffda6503c7aadc62dde2c108a"
   },
-  "changelog": "## Valetudo nightly (2024-02-14T02:13:03.496Z)\n\n### Features\n\n- **ntpClient**: Double wait time to next attempt on each sync error [`6b15920`](https://github.com/Hypfer/Valetudo/commit/6b15920dab633aa66f0df07f987a7d9015342ef0)\n- **ntpClient**: Use valetudo.pool.ntp.org as the default timeserver [`1a3a9f8`](https://github.com/Hypfer/Valetudo/commit/1a3a9f8b81eb923a9d7ee7858db9acab49aa88d2)\n- **mqtt**: Publish ValetudoEvents to MQTT and allow interacting with it via MQTT [`cc2ecc3`](https://github.com/Hypfer/Valetudo/commit/cc2ecc3c000fa008a8711069619f8f65e0e93b53)\n- **ui**: Display current robot time in NTPConnectivity view [`3880f8b`](https://github.com/Hypfer/Valetudo/commit/3880f8bf3a0fe40bb18a6da32ff91712ed072617)\n- **vendor.dreame**: Add drain internal water tank quirk [`25f428f`](https://github.com/Hypfer/Valetudo/commit/25f428fd12843c2aa6de19746f572790c19be1f1)\n- **vendor.dreame**: Add implementation for the R2211 [`9b01829`](https://github.com/Hypfer/Valetudo/commit/9b0182968e277c3a7dbc991650704da4eb45c4ae)\n\n### Fixes\n\n- **ui**: Fix zustand deprecation warning [`f3b531e`](https://github.com/Hypfer/Valetudo/commit/f3b531eb900bfc5daac57e6e1638e1483b1f1759)\n- **vendor.dreame**: Add error code mapping for code 121 [`dbbb58a`](https://github.com/Hypfer/Valetudo/commit/dbbb58aacae6706f235b87c1018cf1f4aa855866)\n- Gracefully handle development on systems with bonded network interfaces [`9969307`](https://github.com/Hypfer/Valetudo/commit/9969307aef5ad4bf3b1ba81a51e4f36caccd06b7)\n- **vendor.dreame**: Fix mop dock drying time quirk [`7c87bf6`](https://github.com/Hypfer/Valetudo/commit/7c87bf65379a7b9afd41ebd2bd6ce3cc9ca84bfe)\n- **ui**: Improve map zoom range clipping [`ebf8e9f`](https://github.com/Hypfer/Valetudo/commit/ebf8e9fb55978615c9f644d219767e33b83cadd4)\n\n### Chores\n\n- Issue forms [`4dcee5c`](https://github.com/Hypfer/Valetudo/commit/4dcee5c20a2fd2b617508c87e65041657c0c9712)\n"
+  "changelog": "## Valetudo nightly (2024-02-15T02:13:04.612Z)\n\n### Chores\n\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
 }
