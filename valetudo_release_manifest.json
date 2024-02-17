@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-16T02:13:02.582Z",
+  "timestamp": "2024-02-17T02:12:25.732Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "092c1cec2156cee3acab3e60c641490e951a98ad9cf681c4d0e979b0b1ed5ce7",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "6188191116974b62aab11640d7073bf0abe4a2302a060363c8da0f04aad5d1b1",
     "valetudo-aarch64.upx": "8f8111f72c19a83c9342a9828bd33076360dc91ffda6503c7aadc62dde2c108a"
   },
-  "changelog": "## Valetudo nightly (2024-02-16T02:13:02.223Z)\n\n### Chores\n\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
+  "changelog": "## Valetudo nightly (2024-02-17T02:12:25.369Z)\n\n### Chores\n\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
 }
