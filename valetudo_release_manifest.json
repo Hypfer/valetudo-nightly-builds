@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-02-17T02:12:25.732Z",
+  "timestamp": "2024-02-18T02:14:23.631Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "092c1cec2156cee3acab3e60c641490e951a98ad9cf681c4d0e979b0b1ed5ce7",
-    "valetudo-armv7-lowmem": "6d66339e1d229fe8a117bedea548aaab9b0f3886ac24f94a389898a028551344",
-    "valetudo-aarch64": "db8bea0b0dcc22aeb926375f432e7bf502307ad75bf6b1ac3726a351e36feefa",
-    "valetudo-armv7.upx": "9ddc3ef85eabc9b33308425d0a4168edf6bfaa1bda84f0d3fac7d864ef4a33c1",
-    "valetudo-armv7-lowmem.upx": "6188191116974b62aab11640d7073bf0abe4a2302a060363c8da0f04aad5d1b1",
-    "valetudo-aarch64.upx": "8f8111f72c19a83c9342a9828bd33076360dc91ffda6503c7aadc62dde2c108a"
+    "valetudo-armv7": "8c47bca890f7bd62045146fc89b41c1c460b58773b1172887d07e13cfc0000f2",
+    "valetudo-armv7-lowmem": "6045e8fe0b0cb684bc44f4385281d866cb3a4c32d8c5427a385463bdd6a63b3b",
+    "valetudo-aarch64": "56cbd30548b9e0f132ebe33d1f29560ef3a65c47cc06556b145990d2d597ee76",
+    "valetudo-armv7.upx": "08403f8d88adc34454924458de7270c2e4888d2f057834ee90f106ac7ac965d4",
+    "valetudo-armv7-lowmem.upx": "a6f72f9f701e933306de6b8c1328832e1fe907c477a731e449fb1e1ac3936257",
+    "valetudo-aarch64.upx": "4d9d8bd1e1df83828420df63fb15525cd08dc53dd37c29983e47248e33dad506"
   },
-  "changelog": "## Valetudo nightly (2024-02-17T02:12:25.369Z)\n\n### Chores\n\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
+  "changelog": "## Valetudo nightly (2024-02-18T02:14:23.267Z)\n\n### Fixes\n\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
 }

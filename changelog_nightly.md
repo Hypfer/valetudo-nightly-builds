@@ -1,4 +1,8 @@
-## Valetudo nightly (2024-02-17T02:12:25.369Z)
+## Valetudo nightly (2024-02-18T02:14:23.267Z)
+
+### Fixes
+
+- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)
 
 ### Chores
 
