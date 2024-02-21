@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-02-20T02:12:23.740Z",
+  "timestamp": "2024-02-21T02:12:56.193Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "8c47bca890f7bd62045146fc89b41c1c460b58773b1172887d07e13cfc0000f2",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "a6f72f9f701e933306de6b8c1328832e1fe907c477a731e449fb1e1ac3936257",
     "valetudo-aarch64.upx": "4d9d8bd1e1df83828420df63fb15525cd08dc53dd37c29983e47248e33dad506"
   },
-  "changelog": "## Valetudo nightly (2024-02-20T02:12:23.374Z)\n\n### Fixes\n\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
+  "changelog": "## Valetudo nightly (2024-02-21T02:12:55.803Z)\n\n### Fixes\n\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
 }
