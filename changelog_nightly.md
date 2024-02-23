@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-02-22T02:12:34.382Z)
+## Valetudo nightly (2024-02-23T02:12:15.567Z)
 
 ### Fixes
 
@@ -6,4 +6,5 @@
 
 ### Chores
 
+- Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)
 - Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)
