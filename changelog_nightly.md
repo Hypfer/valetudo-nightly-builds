@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-02-23T02:12:15.567Z)
+## Valetudo nightly (2024-02-24T02:11:09.396Z)
 
 ### Fixes
 
@@ -6,5 +6,6 @@
 
 ### Chores
 
+- **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)
 - Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)
 - Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)

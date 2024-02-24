@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-02-23T02:12:15.932Z",
+  "timestamp": "2024-02-24T02:11:09.764Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "8c1c1df6f75f8349cefe540933da55f466781d5e8677f9dff3dec7d6c9b38d7c",
-    "valetudo-armv7-lowmem": "dad8b8771eba5d34a46dfee6adcb84e864866c5907729b6c344f067bbbcaae9a",
-    "valetudo-aarch64": "292a33415b554833a041c8ffad3c071a8bee311f6bf1df285736347a470211c4",
-    "valetudo-armv7.upx": "9c8d675ca41c19ca71f5f30cb1196e951342f3133c94480bb3f6d09a291c96dd",
-    "valetudo-armv7-lowmem.upx": "ec4bbf33f814f3708025876cfebb3680c4f7b492ee2ed577a2b8cbb98d0caf6f",
-    "valetudo-aarch64.upx": "add1b6d51187c8ae81278d43870d8e28c011a779c2b8c0cb8b3c038671ea1394"
+    "valetudo-armv7": "664e03ce5ed3f15e1c8c3eacea911a14ddaca177affd2c240806074884e2cfd6",
+    "valetudo-armv7-lowmem": "61f0c299b87468a1151ef050a6762eb816f925ce7aebbd360248ee51cc28c6ea",
+    "valetudo-aarch64": "ea762ccf219677b4e0011b73d76b0e3905ac805ce7b69b70a797d4ac40c4d693",
+    "valetudo-armv7.upx": "0e78e811ad5513f830eed657ee959c49b45074815997b4f5a2b1e39db300194f",
+    "valetudo-armv7-lowmem.upx": "366f5f575ffcc5c5ab7d49fba51a7c62f49d053f2b93efb831626a48d0e54f53",
+    "valetudo-aarch64.upx": "b6aaf9793d6370fc452ae3f4a9d2523bae15e32f3a7d828b0a3824fd78da5438"
   },
-  "changelog": "## Valetudo nightly (2024-02-23T02:12:15.567Z)\n\n### Fixes\n\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
+  "changelog": "## Valetudo nightly (2024-02-24T02:11:09.396Z)\n\n### Fixes\n\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)\n- Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
 }
