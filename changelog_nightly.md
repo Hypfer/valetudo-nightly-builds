@@ -1,7 +1,12 @@
-## Valetudo nightly (2024-03-08T02:12:43.615Z)
+## Valetudo nightly (2024-03-09T02:10:07.290Z)
+
+### Features
+
+- **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)
 
 ### Fixes
 
+- **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)
 - **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)
 
 ### Chores
