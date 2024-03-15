@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-03-14T02:12:46.194Z",
+  "timestamp": "2024-03-15T02:13:31.270Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "71da0eeb6317a6e4952574263f80f202d3e85f41e2e83652a212c7ef4638706d",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "0a719d985fcec7b3313a79c3f709ab5e91f9e1735850a539647e7bc648c6a002",
     "valetudo-aarch64.upx": "a8d29bb795c8727aae839f771d63470327f5abd8d7491d2da2f5bdfc51e5fd53"
   },
-  "changelog": "## Valetudo nightly (2024-03-14T02:12:45.832Z)\n\n### Features\n\n- **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)\n\n### Fixes\n\n- **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)\n- Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
+  "changelog": "## Valetudo nightly (2024-03-15T02:13:30.911Z)\n\n### Features\n\n- **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)\n\n### Fixes\n\n- **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)\n- Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
 }
