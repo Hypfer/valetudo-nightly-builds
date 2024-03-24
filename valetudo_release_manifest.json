@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-03-23T02:13:17.477Z",
+  "timestamp": "2024-03-24T02:16:34.025Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "0da77b3da1275a1b91f3368d8f3f24641b0125d6c4787c1d87cbc29466d51691",
-    "valetudo-armv7-lowmem": "ec0cbe6a6f085c827dc72adfe8ab3a01bb56906d08cf6bacd6fb5edb332da4dd",
-    "valetudo-aarch64": "1689bf6728a35aa56dc2060760aa36ddc67aade35feb0895bf13f3b60d787625",
-    "valetudo-armv7.upx": "29009a6d0dd00e4297046c41ec7db191aa2f7b1de52c9176caeb661ce6c39ee0",
-    "valetudo-armv7-lowmem.upx": "6ec7092886897f28be74018cb89c9aeff918c72fbe87499874680d4a5ec61d92",
-    "valetudo-aarch64.upx": "1f33b768aaba7181170fa1111defd6d0b8ae345bf3a608058a9d486b2faab894"
+    "valetudo-armv7": "18e97b821474053fa748e86018fb073524ca1784c10eae5cfa88759cb3995d3a",
+    "valetudo-armv7-lowmem": "502b6a01b8fe46b5d6f252ddc1aeaed3f31fc812ed4b2023bc2624264d273d99",
+    "valetudo-aarch64": "75073edb47f49dffa46184a9e4bf9de4ee450c8736281a6e3a29e68033c86489",
+    "valetudo-armv7.upx": "1d933cf5bc44c041b3aace0969497383c77f02341d64ec6316bf857be0596db6",
+    "valetudo-armv7-lowmem.upx": "39e7f5e49d2b9ef3e8af314fa3735c7264a5a5e3686204d32f989b651281e58b",
+    "valetudo-aarch64.upx": "ba51b10b037479971cf9ae5d3bf9cb3e65f8d82a55cc9d17ba9b817781575e8c"
   },
-  "changelog": "## Valetudo nightly (2024-03-23T02:13:17.102Z)\n\n### Features\n\n- **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)\n\n### Fixes\n\n- **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)\n- Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
+  "changelog": "## Valetudo nightly (2024-03-24T02:16:33.661Z)\n\n### Features\n\n- Allow advanced users to customize their system ID [`a9868f7`](https://github.com/Hypfer/Valetudo/commit/a9868f720a4ad8979dbcd27af0b0c3f72a6c8a65)\n- **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)\n\n### Fixes\n\n- **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)\n- **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)\n\n### Chores\n\n- **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)\n- Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)\n- Update workflow [`7b6f506`](https://github.com/Hypfer/Valetudo/commit/7b6f506bce15486c51a6d5f4b9190dea8b55f929)\n"
 }

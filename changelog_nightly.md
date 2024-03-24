@@ -1,7 +1,8 @@
-## Valetudo nightly (2024-03-23T02:13:17.102Z)
+## Valetudo nightly (2024-03-24T02:16:33.661Z)
 
 ### Features
 
+- Allow advanced users to customize their system ID [`a9868f7`](https://github.com/Hypfer/Valetudo/commit/a9868f720a4ad8979dbcd27af0b0c3f72a6c8a65)
 - **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)
 
 ### Fixes
