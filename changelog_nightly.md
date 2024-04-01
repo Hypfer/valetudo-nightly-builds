@@ -1,7 +1,8 @@
-## Valetudo nightly (2024-03-31T02:16:04.576Z)
+## Valetudo nightly (2024-04-01T02:19:25.848Z)
 
 ### Features
 
+- **vendor.roborock**: dryer module support for S8 Pro and G10s (#2037) [`37f386a`](https://github.com/Hypfer/Valetudo/commit/37f386a509f30230da4ffd0a9afa33aa06f96bea)
 - Allow advanced users to customize their system ID [`a9868f7`](https://github.com/Hypfer/Valetudo/commit/a9868f720a4ad8979dbcd27af0b0c3f72a6c8a65)
 - **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)
 
