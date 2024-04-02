@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-04-02T02:15:35.560Z)
+## Valetudo nightly (2024-04-02T08:59:29.535Z)
 
 ### Features
 
@@ -8,6 +8,7 @@
 
 ### Fixes
 
+- Fix ConfigPath env variable [`e7d2bc6`](https://github.com/Hypfer/Valetudo/commit/e7d2bc60d489403c5cba310dbe914918b672d2e1)
 - **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)
 - **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)
 
