@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-04-07T02:15:48.409Z)
+## Valetudo nightly (2024-04-08T02:15:09.900Z)
 
 ### Features
 
@@ -8,6 +8,7 @@
 
 ### Fixes
 
+- **vendor.3ir**: Fix parsing of maps with different dimensions than 800x800px [`648b07e`](https://github.com/Hypfer/Valetudo/commit/648b07e8434477aeb2ba9c6dfbd27f003505c76c)
 - Fix ConfigPath env variable [`e7d2bc6`](https://github.com/Hypfer/Valetudo/commit/e7d2bc60d489403c5cba310dbe914918b672d2e1)
 - **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)
 - **vendor.dreame**: Remove mop drying time quirk from the W10 Pro as it is not implemented by the firmware [`28c91b6`](https://github.com/Hypfer/Valetudo/commit/28c91b65ad7af7a77fad32b84a6f6a75865446ba)
