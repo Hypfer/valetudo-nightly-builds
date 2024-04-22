@@ -1,13 +1,16 @@
-## Valetudo nightly (2024-04-21T02:17:16.292Z)
+## Valetudo nightly (2024-04-22T02:16:39.099Z)
 
 ### Features
 
+- AutoEmptyDockAutoEmptyIntervalControlCapability [`6465975`](https://github.com/Hypfer/Valetudo/commit/6465975d8edfdcba389593da629ef6bf6acfd81e)
+- **vendor.dreame**: L10S Pro Ultra Heat support [`99e13da`](https://github.com/Hypfer/Valetudo/commit/99e13da0d5e49afda2dd0983df16f9314a3bec29)
 - **vendor.roborock**: dryer module support for S8 Pro and G10s (#2037) [`37f386a`](https://github.com/Hypfer/Valetudo/commit/37f386a509f30230da4ffd0a9afa33aa06f96bea)
 - Allow advanced users to customize their system ID [`a9868f7`](https://github.com/Hypfer/Valetudo/commit/a9868f720a4ad8979dbcd27af0b0c3f72a6c8a65)
 - **ui**: Speed up all animations by 2x [`8f26ae7`](https://github.com/Hypfer/Valetudo/commit/8f26ae712b541e8e8b73bdc54260ca3a25b8415e)
 
 ### Fixes
 
+- **vendor.dreame**: GoTo support has been removed from later X10plus firmwares [`b1f58ab`](https://github.com/Hypfer/Valetudo/commit/b1f58abfffa611e614af09675a8bbe71e8a30ce6)
 - **vendor.3ir**: Fix parsing of maps with different dimensions than 800x800px [`648b07e`](https://github.com/Hypfer/Valetudo/commit/648b07e8434477aeb2ba9c6dfbd27f003505c76c)
 - Fix ConfigPath env variable [`e7d2bc6`](https://github.com/Hypfer/Valetudo/commit/e7d2bc60d489403c5cba310dbe914918b672d2e1)
 - **vendor.dreame**: Document error code 117 (#2020) [`4af21c7`](https://github.com/Hypfer/Valetudo/commit/4af21c7596b69a50a1ef0ef63e15858030836751)
