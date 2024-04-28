@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-04-27T02:15:10.231Z)
+## Valetudo nightly (2024-04-28T02:18:55.373Z)
 
 ### Features
 
@@ -10,6 +10,7 @@
 
 ### Fixes
 
+- **ui**: Prevent the creation of virtual walls with a length of 0 [`b3417d2`](https://github.com/Hypfer/Valetudo/commit/b3417d2d0074f95387dfd9c1d28147641b5f6e6d)
 - **vendor.dreame**: GoTo support has been removed from later X10plus firmwares [`b1f58ab`](https://github.com/Hypfer/Valetudo/commit/b1f58abfffa611e614af09675a8bbe71e8a30ce6)
 - **vendor.3ir**: Fix parsing of maps with different dimensions than 800x800px [`648b07e`](https://github.com/Hypfer/Valetudo/commit/648b07e8434477aeb2ba9c6dfbd27f003505c76c)
 - Fix ConfigPath env variable [`e7d2bc6`](https://github.com/Hypfer/Valetudo/commit/e7d2bc60d489403c5cba310dbe914918b672d2e1)
