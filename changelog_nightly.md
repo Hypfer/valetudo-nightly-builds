@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-05-16T02:17:48.464Z)
+## Valetudo nightly (2024-05-17T02:31:41.862Z)
 
 ### Features
 
@@ -21,6 +21,7 @@
 
 ### Chores
 
+- More random github action cron schedules [`4076f6a`](https://github.com/Hypfer/Valetudo/commit/4076f6aa7e5f708de54f99ea228059ced81bb512)
 - **build**: Bump all github actions to node 20 [`17dadc7`](https://github.com/Hypfer/Valetudo/commit/17dadc7a606a18f90541827c97707d6e70a9a322)
 - **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)
 - Discussion template [`fe6e6cc`](https://github.com/Hypfer/Valetudo/commit/fe6e6cc38a4ff1d7101e97b71aa18e01cfabff6e)
