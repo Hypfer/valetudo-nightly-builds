@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-05-24T02:32:07.171Z)
+## Valetudo nightly (2024-05-25T02:31:37.896Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
