@@ -1,10 +1,11 @@
-## Valetudo nightly (2024-05-25T02:31:37.896Z)
+## Valetudo nightly (2024-05-26T02:35:34.407Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
 
 ### Features
 
+- **ui**: Custom icons for Fan speeds, Water grades and Operation modes [`03ff290`](https://github.com/Hypfer/Valetudo/commit/03ff2909a925235a4a7a972b931deb04b1983aba)
 - AutoEmptyDockAutoEmptyIntervalControlCapability [`6465975`](https://github.com/Hypfer/Valetudo/commit/6465975d8edfdcba389593da629ef6bf6acfd81e)
 - **vendor.dreame**: L10S Pro Ultra Heat support [`99e13da`](https://github.com/Hypfer/Valetudo/commit/99e13da0d5e49afda2dd0983df16f9314a3bec29)
 - **vendor.roborock**: dryer module support for S8 Pro and G10s (#2037) [`37f386a`](https://github.com/Hypfer/Valetudo/commit/37f386a509f30230da4ffd0a9afa33aa06f96bea)
