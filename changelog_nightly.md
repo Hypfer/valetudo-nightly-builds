@@ -1,10 +1,12 @@
-## Valetudo nightly (2024-05-27T02:32:26.312Z)
+## Valetudo nightly (2024-05-28T02:32:20.950Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
 
 ### Features
 
+- **ui**: Refactor, redesign and rearrange controls a bit [`138f0d9`](https://github.com/Hypfer/Valetudo/commit/138f0d911c4d07a0839ad2a770c7951280a4c372)
+- **ui**: Change desktop UI breakpoint from min 600px to min 750px width [`97818ac`](https://github.com/Hypfer/Valetudo/commit/97818acc183db36e5a3d87e77fee403fc7d35adc)
 - **ui**: Custom icons for Fan speeds, Water grades and Operation modes [`03ff290`](https://github.com/Hypfer/Valetudo/commit/03ff2909a925235a4a7a972b931deb04b1983aba)
 - AutoEmptyDockAutoEmptyIntervalControlCapability [`6465975`](https://github.com/Hypfer/Valetudo/commit/6465975d8edfdcba389593da629ef6bf6acfd81e)
 - **vendor.dreame**: L10S Pro Ultra Heat support [`99e13da`](https://github.com/Hypfer/Valetudo/commit/99e13da0d5e49afda2dd0983df16f9314a3bec29)
