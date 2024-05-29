@@ -1,10 +1,11 @@
-## Valetudo nightly (2024-05-28T02:32:20.950Z)
+## Valetudo nightly (2024-05-29T02:32:51.848Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
 
 ### Features
 
+- **ui**: Loading animation cleanup [`d8714dd`](https://github.com/Hypfer/Valetudo/commit/d8714ddeb97d20b59b2ccb56be72ed927d5f8c6d)
 - **ui**: Refactor, redesign and rearrange controls a bit [`138f0d9`](https://github.com/Hypfer/Valetudo/commit/138f0d911c4d07a0839ad2a770c7951280a4c372)
 - **ui**: Change desktop UI breakpoint from min 600px to min 750px width [`97818ac`](https://github.com/Hypfer/Valetudo/commit/97818acc183db36e5a3d87e77fee403fc7d35adc)
 - **ui**: Custom icons for Fan speeds, Water grades and Operation modes [`03ff290`](https://github.com/Hypfer/Valetudo/commit/03ff2909a925235a4a7a972b931deb04b1983aba)
@@ -16,6 +17,7 @@
 
 ### Fixes
 
+- **ui**: Fix missing controls card content indentation [`31519e1`](https://github.com/Hypfer/Valetudo/commit/31519e164c854e691b404b7478ecadf62c5c03d1)
 - **mqtt**: Bump to mqttjs v5.5.5 to fix some keep-alive related issues [`9dab16c`](https://github.com/Hypfer/Valetudo/commit/9dab16c50ef1922e6888f2902f1dbdde22792573)
 - **vendor.roborock**: The S6 does not support the MapSnapshotCapability [`7362514`](https://github.com/Hypfer/Valetudo/commit/7362514484faa4de86228ce3bff371fff80b9a6c)
 - **ui**: Prevent the creation of virtual walls with a length of 0 [`b3417d2`](https://github.com/Hypfer/Valetudo/commit/b3417d2d0074f95387dfd9c1d28147641b5f6e6d)
