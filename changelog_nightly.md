@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-06-02T02:33:19.540Z)
+## Valetudo nightly (2024-06-03T02:32:49.565Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
@@ -17,6 +17,7 @@
 
 ### Fixes
 
+- Don't crash the process if we're not able to persist the config [`cc0cd41`](https://github.com/Hypfer/Valetudo/commit/cc0cd41852d6d064cf18188bc8bdd5172426b602)
 - **ui**: Fix missing controls card content indentation [`31519e1`](https://github.com/Hypfer/Valetudo/commit/31519e164c854e691b404b7478ecadf62c5c03d1)
 - **mqtt**: Bump to mqttjs v5.5.5 to fix some keep-alive related issues [`9dab16c`](https://github.com/Hypfer/Valetudo/commit/9dab16c50ef1922e6888f2902f1dbdde22792573)
 - **vendor.roborock**: The S6 does not support the MapSnapshotCapability [`7362514`](https://github.com/Hypfer/Valetudo/commit/7362514484faa4de86228ce3bff371fff80b9a6c)
