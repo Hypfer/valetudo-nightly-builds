@@ -1,10 +1,16 @@
-## Valetudo nightly (2024-06-08T02:32:32.250Z)
+## Valetudo nightly (2024-06-09T02:33:38.707Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
 
 ### Features
 
+- **ui**: Better feedback for the dock controls [`7a318cf`](https://github.com/Hypfer/Valetudo/commit/7a318cfb70bb1d8119e209dd39ff9fbb54ce3d7d)
+- **mqtt**: Optionally expose ObstacleAvoidanceControlCapability [`9866d94`](https://github.com/Hypfer/Valetudo/commit/9866d9498763e14c5452c86cb0f8c772d1b56800)
+- **mqtt**: Optionally expose KeyLockCapability [`572e3ce`](https://github.com/Hypfer/Valetudo/commit/572e3ce329ab6b8d92f9dfc9bb072ca3b8cbd8c6)
+- **vendor.dreame**: R2416 support [`d87dca8`](https://github.com/Hypfer/Valetudo/commit/d87dca8028422528664a7f9aa6138a35ea2e61c0)
+- OperationModeControlCapability: Vacuum then Mop Mode [`1937de9`](https://github.com/Hypfer/Valetudo/commit/1937de9b0fcd33d6cdda491a9b8d6cdd4fbc0701)
+- CarpetSensorModeControlCapability: Detach Mode [`6c3dd7e`](https://github.com/Hypfer/Valetudo/commit/6c3dd7eae49e32f195ebe9395c40e3c86dd299c2)
 - **ui**: Loading animation cleanup [`d8714dd`](https://github.com/Hypfer/Valetudo/commit/d8714ddeb97d20b59b2ccb56be72ed927d5f8c6d)
 - **ui**: Refactor, redesign and rearrange controls a bit [`138f0d9`](https://github.com/Hypfer/Valetudo/commit/138f0d911c4d07a0839ad2a770c7951280a4c372)
 - **ui**: Change desktop UI breakpoint from min 600px to min 750px width [`97818ac`](https://github.com/Hypfer/Valetudo/commit/97818acc183db36e5a3d87e77fee403fc7d35adc)
@@ -17,6 +23,11 @@
 
 ### Fixes
 
+- **ui**: Don't display preset value until it is actually committed [`33615ec`](https://github.com/Hypfer/Valetudo/commit/33615ec190612ba4f77b8354932a7a2648d5d5cc)
+- **vendor.dreame**: Warn on unknown preset value [`77be950`](https://github.com/Hypfer/Valetudo/commit/77be950a2c475bb95e9778da3e5d651d847a7024)
+- **mqtt**: Always refresh gettable handles after setting [`6ca4eb9`](https://github.com/Hypfer/Valetudo/commit/6ca4eb940d8a59f4a4c2cd6f6f9a25d9b0bec453)
+- **MockRobot**: Remove turbo water grade [`92b351a`](https://github.com/Hypfer/Valetudo/commit/92b351a1d91191d444d3a2667f01f7af423e5b41)
+- **timers**: Wait a few seconds after executing pre_actions to give the firmware some time to report back its state [`f0101b7`](https://github.com/Hypfer/Valetudo/commit/f0101b7aabe9d542cb4090460607131d3091d95a)
 - Don't crash the process if we're not able to persist the config [`cc0cd41`](https://github.com/Hypfer/Valetudo/commit/cc0cd41852d6d064cf18188bc8bdd5172426b602)
 - **ui**: Fix missing controls card content indentation [`31519e1`](https://github.com/Hypfer/Valetudo/commit/31519e164c854e691b404b7478ecadf62c5c03d1)
 - **mqtt**: Bump to mqttjs v5.5.5 to fix some keep-alive related issues [`9dab16c`](https://github.com/Hypfer/Valetudo/commit/9dab16c50ef1922e6888f2902f1dbdde22792573)
@@ -30,6 +41,7 @@
 
 ### Chores
 
+- Misc cleanup [`0a036ef`](https://github.com/Hypfer/Valetudo/commit/0a036eff5366ded02787de4f740350fc75cace5a)
 - More random github action cron schedules [`4076f6a`](https://github.com/Hypfer/Valetudo/commit/4076f6aa7e5f708de54f99ea228059ced81bb512)
 - **build**: Bump all github actions to node 20 [`17dadc7`](https://github.com/Hypfer/Valetudo/commit/17dadc7a606a18f90541827c97707d6e70a9a322)
 - **ui**: Update TLS wording (#2012) [`97296b6`](https://github.com/Hypfer/Valetudo/commit/97296b6fdab3f37eef639234344789fe7af31bac)
