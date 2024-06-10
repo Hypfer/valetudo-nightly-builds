@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-06-09T02:33:38.707Z)
+## Valetudo nightly (2024-06-10T02:33:32.502Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
@@ -23,6 +23,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Fix detergent property value 3 mapping [`09e2083`](https://github.com/Hypfer/Valetudo/commit/09e20834beb4b2eaa900c3015fe255158a196e77)
 - **ui**: Don't display preset value until it is actually committed [`33615ec`](https://github.com/Hypfer/Valetudo/commit/33615ec190612ba4f77b8354932a7a2648d5d5cc)
 - **vendor.dreame**: Warn on unknown preset value [`77be950`](https://github.com/Hypfer/Valetudo/commit/77be950a2c475bb95e9778da3e5d651d847a7024)
 - **mqtt**: Always refresh gettable handles after setting [`6ca4eb9`](https://github.com/Hypfer/Valetudo/commit/6ca4eb940d8a59f4a4c2cd6f6f9a25d9b0bec453)
