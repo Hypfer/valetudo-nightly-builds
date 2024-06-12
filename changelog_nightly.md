@@ -1,10 +1,11 @@
-## Valetudo nightly (2024-06-11T02:33:03.329Z)
+## Valetudo nightly (2024-06-12T02:33:19.160Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
 
 ### Features
 
+- **ui**: HiDPI support for the map renderer [`86555ae`](https://github.com/Hypfer/Valetudo/commit/86555ae5757773bc580a6e550cd203cc82e5ba46)
 - **ui**: Better feedback for the dock controls [`7a318cf`](https://github.com/Hypfer/Valetudo/commit/7a318cfb70bb1d8119e209dd39ff9fbb54ce3d7d)
 - **mqtt**: Optionally expose ObstacleAvoidanceControlCapability [`9866d94`](https://github.com/Hypfer/Valetudo/commit/9866d9498763e14c5452c86cb0f8c772d1b56800)
 - **mqtt**: Optionally expose KeyLockCapability [`572e3ce`](https://github.com/Hypfer/Valetudo/commit/572e3ce329ab6b8d92f9dfc9bb072ca3b8cbd8c6)
