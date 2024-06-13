@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-06-12T02:33:19.160Z)
+## Valetudo nightly (2024-06-13T02:32:57.505Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
@@ -24,6 +24,8 @@
 
 ### Fixes
 
+- **vendor.dreame**: Reduce repoll delay right after startup to reduce the time to first map on some dreames [`a7b2cc4`](https://github.com/Hypfer/Valetudo/commit/a7b2cc430c02e152636523529eb569d4d353d8c3)
+- **ui**: Fix some hiDPI related issues [`13f7db3`](https://github.com/Hypfer/Valetudo/commit/13f7db381a5d09e0176c0e0b841d732454754000)
 - **ui**: Draw stroke before fill for map structures that have text to fix rendering on firefox mobile [`7d9255b`](https://github.com/Hypfer/Valetudo/commit/7d9255b7f3c83aa5c9263e48ac4bccae8fa2e1be)
 - **vendor.dreame**: Fix detergent property value 3 mapping [`09e2083`](https://github.com/Hypfer/Valetudo/commit/09e20834beb4b2eaa900c3015fe255158a196e77)
 - **ui**: Don't display preset value until it is actually committed [`33615ec`](https://github.com/Hypfer/Valetudo/commit/33615ec190612ba4f77b8354932a7a2648d5d5cc)
