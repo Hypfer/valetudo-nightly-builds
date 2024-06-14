@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-06-13T02:32:57.505Z)
+## Valetudo nightly (2024-06-14T02:33:18.569Z)
 ### Breaking Changes
 
 - **mqtt**: Remove deprecated schema property from HA vacuum entity autodiscovery data [`ef92967`](https://github.com/Hypfer/Valetudo/commit/ef92967f7566bbe611fcfeb79e60f3f0f083d5ff)
@@ -24,6 +24,7 @@
 
 ### Fixes
 
+- **ui**: Extending HTML elements is not supported by safari [`4f72632`](https://github.com/Hypfer/Valetudo/commit/4f72632e195c13f6110743461c776a92b5e3197a)
 - **vendor.dreame**: Reduce repoll delay right after startup to reduce the time to first map on some dreames [`a7b2cc4`](https://github.com/Hypfer/Valetudo/commit/a7b2cc430c02e152636523529eb569d4d353d8c3)
 - **ui**: Fix some hiDPI related issues [`13f7db3`](https://github.com/Hypfer/Valetudo/commit/13f7db381a5d09e0176c0e0b841d732454754000)
 - **ui**: Draw stroke before fill for map structures that have text to fix rendering on firefox mobile [`7d9255b`](https://github.com/Hypfer/Valetudo/commit/7d9255b7f3c83aa5c9263e48ac4bccae8fa2e1be)
