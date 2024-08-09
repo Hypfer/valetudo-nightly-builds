@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-08T02:34:21.536Z",
+  "timestamp": "2024-08-09T02:35:04.529Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "2e2dfa76adfbbfbb4cb52f9f188293371307db6002dc9f065125a050b9753b3c",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "fce0352565cf51f049126b76abbff65e1411e2154772bf364ab8214b89156ce2",
     "valetudo-aarch64.upx": "0d2fe2c63d1b629429841b6a3e1d27f1b4bf8897e4136586abf09f405c68b6cf"
   },
-  "changelog": "## Valetudo nightly (2024-08-08T02:34:21.340Z)\n\n### Features\n\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n"
+  "changelog": "## Valetudo nightly (2024-08-09T02:35:04.326Z)\n\n### Features\n\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n"
 }
