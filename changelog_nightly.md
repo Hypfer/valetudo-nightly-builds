@@ -1,5 +1,9 @@
-## Valetudo nightly (2024-08-26T02:35:36.059Z)
+## Valetudo nightly (2024-08-27T02:35:58.147Z)
 
 ### Features
 
 - **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)
+
+### Chores
+
+- Update PR template [`ddcf3e1`](https://github.com/Hypfer/Valetudo/commit/ddcf3e15909dce5e49815422566b8a8fbe6f48da)
