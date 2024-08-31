@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-08-30T02:38:34.444Z",
+  "timestamp": "2024-08-31T02:37:25.824Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "67105795189da5163e2ec5e820ed2e450b6cb5b0963ddfbe3a932329b2abdc08",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "6f83522b73f297163a4e54e3554e3069f6609bb50c6edb486f89639409ef346a",
     "valetudo-aarch64.upx": "8c239b7f5a7d2502f6aa31bb7f3624f987b01cce0f1c20e0fef70ea3f29a972f"
   },
-  "changelog": "## Valetudo nightly (2024-08-30T02:38:34.232Z)\n\n### Features\n\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n\n### Chores\n\n- Update PR template [`ddcf3e1`](https://github.com/Hypfer/Valetudo/commit/ddcf3e15909dce5e49815422566b8a8fbe6f48da)\n"
+  "changelog": "## Valetudo nightly (2024-08-31T02:37:25.630Z)\n\n### Features\n\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n\n### Chores\n\n- Update PR template [`ddcf3e1`](https://github.com/Hypfer/Valetudo/commit/ddcf3e15909dce5e49815422566b8a8fbe6f48da)\n"
 }
