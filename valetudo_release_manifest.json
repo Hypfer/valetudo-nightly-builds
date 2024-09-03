@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-09-02T02:40:35.412Z",
+  "timestamp": "2024-09-03T02:37:17.741Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "67105795189da5163e2ec5e820ed2e450b6cb5b0963ddfbe3a932329b2abdc08",
-    "valetudo-armv7-lowmem": "1b5833b228f21cd0b5f5ded56354a56c8f937d8beb164d0b12025da2bf0257da",
-    "valetudo-aarch64": "08b836b06ab0e662d094d8fa453940925788b2d5a493e5b7044378c375d4bc2e",
-    "valetudo-armv7.upx": "737da34e6971942856cbe8221d1a19c7f0d0b2291ca9005501573e0f8fee3086",
-    "valetudo-armv7-lowmem.upx": "6f83522b73f297163a4e54e3554e3069f6609bb50c6edb486f89639409ef346a",
-    "valetudo-aarch64.upx": "8c239b7f5a7d2502f6aa31bb7f3624f987b01cce0f1c20e0fef70ea3f29a972f"
+    "valetudo-armv7": "d19f4893f2be6a19224a12e88937f86e6ffcd559e8cd57d0a7434f9ff379ba12",
+    "valetudo-armv7-lowmem": "52cbfd62a7f1ca9f7188062eb162252014b4a5609d84a718e97806e62f8285b8",
+    "valetudo-aarch64": "bbbb7724d821a0f99235431c6c84f769797b0c2c8350a482069c4b7877c9480c",
+    "valetudo-armv7.upx": "9554815247b9d03635efdfa9adbc637090a81d7666422598c6b77edce458dc5a",
+    "valetudo-armv7-lowmem.upx": "f467e28c002032eaafaf8e36269050cbaad525d9d2faf850606a3670ced9678b",
+    "valetudo-aarch64.upx": "6281416ac20f5f711bc1cb0d67c6c1b44b42613d557f4cc71315f0523c63f496"
   },
-  "changelog": "## Valetudo nightly (2024-09-02T02:40:35.209Z)\n\n### Features\n\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n\n### Chores\n\n- Update PR template [`ddcf3e1`](https://github.com/Hypfer/Valetudo/commit/ddcf3e15909dce5e49815422566b8a8fbe6f48da)\n"
+  "changelog": "## Valetudo nightly (2024-09-03T02:37:17.543Z)\n\n### Features\n\n- Display the actual CPU usage instead of the system load [`d0f754b`](https://github.com/Hypfer/Valetudo/commit/d0f754bc1029b10859648980349fb5bfacb21505)\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n\n### Fixes\n\n- A config reset should not reset the robot config [`28d674f`](https://github.com/Hypfer/Valetudo/commit/28d674f4e5d3dcda97807c855c018c35e1f7f9bb)\n- **ui**: Fix cutting line being invisible when using the light theme [`a2a1d40`](https://github.com/Hypfer/Valetudo/commit/a2a1d4061d605bd60c148a6464a1945ff59595bb)\n\n### Chores\n\n- Update PR template [`ddcf3e1`](https://github.com/Hypfer/Valetudo/commit/ddcf3e15909dce5e49815422566b8a8fbe6f48da)\n"
 }
