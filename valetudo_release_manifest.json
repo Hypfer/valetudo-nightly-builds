@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-09-03T02:37:17.741Z",
+  "timestamp": "2024-09-04T02:38:15.979Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "d19f4893f2be6a19224a12e88937f86e6ffcd559e8cd57d0a7434f9ff379ba12",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "f467e28c002032eaafaf8e36269050cbaad525d9d2faf850606a3670ced9678b",
     "valetudo-aarch64.upx": "6281416ac20f5f711bc1cb0d67c6c1b44b42613d557f4cc71315f0523c63f496"
   },
-  "changelog": "## Valetudo nightly (2024-09-03T02:37:17.543Z)\n\n### Features\n\n- Display the actual CPU usage instead of the system load [`d0f754b`](https://github.com/Hypfer/Valetudo/commit/d0f754bc1029b10859648980349fb5bfacb21505)\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n\n### Fixes\n\n- A config reset should not reset the robot config [`28d674f`](https://github.com/Hypfer/Valetudo/commit/28d674f4e5d3dcda97807c855c018c35e1f7f9bb)\n- **ui**: Fix cutting line being invisible when using the light theme [`a2a1d40`](https://github.com/Hypfer/Valetudo/commit/a2a1d4061d605bd60c148a6464a1945ff59595bb)\n\n### Chores\n\n- Update PR template [`ddcf3e1`](https://github.com/Hypfer/Valetudo/commit/ddcf3e15909dce5e49815422566b8a8fbe6f48da)\n"
+  "changelog": "## Valetudo nightly (2024-09-04T02:38:15.777Z)\n\n### Features\n\n- Display the actual CPU usage instead of the system load [`d0f754b`](https://github.com/Hypfer/Valetudo/commit/d0f754bc1029b10859648980349fb5bfacb21505)\n- **ui**: Draw half-transparent path in virtual restrictions edit map to make placing restrictions correctly easier [`ca077b6`](https://github.com/Hypfer/Valetudo/commit/ca077b66c345599293b721afadf40444945838b9)\n\n### Fixes\n\n- A config reset should not reset the robot config [`28d674f`](https://github.com/Hypfer/Valetudo/commit/28d674f4e5d3dcda97807c855c018c35e1f7f9bb)\n- **ui**: Fix cutting line being invisible when using the light theme [`a2a1d40`](https://github.com/Hypfer/Valetudo/commit/a2a1d4061d605bd60c148a6464a1945ff59595bb)\n\n### Chores\n\n- Update PR template [`ddcf3e1`](https://github.com/Hypfer/Valetudo/commit/ddcf3e15909dce5e49815422566b8a8fbe6f48da)\n"
 }
