@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-09-06T06:33:32.489Z)
+## Valetudo nightly (2024-09-07T02:37:17.812Z)
 
 ### Features
 
@@ -10,8 +10,7 @@
 
 ### Fixes
 
-- **vendor.dreame**: New custom segment order style does not apply to the l10spuh [`edd4bdb`](https://github.com/Hypfer/Valetudo/commit/edd4bdb1b85516507cc24282a54f1024be6b10e4)
-- **vendor.dreame**: Newer dreames communicate the segment order differently [`405c0b6`](https://github.com/Hypfer/Valetudo/commit/405c0b6db59b565c744df37a013f58fb37385864)
+- **vendor.dreame**: Fix Mop Dock Water Heater quirk [`20917a7`](https://github.com/Hypfer/Valetudo/commit/20917a705691586f369e511d9eeb3e560335ba58)
 - A config reset should not reset the robot config [`28d674f`](https://github.com/Hypfer/Valetudo/commit/28d674f4e5d3dcda97807c855c018c35e1f7f9bb)
 - **ui**: Fix cutting line being invisible when using the light theme [`a2a1d40`](https://github.com/Hypfer/Valetudo/commit/a2a1d4061d605bd60c148a6464a1945ff59595bb)
 
