@@ -1,7 +1,8 @@
-## Valetudo nightly (2024-09-14T02:38:28.144Z)
+## Valetudo nightly (2024-09-14T15:29:50.366Z)
 
 ### Features
 
+- **vendor.dreame**: Add quirk for triggering the mop dock cleaning procedure [`76280bd`](https://github.com/Hypfer/Valetudo/commit/76280bdfc6c75bdfb6a6be72c53e631a35b60f8c)
 - **vendor.dreame**: ObstacleImagesCapability [`67ee71c`](https://github.com/Hypfer/Valetudo/commit/67ee71ce58528e78eb0664f4980ede54f5625b28)
 - **ui**: ObstacleImagesCapability [`30b5fc8`](https://github.com/Hypfer/Valetudo/commit/30b5fc8a3d248e16c7868d3343688632a4ca3435)
 - **core**: ObstacleImagesCapability [`f9fa9d0`](https://github.com/Hypfer/Valetudo/commit/f9fa9d0b6027ae188fe219faa5b24e9ae840bfa1)
@@ -10,9 +11,15 @@
 
 ### Fixes
 
+- **webserver**: Valetudo router rate limits should be global [`7a6eb1e`](https://github.com/Hypfer/Valetudo/commit/7a6eb1ee0b85bbafd7776d513b505ba2f01f1dd1)
 - **vendor.dreame**: Fix Mop Dock Water Heater quirk [`20917a7`](https://github.com/Hypfer/Valetudo/commit/20917a705691586f369e511d9eeb3e560335ba58)
 - A config reset should not reset the robot config [`28d674f`](https://github.com/Hypfer/Valetudo/commit/28d674f4e5d3dcda97807c855c018c35e1f7f9bb)
 - **ui**: Fix cutting line being invisible when using the light theme [`a2a1d40`](https://github.com/Hypfer/Valetudo/commit/a2a1d4061d605bd60c148a6464a1945ff59595bb)
+
+### Refactoring
+
+- **vendor.dreame**: Add more AI classifier IDs and pull the constant into DreameUtils [`0928cf0`](https://github.com/Hypfer/Valetudo/commit/0928cf01aff8b374dd9759a5252b6b63b9dc33a5)
+- **webserver**: Use rate limiters instead of semaphore in ObstacleImagesCapabilityRouter [`90e5ab9`](https://github.com/Hypfer/Valetudo/commit/90e5ab935fc8a9d73365f0babcaab0b93054bf2e)
 
 ### Chores
 
