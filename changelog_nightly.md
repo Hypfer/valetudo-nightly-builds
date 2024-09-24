@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-09-23T02:44:23.912Z)
+## Valetudo nightly (2024-09-24T02:44:27.082Z)
 
 ### Features
 
@@ -11,6 +11,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Fix MopDockCleanManualTriggerCapability for everything that is not a pure mop [`3513cbc`](https://github.com/Hypfer/Valetudo/commit/3513cbc698cdc27fee86c9dda12f0f98e5eba957)
 - **webserver**: Valetudo router rate limits should be global [`7a6eb1e`](https://github.com/Hypfer/Valetudo/commit/7a6eb1ee0b85bbafd7776d513b505ba2f01f1dd1)
 - **vendor.dreame**: Fix Mop Dock Water Heater quirk [`20917a7`](https://github.com/Hypfer/Valetudo/commit/20917a705691586f369e511d9eeb3e560335ba58)
 - A config reset should not reset the robot config [`28d674f`](https://github.com/Hypfer/Valetudo/commit/28d674f4e5d3dcda97807c855c018c35e1f7f9bb)
@@ -23,6 +24,7 @@
 
 ### Chores
 
+- Bump dependencies [`79deca1`](https://github.com/Hypfer/Valetudo/commit/79deca12ea907228d40298ed6fff1a133ae780e3)
 - Fix the wrong link in the right place [`2152e20`](https://github.com/Hypfer/Valetudo/commit/2152e20b6eb34eed0bad02cd3fba6f34a1495a86)
 - Bump some transitive dependencies [`dc3b96e`](https://github.com/Hypfer/Valetudo/commit/dc3b96e87d0f9a3c5fdcacf299ab33d42bfad691)
 - **ui**: Resolve issues detected by sonarcloud [`b56ed1c`](https://github.com/Hypfer/Valetudo/commit/b56ed1ca6e29cde2ad2326c5bbc8c81a9b6146e6)
