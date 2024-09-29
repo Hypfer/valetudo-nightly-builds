@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-09-28T02:42:53.011Z)
+## Valetudo nightly (2024-09-29T02:46:51.365Z)
 
 ### Features
 
@@ -11,6 +11,7 @@
 
 ### Fixes
 
+- **ui**: Fix zoom level after zooming in and back out again not ending up where it started [`2e5a9c2`](https://github.com/Hypfer/Valetudo/commit/2e5a9c20bcdb19e43fecb5a62c99027c8dcaf734)
 - **vendor.dreame**: Fix MopDockCleanManualTriggerCapability for everything that is not a pure mop [`3513cbc`](https://github.com/Hypfer/Valetudo/commit/3513cbc698cdc27fee86c9dda12f0f98e5eba957)
 - **webserver**: Valetudo router rate limits should be global [`7a6eb1e`](https://github.com/Hypfer/Valetudo/commit/7a6eb1ee0b85bbafd7776d513b505ba2f01f1dd1)
 - **vendor.dreame**: Fix Mop Dock Water Heater quirk [`20917a7`](https://github.com/Hypfer/Valetudo/commit/20917a705691586f369e511d9eeb3e560335ba58)
