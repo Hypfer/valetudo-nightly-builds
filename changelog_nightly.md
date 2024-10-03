@@ -1,7 +1,8 @@
-## Valetudo nightly (2024-10-02T02:43:52.004Z)
+## Valetudo nightly (2024-10-03T02:44:30.225Z)
 
 ### Features
 
+- **vendor.dreame**: D10s Pro/Plus also support Obstacle Images [`63279c4`](https://github.com/Hypfer/Valetudo/commit/63279c44a0362e8b75e9729c63c655a6d7863089)
 - **vendor.dreame**: Add quirk for triggering the mop dock cleaning procedure [`76280bd`](https://github.com/Hypfer/Valetudo/commit/76280bdfc6c75bdfb6a6be72c53e631a35b60f8c)
 - **vendor.dreame**: ObstacleImagesCapability [`67ee71c`](https://github.com/Hypfer/Valetudo/commit/67ee71ce58528e78eb0664f4980ede54f5625b28)
 - **ui**: ObstacleImagesCapability [`30b5fc8`](https://github.com/Hypfer/Valetudo/commit/30b5fc8a3d248e16c7868d3343688632a4ca3435)
