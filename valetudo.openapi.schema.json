@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "Valetudo REST API",
-    "version": "2024.10.0"
+    "version": "unknown"
   },
   "tags": [
     {

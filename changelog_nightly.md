@@ -1,1 +1,19 @@
-## Valetudo nightly (2024-11-01T02:48:27.506Z)
+## Valetudo nightly (2024-11-02T02:42:39.824Z)
+
+### Features
+
+- **vendor.dreame**: Introduce water hookup test quirk [`cf20143`](https://github.com/Hypfer/Valetudo/commit/cf20143b75b876ba730fe52c3b8bf5fb75c9d9cb)
+
+### Fixes
+
+- Fix breakage caused by splitting changes into multiple commits [`dd6eac0`](https://github.com/Hypfer/Valetudo/commit/dd6eac067bceaea7a1e54d98c56853a91534a8f6)
+- **timers**: Allow execution of timers if time is plausible [`bf9ecb6`](https://github.com/Hypfer/Valetudo/commit/bf9ecb627be68fbce0e610ae1a710d529a037cf5)
+
+### Refactoring
+
+- Bake-in specifically crafted build_metadata file instead of random other files [`436fae6`](https://github.com/Hypfer/Valetudo/commit/436fae629385a23b2f6c9d91468e9d583f820a2b)
+- Remove unnecessary second call to process.memoryUsage.rss() every 2.5s [`8e336f6`](https://github.com/Hypfer/Valetudo/commit/8e336f6f9306c686569154c67d16d6620ecfcc2a)
+
+### Chores
+
+- Bump some dependencies [`89d1fb1`](https://github.com/Hypfer/Valetudo/commit/89d1fb1dbb0a5c164e608b5dfe7bab187d75a51b)

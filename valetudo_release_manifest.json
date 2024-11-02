@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-11-01T02:48:27.704Z",
+  "timestamp": "2024-11-02T02:42:40.054Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "15021c472cbefad28c8f08aaae5ae7fd9d2389cc7a1b74c681b19afb2b5cb13a",
-    "valetudo-armv7-lowmem": "eb4e5adfdf8a1234afe4d31d8994e7a3e6920eb34adc2811d777a05e845a56bd",
-    "valetudo-aarch64": "25f985cf7d21b8a27a98052911f85f2e5f05235d7ec32f29408847bec3fa95a2",
-    "valetudo-armv7.upx": "9ccd2ef8255e1c778cf89dd1b938385fd0579d77014ef2db84a1b5cb0ebaf26f",
-    "valetudo-armv7-lowmem.upx": "2460f7696219e1a626ed65e969f81e86beadaf3215024d9b4a18abc3ed41a473",
-    "valetudo-aarch64.upx": "d23a0f773d67bd2e9b2940a09f33c7066d45c457976fcc4e4c663e0c49b44dea"
+    "valetudo-armv7": "aed7bb4d975cc0384828df49ab431ead9d18d7b68e49c8c5c0578de3f3686f04",
+    "valetudo-armv7-lowmem": "82ab73e1e13b49f4478e5132ca40c79796a7c58faa14234b423a27f53673ed2d",
+    "valetudo-aarch64": "bdbe1fae8a4257177321598e5f576d266ba251f8baf7b3a8ece2a6d04cf2190d",
+    "valetudo-armv7.upx": "fd3bd4b44036820a3f250c55e0b9e3953f360b6f4f5fa199ea22462bc66bcc26",
+    "valetudo-armv7-lowmem.upx": "c40287e6c1d087d51a92a0268e2ce30af14189b506def7e04a33b1fbc042efcb",
+    "valetudo-aarch64.upx": "66d1544ca5ce922018161e8ec6e7b7e0fe4881659d9ad3ff94a5ae4ca0b2f88b"
   },
-  "changelog": "## Valetudo nightly (2024-11-01T02:48:27.506Z)\n"
+  "changelog": "## Valetudo nightly (2024-11-02T02:42:39.824Z)\n\n### Features\n\n- **vendor.dreame**: Introduce water hookup test quirk [`cf20143`](https://github.com/Hypfer/Valetudo/commit/cf20143b75b876ba730fe52c3b8bf5fb75c9d9cb)\n\n### Fixes\n\n- Fix breakage caused by splitting changes into multiple commits [`dd6eac0`](https://github.com/Hypfer/Valetudo/commit/dd6eac067bceaea7a1e54d98c56853a91534a8f6)\n- **timers**: Allow execution of timers if time is plausible [`bf9ecb6`](https://github.com/Hypfer/Valetudo/commit/bf9ecb627be68fbce0e610ae1a710d529a037cf5)\n\n### Refactoring\n\n- Bake-in specifically crafted build_metadata file instead of random other files [`436fae6`](https://github.com/Hypfer/Valetudo/commit/436fae629385a23b2f6c9d91468e9d583f820a2b)\n- Remove unnecessary second call to process.memoryUsage.rss() every 2.5s [`8e336f6`](https://github.com/Hypfer/Valetudo/commit/8e336f6f9306c686569154c67d16d6620ecfcc2a)\n\n### Chores\n\n- Bump some dependencies [`89d1fb1`](https://github.com/Hypfer/Valetudo/commit/89d1fb1dbb0a5c164e608b5dfe7bab187d75a51b)\n"
 }
