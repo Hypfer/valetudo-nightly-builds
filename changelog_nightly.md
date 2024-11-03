@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-11-02T02:42:39.824Z)
+## Valetudo nightly (2024-11-03T02:52:15.990Z)
 
 ### Features
 
@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Fix water hookup test quirk success state raising an error [`74731a6`](https://github.com/Hypfer/Valetudo/commit/74731a6bd491ca30717ca208ca666bf20b20a0d5)
 - Fix breakage caused by splitting changes into multiple commits [`dd6eac0`](https://github.com/Hypfer/Valetudo/commit/dd6eac067bceaea7a1e54d98c56853a91534a8f6)
 - **timers**: Allow execution of timers if time is plausible [`bf9ecb6`](https://github.com/Hypfer/Valetudo/commit/bf9ecb627be68fbce0e610ae1a710d529a037cf5)
 
