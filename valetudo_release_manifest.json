@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-11-03T02:52:16.208Z",
+  "timestamp": "2024-11-04T02:46:47.578Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "8220091adcb17ed919b6e23eaf71f75a2fd6c9c142ea0fe5ab9c41a0a0a92a0a",
-    "valetudo-armv7-lowmem": "d522a674dff5e619fc42bf5c108508331fa8393f40c8c0416b435cfc80c883dc",
-    "valetudo-aarch64": "4a240ee50be13be544d9e19eadacdbcc183d04ef558e28845a0bc6ab0adc15e7",
-    "valetudo-armv7.upx": "0a00a189eda002e0b32838fbb1291719f0e5aaf60f93336378a109c5671bd8cd",
-    "valetudo-armv7-lowmem.upx": "cdc55991356fdff88c9ac2e41d55b1dde18cca39a281e0359f37d2f8252935ad",
-    "valetudo-aarch64.upx": "8a8111b3cf702acbb342efcadd14a80f8532fec7ce3eb5f779c3693ce1851097"
+    "valetudo-armv7": "5082fbec37c9ee5043dc7674289600a93354361d706ef03b136631af770c8078",
+    "valetudo-armv7-lowmem": "e03fb32b7edcbca8838b3dacb0b10be24c2dbefe042e413d568b4472aad70384",
+    "valetudo-aarch64": "19703ab4abc23c7052fb5cb12319bd5749e4bad8dc8c9851ef2c7cac5de1ee7e",
+    "valetudo-armv7.upx": "529e3c40669db7a22604d7ae0cf8f4c44a118749195823840ed481aaa605aa81",
+    "valetudo-armv7-lowmem.upx": "7f3cc4086dcd8d46ec0e9308034d2a32e8820c081e8226085e05c12f287fa06c",
+    "valetudo-aarch64.upx": "477c4299c5e31f0aaaa99fb3f2d6c6629cac7c966bc8ba56d472d3c9447e6f98"
   },
-  "changelog": "## Valetudo nightly (2024-11-03T02:52:15.990Z)\n\n### Features\n\n- **vendor.dreame**: Introduce water hookup test quirk [`cf20143`](https://github.com/Hypfer/Valetudo/commit/cf20143b75b876ba730fe52c3b8bf5fb75c9d9cb)\n\n### Fixes\n\n- **vendor.dreame**: Fix water hookup test quirk success state raising an error [`74731a6`](https://github.com/Hypfer/Valetudo/commit/74731a6bd491ca30717ca208ca666bf20b20a0d5)\n- Fix breakage caused by splitting changes into multiple commits [`dd6eac0`](https://github.com/Hypfer/Valetudo/commit/dd6eac067bceaea7a1e54d98c56853a91534a8f6)\n- **timers**: Allow execution of timers if time is plausible [`bf9ecb6`](https://github.com/Hypfer/Valetudo/commit/bf9ecb627be68fbce0e610ae1a710d529a037cf5)\n\n### Refactoring\n\n- Bake-in specifically crafted build_metadata file instead of random other files [`436fae6`](https://github.com/Hypfer/Valetudo/commit/436fae629385a23b2f6c9d91468e9d583f820a2b)\n- Remove unnecessary second call to process.memoryUsage.rss() every 2.5s [`8e336f6`](https://github.com/Hypfer/Valetudo/commit/8e336f6f9306c686569154c67d16d6620ecfcc2a)\n\n### Chores\n\n- Bump some dependencies [`89d1fb1`](https://github.com/Hypfer/Valetudo/commit/89d1fb1dbb0a5c164e608b5dfe7bab187d75a51b)\n"
+  "changelog": "## Valetudo nightly (2024-11-04T02:46:47.341Z)\n\n### Features\n\n- **vendor.dreame**: Introduce water hookup test quirk [`cf20143`](https://github.com/Hypfer/Valetudo/commit/cf20143b75b876ba730fe52c3b8bf5fb75c9d9cb)\n\n### Fixes\n\n- **vendor.dreame**: Fix water hookup test quirk success state raising an error [`74731a6`](https://github.com/Hypfer/Valetudo/commit/74731a6bd491ca30717ca208ca666bf20b20a0d5)\n- Fix breakage caused by splitting changes into multiple commits [`dd6eac0`](https://github.com/Hypfer/Valetudo/commit/dd6eac067bceaea7a1e54d98c56853a91534a8f6)\n- **timers**: Allow execution of timers if time is plausible [`bf9ecb6`](https://github.com/Hypfer/Valetudo/commit/bf9ecb627be68fbce0e610ae1a710d529a037cf5)\n\n### Refactoring\n\n- Bake-in specifically crafted build_metadata file instead of random other files [`436fae6`](https://github.com/Hypfer/Valetudo/commit/436fae629385a23b2f6c9d91468e9d583f820a2b)\n- Remove unnecessary second call to process.memoryUsage.rss() every 2.5s [`8e336f6`](https://github.com/Hypfer/Valetudo/commit/8e336f6f9306c686569154c67d16d6620ecfcc2a)\n\n### Chores\n\n- Bump some dependencies [`89d1fb1`](https://github.com/Hypfer/Valetudo/commit/89d1fb1dbb0a5c164e608b5dfe7bab187d75a51b)\n"
 }
