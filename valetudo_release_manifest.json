@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-11-16T02:46:26.600Z",
+  "timestamp": "2024-11-17T02:48:25.473Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "2be06281a35a6e027cc4d15543d455b449ba38305ef06b74024cdec7d40ac24d",
-    "valetudo-armv7-lowmem": "4af3022b151edbdc0e08902ebf16f719dbf57cda0c7749b30f0f1c540a56e5bb",
-    "valetudo-aarch64": "d1b6cf85773157b4469d778ec0195c9e1a8fec823ef70a9cc317a2810ea0bf65",
-    "valetudo-armv7.upx": "0126cec0d7163199dfd3a8ce940abf8b0bdbb6deeb337cd83d4c5a386e2cccd4",
-    "valetudo-armv7-lowmem.upx": "170143b4b048414e4b7f6a3f2930d99ec12f958f7571363483bf7beefd463ed2",
-    "valetudo-aarch64.upx": "691427c54012732349ac9b748b45b2e9c8a40294a61671e13089b012fe1524d5"
+    "valetudo-armv7": "978d6f785da3dc36936dfbbfafd0476ff7c1a474ca849f50a202a07032c9a202",
+    "valetudo-armv7-lowmem": "71b1907bb8158c1dc152f63bb5688138712b9a6b2871c4958994b353d5dd8eae",
+    "valetudo-aarch64": "0312edc7351f2cb7898cabfe785b1ccaf2764f76c17a030050f374147d874ae0",
+    "valetudo-armv7.upx": "5ff39a4ab2fc210004b2d7d5f8650862c0c4b8d08ec40757aa40273e6b541894",
+    "valetudo-armv7-lowmem.upx": "ff0a4aa34a4e3126defbad390efd7fa46226ccac9725a9b8a4724112626a7450",
+    "valetudo-aarch64.upx": "8e7935524a9e0ae71a3f102ed8be5fd459a1dea238e115bacd311fa2e9b36283"
   },
-  "changelog": "## Valetudo nightly (2024-11-16T02:46:26.404Z)\n"
+  "changelog": "## Valetudo nightly (2024-11-17T02:48:25.277Z)\n\n### Features\n\n- **ui**: Trim host field inputs [`a07503b`](https://github.com/Hypfer/Valetudo/commit/a07503b1e8443c3c45ea338f2c6ef173894eea34)\n- **mqtt**: Optionally expose PetObstacleAvoidance, CarpetModeControl and CarpetSensorModeControl capabilities [`2cc0ab5`](https://github.com/Hypfer/Valetudo/commit/2cc0ab52e601411aab7c26ff6975a4d5c38f45ff)\n- **mqtt**: Publish Dock Status to MQTT [`ee76222`](https://github.com/Hypfer/Valetudo/commit/ee76222a415e0cf72f91662e3230907c27027af2)\n\n### Fixes\n\n- **mqtt**: Fix Home Assistant object_id generation [`d77480c`](https://github.com/Hypfer/Valetudo/commit/d77480c1923d2c1edca4dfc87e7022832ccda290)\n\n### Refactoring\n\n- **mqtt**: Minor cleanup [`8f22341`](https://github.com/Hypfer/Valetudo/commit/8f22341b65a6246307b2afba0220ebf191ad8a1c)\n"
 }
