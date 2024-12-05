@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-12-04T02:49:17.690Z",
+  "timestamp": "2024-12-05T02:49:29.741Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "d62bc0d907454113b18781cd793a1b7424be0bf0873ccc21bbc92dc9362ff2d8",
-    "valetudo-armv7-lowmem": "efd2d2fa27cc793013e71e63ae184e3f52985b4fb5ffdcdf82e4f3e38f7340db",
-    "valetudo-aarch64": "809d17d96d1a019b4d7238418629e336dc1c081ae8dff8f97d365cd41115fe73",
-    "valetudo-armv7.upx": "1eb9cdacc43a909729576c482973a42291b91e197c9988a25d6cd4fd95735ab6",
-    "valetudo-armv7-lowmem.upx": "7140b6207e413adc44401f5892da6ef22bcbc102cb2b90c644f4c81da2e6cb41",
-    "valetudo-aarch64.upx": "7029dbf37daf9fe0054be9239c80e841cad280ce38650fe8400ffb8f2ec4d7b5"
+    "valetudo-armv7": "2d8f0f2b4da83610bfc1adb908fc593452d51ed545087a974a5bc099c1f13d3a",
+    "valetudo-armv7-lowmem": "3a64b3963dcff867dace8199a58e1231d3b3b186cfa88db874238d8cebf66a34",
+    "valetudo-aarch64": "305200d23dbd9dea8d6c5371513ff5b544189330e5dcc73e13d7c8e4098aa689",
+    "valetudo-armv7.upx": "af1097e5ce4c5fa4e3dd01e637f7cb960d3a1e0a0d399cc7b5fa1c0b93fe5298",
+    "valetudo-armv7-lowmem.upx": "4325a5fdd2bc25aead09dc7febe6a4f9243850d7fd7eb99fcebf07913f11288a",
+    "valetudo-aarch64.upx": "080981c3d03c1dd968950c476be18fbf08327855828b96b59774e538bd402fde"
   },
-  "changelog": "## Valetudo nightly (2024-12-04T02:49:17.487Z)\n\n### Features\n\n- **ui**: Trim host field inputs [`a07503b`](https://github.com/Hypfer/Valetudo/commit/a07503b1e8443c3c45ea338f2c6ef173894eea34)\n- **mqtt**: Optionally expose PetObstacleAvoidance, CarpetModeControl and CarpetSensorModeControl capabilities [`2cc0ab5`](https://github.com/Hypfer/Valetudo/commit/2cc0ab52e601411aab7c26ff6975a4d5c38f45ff)\n- **mqtt**: Publish Dock Status to MQTT [`ee76222`](https://github.com/Hypfer/Valetudo/commit/ee76222a415e0cf72f91662e3230907c27027af2)\n\n### Fixes\n\n- **mqtt**: Fix Home Assistant object_id generation [`d77480c`](https://github.com/Hypfer/Valetudo/commit/d77480c1923d2c1edca4dfc87e7022832ccda290)\n\n### Refactoring\n\n- **mqtt**: Minor cleanup [`8f22341`](https://github.com/Hypfer/Valetudo/commit/8f22341b65a6246307b2afba0220ebf191ad8a1c)\n"
+  "changelog": "## Valetudo nightly (2024-12-05T02:49:29.535Z)\n\n### Features\n\n- **ui**: Trim host field inputs [`a07503b`](https://github.com/Hypfer/Valetudo/commit/a07503b1e8443c3c45ea338f2c6ef173894eea34)\n- **mqtt**: Optionally expose PetObstacleAvoidance, CarpetModeControl and CarpetSensorModeControl capabilities [`2cc0ab5`](https://github.com/Hypfer/Valetudo/commit/2cc0ab52e601411aab7c26ff6975a4d5c38f45ff)\n- **mqtt**: Publish Dock Status to MQTT [`ee76222`](https://github.com/Hypfer/Valetudo/commit/ee76222a415e0cf72f91662e3230907c27027af2)\n\n### Fixes\n\n- **mqtt**: Fix Home Assistant object_id generation [`d77480c`](https://github.com/Hypfer/Valetudo/commit/d77480c1923d2c1edca4dfc87e7022832ccda290)\n\n### Refactoring\n\n- **mqtt**: Minor cleanup [`8f22341`](https://github.com/Hypfer/Valetudo/commit/8f22341b65a6246307b2afba0220ebf191ad8a1c)\n"
 }
