@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-12-08T02:52:35.185Z)
+## Valetudo nightly (2024-12-09T02:51:04.081Z)
 
 ### Features
 
@@ -8,6 +8,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Hide obstacles of type 200 [`88c0af5`](https://github.com/Hypfer/Valetudo/commit/88c0af5c8bb24f45edfab8d4b53c7b7e6165c6a1)
 - **mqtt**: Fix Home Assistant object_id generation [`d77480c`](https://github.com/Hypfer/Valetudo/commit/d77480c1923d2c1edca4dfc87e7022832ccda290)
 
 ### Refactoring
