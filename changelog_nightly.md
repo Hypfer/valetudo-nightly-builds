@@ -1,4 +1,4 @@
-## Valetudo nightly (2024-12-10T02:50:04.321Z)
+## Valetudo nightly (2024-12-11T02:48:58.064Z)
 
 ### Features
 
@@ -8,6 +8,7 @@
 
 ### Fixes
 
+- **ui**: Add missing word in welcomeDialog [`c78e8c2`](https://github.com/Hypfer/Valetudo/commit/c78e8c2775018a2dd1f67335469dd30528287b08)
 - **vendor.dreame**: Hide obstacles of type 200 [`88c0af5`](https://github.com/Hypfer/Valetudo/commit/88c0af5c8bb24f45edfab8d4b53c7b7e6165c6a1)
 - **mqtt**: Fix Home Assistant object_id generation [`d77480c`](https://github.com/Hypfer/Valetudo/commit/d77480c1923d2c1edca4dfc87e7022832ccda290)
 
