@@ -1,13 +1,13 @@
 {
-  "timestamp": "2024-12-12T02:49:05.046Z",
+  "timestamp": "2024-12-13T02:49:34.346Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "155722ec6f56f7c15ae0752596460b344670bc0e48641dd5e40fa2f215c78830",
-    "valetudo-armv7-lowmem": "307cc5a8b1018619655c1e88e40c0a0a051c6e07476ee0de3ed7e25dd1c84ee0",
-    "valetudo-aarch64": "686832c9ac8ce498cb0102df450962d1b3d9bc49ceb57660d07cba11a0ce5764",
-    "valetudo-armv7.upx": "9880cff0caab1f128e58b5fbe376444788544289edc779fbcdbb60be00dfde83",
-    "valetudo-armv7-lowmem.upx": "52624ab56f9bd356594c10911b9ae00fb4373034cea360aab0f93d2ec851aa74",
-    "valetudo-aarch64.upx": "9d0a6f1b20cd90035bd8f97f2a18f1ab488f6edc26354d045dadafb630172a08"
+    "valetudo-armv7": "536d1c1b3d2e44e35798820bff8bb835d174af1685189563340d72eec867ac7c",
+    "valetudo-armv7-lowmem": "be473128292fe9f6057c57f4233c1d089c6937688f84ba8c4b798b21fcfe78ce",
+    "valetudo-aarch64": "3ac2220abf782a6f8ff069e02d143d74cfc453ae9b892b0b886d3b7726e65328",
+    "valetudo-armv7.upx": "cc435d24250218aa9716672adcb9c644f8b4dcc11cb5ea4cb0142bfd9d9700cc",
+    "valetudo-armv7-lowmem.upx": "32adc90a90accfa2c92ccf6be05dac47e5d86dc6c9a57509768caa6ed50b86e6",
+    "valetudo-aarch64.upx": "5317b7f105aab5bcfd0873fb45124e5c78fda8928e558dc3fff4ebdcf93110c6"
   },
-  "changelog": "## Valetudo nightly (2024-12-12T02:49:04.846Z)\n\n### Features\n\n- **ui**: Trim host field inputs [`a07503b`](https://github.com/Hypfer/Valetudo/commit/a07503b1e8443c3c45ea338f2c6ef173894eea34)\n- **mqtt**: Optionally expose PetObstacleAvoidance, CarpetModeControl and CarpetSensorModeControl capabilities [`2cc0ab5`](https://github.com/Hypfer/Valetudo/commit/2cc0ab52e601411aab7c26ff6975a4d5c38f45ff)\n- **mqtt**: Publish Dock Status to MQTT [`ee76222`](https://github.com/Hypfer/Valetudo/commit/ee76222a415e0cf72f91662e3230907c27027af2)\n\n### Fixes\n\n- **ui**: Add missing word in welcomeDialog [`c78e8c2`](https://github.com/Hypfer/Valetudo/commit/c78e8c2775018a2dd1f67335469dd30528287b08)\n- **vendor.dreame**: Hide obstacles of type 200 [`88c0af5`](https://github.com/Hypfer/Valetudo/commit/88c0af5c8bb24f45edfab8d4b53c7b7e6165c6a1)\n- **mqtt**: Fix Home Assistant object_id generation [`d77480c`](https://github.com/Hypfer/Valetudo/commit/d77480c1923d2c1edca4dfc87e7022832ccda290)\n\n### Refactoring\n\n- **mqtt**: Minor cleanup [`8f22341`](https://github.com/Hypfer/Valetudo/commit/8f22341b65a6246307b2afba0220ebf191ad8a1c)\n"
+  "changelog": "## Valetudo nightly (2024-12-13T02:49:34.141Z)\n\n### Features\n\n- **ui**: Trim host field inputs [`a07503b`](https://github.com/Hypfer/Valetudo/commit/a07503b1e8443c3c45ea338f2c6ef173894eea34)\n- **mqtt**: Optionally expose PetObstacleAvoidance, CarpetModeControl and CarpetSensorModeControl capabilities [`2cc0ab5`](https://github.com/Hypfer/Valetudo/commit/2cc0ab52e601411aab7c26ff6975a4d5c38f45ff)\n- **mqtt**: Publish Dock Status to MQTT [`ee76222`](https://github.com/Hypfer/Valetudo/commit/ee76222a415e0cf72f91662e3230907c27027af2)\n\n### Fixes\n\n- **ui**: Add missing word in welcomeDialog [`c78e8c2`](https://github.com/Hypfer/Valetudo/commit/c78e8c2775018a2dd1f67335469dd30528287b08)\n- **vendor.dreame**: Hide obstacles of type 200 [`88c0af5`](https://github.com/Hypfer/Valetudo/commit/88c0af5c8bb24f45edfab8d4b53c7b7e6165c6a1)\n- **mqtt**: Fix Home Assistant object_id generation [`d77480c`](https://github.com/Hypfer/Valetudo/commit/d77480c1923d2c1edca4dfc87e7022832ccda290)\n\n### Refactoring\n\n- **mqtt**: Minor cleanup [`8f22341`](https://github.com/Hypfer/Valetudo/commit/8f22341b65a6246307b2afba0220ebf191ad8a1c)\n"
 }
