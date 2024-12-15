@@ -1,7 +1,8 @@
-## Valetudo nightly (2024-12-14T02:47:23.309Z)
+## Valetudo nightly (2024-12-15T02:52:52.350Z)
 
 ### Features
 
+- **vendor.roborock**: Add error mapping for error codes 27 35 [`9d3df05`](https://github.com/Hypfer/Valetudo/commit/9d3df057be7a34e9040569cdcad1405de14f0683)
 - **ui**: Trim host field inputs [`a07503b`](https://github.com/Hypfer/Valetudo/commit/a07503b1e8443c3c45ea338f2c6ef173894eea34)
 - **mqtt**: Optionally expose PetObstacleAvoidance, CarpetModeControl and CarpetSensorModeControl capabilities [`2cc0ab5`](https://github.com/Hypfer/Valetudo/commit/2cc0ab52e601411aab7c26ff6975a4d5c38f45ff)
 - **mqtt**: Publish Dock Status to MQTT [`ee76222`](https://github.com/Hypfer/Valetudo/commit/ee76222a415e0cf72f91662e3230907c27027af2)
