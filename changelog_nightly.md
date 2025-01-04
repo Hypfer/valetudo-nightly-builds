@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-01-03T02:43:43.138Z)
+## Valetudo nightly (2025-01-04T02:41:18.400Z)
 
 ### Features
 
@@ -10,6 +10,7 @@
 
 ### Fixes
 
+- **mqtt**: Attempt to fix the reconfigure mutex never being left [`1af75e0`](https://github.com/Hypfer/Valetudo/commit/1af75e00341840d4f6a02d4ba1773b926d4b32d4)
 - **docs**: Wording [`fd89128`](https://github.com/Hypfer/Valetudo/commit/fd89128ce6200c6835072e883c6597820b1068bb)
 - **ui**: Add missing word in welcomeDialog [`c78e8c2`](https://github.com/Hypfer/Valetudo/commit/c78e8c2775018a2dd1f67335469dd30528287b08)
 - **vendor.dreame**: Hide obstacles of type 200 [`88c0af5`](https://github.com/Hypfer/Valetudo/commit/88c0af5c8bb24f45edfab8d4b53c7b7e6165c6a1)
