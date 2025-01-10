@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-01-10T02:46:04.270Z)
+## Valetudo nightly (2025-01-10T18:55:14.203Z)
 ### Breaking Changes
 
 - **vendor.dreame**: The mop consumable has been removed from X/L40 firmwares and equivalent [`d7f8e75`](https://github.com/Hypfer/Valetudo/commit/d7f8e753c0e6bfcc5bcac9cf6cc196100267f3c6)
@@ -6,6 +6,7 @@
 
 ### Features
 
+- **ui**: Simplify and merge paths to improve performance [`ac5e096`](https://github.com/Hypfer/Valetudo/commit/ac5e09618a9b950a876516151b3c7c317ac89ac4)
 - **vendor.dreame**: Introduce Side Brush on Carpet quirk [`f795e2e`](https://github.com/Hypfer/Valetudo/commit/f795e2e6cc6c59265f22abd09998b5986803cf2d)
 - **vendor.dreame**: Wheel consumable monitoring [`1eda6ef`](https://github.com/Hypfer/Valetudo/commit/1eda6ef56fc2406e7ddd964ad2feb5abcb7628eb)
 - **core**: Introduce wheel consumable subtype [`6161901`](https://github.com/Hypfer/Valetudo/commit/6161901d0b3903fd3810f5f40f6de3753b45d6b8)
