@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-01-11T02:43:42.771Z)
+## Valetudo nightly (2025-01-12T02:47:20.448Z)
 ### Breaking Changes
 
 - **vendor.dreame**: The mop consumable has been removed from X/L40 firmwares and equivalent [`d7f8e75`](https://github.com/Hypfer/Valetudo/commit/d7f8e753c0e6bfcc5bcac9cf6cc196100267f3c6)
