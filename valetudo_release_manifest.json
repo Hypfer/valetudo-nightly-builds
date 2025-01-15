@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-01-14T02:39:02.499Z",
-  "version": "e27f175e5990daf627b45256714b319e8525a5fb",
+  "timestamp": "2025-01-15T02:40:29.666Z",
+  "version": "f051d0f274a73e3c5d9807af8e5b3d54d9c4de30",
   "sha256sums": {
-    "valetudo-armv7": "8e018057e2be2391cba90ee718755135088e325e946f8cfc9b25552bd3cffe68",
-    "valetudo-armv7-lowmem": "27d7a9d3be83ced60e76acec8e1ce3eea4b341c2bb0b414a2281a408f977b678",
-    "valetudo-aarch64": "1743c6d46bf838d5e660d8fa603297692793c41cc1f52dd3aec8895f74ac0273",
-    "valetudo-armv7.upx": "c50a963cb5fdfb82b365aee113cd128f3e89830d3aa789517ddcf3e8a7f27147",
-    "valetudo-armv7-lowmem.upx": "0ce67a945109233d46327bc795dde4e9a4307593dd3b00b3630a19c56a34b412",
-    "valetudo-aarch64.upx": "96c7a5ac14ee3521cb60be4e452b675318fe8d177ba55921aa692cbf52954f52"
+    "valetudo-armv7": "59115458e358c39f391204a9c23d3965afe4ac7abf7bde7b901d8453e0da1cdd",
+    "valetudo-armv7-lowmem": "60f74787e7e6863a12e90d8c5d0f7afcdf22b963b8b7a5848e14b053e7969612",
+    "valetudo-aarch64": "0849ec1f1b1f62fb6e81c75a49758f150e3ed85d9f54a10608e997d3eb7dba72",
+    "valetudo-armv7.upx": "2026798a72b63ef47d1a16e1b81860414a01a75ee96c8a289e0fd72bddc49d00",
+    "valetudo-armv7-lowmem.upx": "087ebc9c4577b09248be802450b6b110f0ffcac9638569d542170cfdc8dc24c3",
+    "valetudo-aarch64.upx": "cbb756911615d81eb83f28d57809e0532464c5ed7d9f2bec4c97f15eac478f18"
   },
-  "changelog": "## Valetudo nightly (2025-01-14T02:39:02.318Z)\n"
+  "changelog": "## Valetudo nightly (2025-01-15T02:40:29.479Z)\n\n### Fixes\n\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n"
 }
