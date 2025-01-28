@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-01-27T02:41:34.778Z",
+  "timestamp": "2025-01-28T02:39:51.448Z",
   "version": "b56ce990dbad5b058a8699431d1579c30ac35d0d",
   "sha256sums": {
-    "valetudo-armv7": "7bdd97b460111d9eaa33175aa28bd07ed36d90518d5be46bd2b9022b777dcc8e",
-    "valetudo-armv7-lowmem": "86cf2d905d0ee63038a10e49d4bbff0af1338771b4d6bc618ac38b7696b18c0f",
-    "valetudo-aarch64": "875f6cc705ccf518134602ba1a7adb8881e808cab919655be04d45468e3f7d25",
-    "valetudo-armv7.upx": "a3fc788fb1a1627804041b72582affe7c2cb9f50fb6168ce14a924f96afa1012",
-    "valetudo-armv7-lowmem.upx": "c7d742f966d7a74eda6468322d5f55ed789d0cbb181abed12f77a63191034274",
-    "valetudo-aarch64.upx": "a211f777dbd2cc9613892f356561229e42b7bc3f11f0908d021054583626fb07"
+    "valetudo-armv7": "8189090e6f6fb4b8c138d1728e26f77a08558df1d0042771ce1f97de84fd96d0",
+    "valetudo-armv7-lowmem": "641d2bda1d8a399e9cf35ac27637993fab18feba75be4efb839837cdbe1206e3",
+    "valetudo-aarch64": "374b13cb02af1dfa192d3115554990821993a76e5f052b543c08ca0eba0b3527",
+    "valetudo-armv7.upx": "5640d4060a7b895a875f2fc6bd7a6360b7565628c35ca75fecb89cd6a5a0229e",
+    "valetudo-armv7-lowmem.upx": "96766c6e8f623c8e37a7686147f45e22e848657968f9ec4b21d5b421069de672",
+    "valetudo-aarch64.upx": "47e96e013da5f1e332aa39cb0943b694fdeed10cf64e2ad4e5e8f5c9a6f186e5"
   },
-  "changelog": "## Valetudo nightly (2025-01-27T02:41:34.591Z)\n\n### Fixes\n\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
+  "changelog": "## Valetudo nightly (2025-01-28T02:39:51.268Z)\n\n### Fixes\n\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
 }
