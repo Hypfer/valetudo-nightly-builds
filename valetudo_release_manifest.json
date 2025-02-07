@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-02-06T02:41:51.966Z",
+  "timestamp": "2025-02-07T02:42:56.798Z",
   "version": "5b66c3533160af6bc01b27fe225ef2e4ce025b5f",
   "sha256sums": {
-    "valetudo-armv7": "f38aaf646f27f2797cbb5c868249059b977a014b13e20a46f1824cc19d4e8dfd",
-    "valetudo-armv7-lowmem": "a49e6277ae221b88958d84a200ab11f4a4d31e00be19cb439fbdfbf5e195ff25",
-    "valetudo-aarch64": "af3e0509d9241691f92aae15fb71c2ed195e05982297828ca42232ef7a09a8c7",
-    "valetudo-armv7.upx": "d385d9c199680af63497e5a1b975ee703c876b9433fa4c363c4b9dd6e0cccc60",
-    "valetudo-armv7-lowmem.upx": "e889e7a8f01a3b902a223e9a0c2f259343732306b29cb6dea70bfda55bca23da",
-    "valetudo-aarch64.upx": "037e6ac4f58ac03038864b71f3da9df7ac4d72aa5fbd839c8b54c7eb8f9a0596"
+    "valetudo-armv7": "d63873ca826fa9b0f0d7063bc9257cc91663c8a06926846b06eb43a9a1d239cc",
+    "valetudo-armv7-lowmem": "3da1b4b50f9148b535f79ab35ce1c154e9eb44fa274a17921d5a757caae09deb",
+    "valetudo-aarch64": "b2c7d952d55fd2f8e7ae28419c818c12c8932cd893b42a11a36b7e05f026f716",
+    "valetudo-armv7.upx": "390eea438d98ce6ca8f3bae93efaf6c1b0fb454d2d803529eec159fdff50efa1",
+    "valetudo-armv7-lowmem.upx": "17c064dbd7bbeb17e54c00ae8d4886d02e856c82c518c454d174c0bc0d04bd18",
+    "valetudo-aarch64.upx": "e57361aafa0c6fccf77ac18b647e017f0b1667a3e97f96b4ae17c6c3059c7d65"
   },
-  "changelog": "## Valetudo nightly (2025-02-06T02:41:51.778Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
+  "changelog": "## Valetudo nightly (2025-02-07T02:42:56.614Z)\n\n### Fixes\n\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
 }
