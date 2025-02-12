@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-02-11T02:43:03.201Z",
+  "timestamp": "2025-02-12T02:41:57.280Z",
   "version": "0086080d1bd3e6b9aa570341a212d46c0af28654",
   "sha256sums": {
-    "valetudo-armv7": "4f94f296ffbf982247660d16d88560df75462b9c2ea72ee1c6f43eac0e7fdcba",
-    "valetudo-armv7-lowmem": "f79509b14a59bc398b9b901a0711dbf3e03544f51ce2bae522a6defafb48ba1e",
-    "valetudo-aarch64": "cd13938312657b92ca5bc86006877a6d1fd61760532b0d008a5f91a5d3d01a6d",
-    "valetudo-armv7.upx": "08297fd18188fe5f4e6bbd78e07d93ea3cf68f6019480aba1323b11deb7b5276",
-    "valetudo-armv7-lowmem.upx": "a9ca5c0cf9a8f040ef3955ca254deaae4af198019b23f29d75bd3c9efa693c39",
-    "valetudo-aarch64.upx": "8cf82728add0ddf0b807aa5f1715b763350d023417a49812c6d4b4fab3863475"
+    "valetudo-armv7": "0b660fc223e66d484a478d159b0816404e1ace708aef3384b21e3c9abd9b311d",
+    "valetudo-armv7-lowmem": "3c8713b205e2f75ace15f55ecfb4974d219a72289d88cb228fcc656787884a22",
+    "valetudo-aarch64": "be52918fb756fa181f9a1bf26a4e3973baf42c2a48245f2a063ce1e67fff0160",
+    "valetudo-armv7.upx": "61550b5c13062525ea0dd8f4b28c473be7338d8232b58899160b57451b8ec7f1",
+    "valetudo-armv7-lowmem.upx": "ffb81bf9e0cfa9f5912107d5f4dedd65650138ef6839cfca900d6a736b1de84f",
+    "valetudo-aarch64.upx": "15c034d8d478802b76a4bf5efeecaa594bbbccd528892123742cc7f248e05f5d"
   },
-  "changelog": "## Valetudo nightly (2025-02-11T02:43:03.018Z)\n\n### Fixes\n\n- Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
+  "changelog": "## Valetudo nightly (2025-02-12T02:41:57.087Z)\n\n### Fixes\n\n- Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
 }
