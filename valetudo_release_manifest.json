@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-02-21T02:44:00.458Z",
+  "timestamp": "2025-02-22T02:40:42.004Z",
   "version": "0fcb809fe66cf1f7d3e3c4c0db99d2a99fdc7cdc",
   "sha256sums": {
-    "valetudo-armv7": "e1807cd4ecd1e3c414f77609dd2f847f6c54817110b8c12635cf737a3a3f1d5c",
-    "valetudo-armv7-lowmem": "5cb68f4d7ac1eaa4c5cbd788dd2927fd4e685b01467fbc669a0bc2f9387a0386",
-    "valetudo-aarch64": "bbe8c7cb253bd6a2878ae2761ae5fc76c4b759d11c5f5db421d7f55296ca7aea",
-    "valetudo-armv7.upx": "ddb1ff4d8e9e7ea81a86c6cb5ff3e31eec03dc62ad4de2d3c905c000692d4397",
-    "valetudo-armv7-lowmem.upx": "23df8e43a995ae22b560c7a0d1f963db97dcde8e91146d0e9c6a9194661b249d",
-    "valetudo-aarch64.upx": "bcd6e466699559bc566d83f516b3a6317f1696ea50982bf486d17efccc6284b3"
+    "valetudo-armv7": "9798e25f6d7640ce7dd8b78bfa2c63da3cb25a375cabfa6f9fbb1342cd782555",
+    "valetudo-armv7-lowmem": "5592de38db6faeaac968f111c96a1b8c4328064127ed2079d6f8edf0798d0d88",
+    "valetudo-aarch64": "e20eda3a21933f7ee057c3e7711fef0f567e51853febca2ecdabdd11c0eb6141",
+    "valetudo-armv7.upx": "b0300a051244c527d82e242e4f6de75544e4d653d9d285c6d32f82d347539ac2",
+    "valetudo-armv7-lowmem.upx": "fae5b7cc5a75924bc4c9ae191be93fc06eba662c65f602601353bd916d53c9b6",
+    "valetudo-aarch64.upx": "97884cd9330322083fe4ba9b1e710747063968e07f19670e708708d7531223c4"
   },
-  "changelog": "## Valetudo nightly (2025-02-21T02:44:00.258Z)\n\n### Features\n\n- **ui**: Display dock state as text [`4e5dd10`](https://github.com/Hypfer/Valetudo/commit/4e5dd10786f04f4aee16bb4925385fbf9429701c)\n\n### Fixes\n\n- Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Refactoring\n\n- **ui**: Migrate from deprecated Grid to Grid2 [`0fcb809`](https://github.com/Hypfer/Valetudo/commit/0fcb809fe66cf1f7d3e3c4c0db99d2a99fdc7cdc)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
+  "changelog": "## Valetudo nightly (2025-02-22T02:40:41.809Z)\n\n### Features\n\n- **ui**: Display dock state as text [`4e5dd10`](https://github.com/Hypfer/Valetudo/commit/4e5dd10786f04f4aee16bb4925385fbf9429701c)\n\n### Fixes\n\n- Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Refactoring\n\n- **ui**: Migrate from deprecated Grid to Grid2 [`0fcb809`](https://github.com/Hypfer/Valetudo/commit/0fcb809fe66cf1f7d3e3c4c0db99d2a99fdc7cdc)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
 }
