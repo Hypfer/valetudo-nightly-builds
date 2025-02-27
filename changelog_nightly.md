@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-02-27T02:46:00.521Z)
+## Valetudo nightly (2025-02-27T08:44:16.819Z)
 
 ### Features
 
@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Fix model detection for US Mova S20 [`0529e22`](https://github.com/Hypfer/Valetudo/commit/0529e22d610f8f061b0462de3b18b3517bd9da04)
 - Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)
 - **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)
 - **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)
