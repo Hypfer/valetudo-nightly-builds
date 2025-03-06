@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-03-05T02:46:21.401Z",
+  "timestamp": "2025-03-06T02:46:45.927Z",
   "version": "02286dc39a12b352dc8ecd2c9b70f3e7860ee62a",
   "sha256sums": {
-    "valetudo-armv7": "e710d39a5eb2a67eac34e6195cf685acd0fa842660711064c490cbdf6294b0c1",
-    "valetudo-armv7-lowmem": "39da4de8aa2c0ac62b5ceeac17a837285351baa2ea65b84bcc1b6906a892007e",
-    "valetudo-aarch64": "af150a9b9bc533b88ab0b170f9ae60f3e2fd8147fd6dd4c8af76ce03394d2b07",
-    "valetudo-armv7.upx": "f6fddbbc022897e2c8a808963c7dc50eea4b1a28b55dc723eef94e92b081199f",
-    "valetudo-armv7-lowmem.upx": "02c306161d90ca02ad287b2478452e3cb624fa28926d41525fa976821b6e4385",
-    "valetudo-aarch64.upx": "9e3d46d3a80cc794f397a705b55a5a031f91d5bebb2a54c3892584818719fa62"
+    "valetudo-armv7": "f583e11775b1f4f8f4b7637844aafab043f27d851bd11ff3fdd3ec8797490767",
+    "valetudo-armv7-lowmem": "238fe603a17793673393023c64e43a9a4bc54d2d1bc5019086e2fefd75202cdc",
+    "valetudo-aarch64": "2a71d9cfbe77771c6b74a3400984670cc9fa62b706ca70bcef34cf168382f2d7",
+    "valetudo-armv7.upx": "37c1a046e5df8c199d2921a6b8c0ca6600ef2b71ce8b0b392e7a1b3d0b0dd0ba",
+    "valetudo-armv7-lowmem.upx": "7089af3070659dad58ee84826f91232709d191e18ab26f6733f7bc96393fd87a",
+    "valetudo-aarch64.upx": "a89f9cf6ec2668866fb69f9145badaffb8212ff535550860810fdf60b6d2beac"
   },
-  "changelog": "## Valetudo nightly (2025-03-05T02:46:21.208Z)\n\n### Features\n\n- **ui**: Display dock state as text [`4e5dd10`](https://github.com/Hypfer/Valetudo/commit/4e5dd10786f04f4aee16bb4925385fbf9429701c)\n\n### Fixes\n\n- **ui**: Calculate map label sizes using formulas [`02286dc`](https://github.com/Hypfer/Valetudo/commit/02286dc39a12b352dc8ecd2c9b70f3e7860ee62a)\n- **vendor.dreame**: Fix model detection for US Mova S20 [`0529e22`](https://github.com/Hypfer/Valetudo/commit/0529e22d610f8f061b0462de3b18b3517bd9da04)\n- Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Refactoring\n\n- **ui**: Migrate from deprecated Grid to Grid2 [`0fcb809`](https://github.com/Hypfer/Valetudo/commit/0fcb809fe66cf1f7d3e3c4c0db99d2a99fdc7cdc)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
+  "changelog": "## Valetudo nightly (2025-03-06T02:46:45.735Z)\n\n### Features\n\n- **ui**: Display dock state as text [`4e5dd10`](https://github.com/Hypfer/Valetudo/commit/4e5dd10786f04f4aee16bb4925385fbf9429701c)\n\n### Fixes\n\n- **ui**: Calculate map label sizes using formulas [`02286dc`](https://github.com/Hypfer/Valetudo/commit/02286dc39a12b352dc8ecd2c9b70f3e7860ee62a)\n- **vendor.dreame**: Fix model detection for US Mova S20 [`0529e22`](https://github.com/Hypfer/Valetudo/commit/0529e22d610f8f061b0462de3b18b3517bd9da04)\n- Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)\n- **vendor.dreame**: Fix mova p10pu device detection [`5b66c35`](https://github.com/Hypfer/Valetudo/commit/5b66c3533160af6bc01b27fe225ef2e4ce025b5f)\n- **ui**: Fix updater changelog link contrast when using dark mode [`f051d0f`](https://github.com/Hypfer/Valetudo/commit/f051d0f274a73e3c5d9807af8e5b3d54d9c4de30)\n\n### Refactoring\n\n- **ui**: Migrate from deprecated Grid to Grid2 [`0fcb809`](https://github.com/Hypfer/Valetudo/commit/0fcb809fe66cf1f7d3e3c4c0db99d2a99fdc7cdc)\n\n### Chores\n\n- update bug issue template [`b56ce99`](https://github.com/Hypfer/Valetudo/commit/b56ce990dbad5b058a8699431d1579c30ac35d0d)\n"
 }
