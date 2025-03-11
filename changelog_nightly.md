@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-03-11T02:46:50.755Z)
+## Valetudo nightly (2025-03-11T16:23:57.399Z)
 
 ### Features
 
@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Fix vacuum then mop [`e42adcb`](https://github.com/Hypfer/Valetudo/commit/e42adcb709055aecb559fae40d517af866396a26)
 - **ui**: Calculate map label sizes using formulas [`02286dc`](https://github.com/Hypfer/Valetudo/commit/02286dc39a12b352dc8ecd2c9b70f3e7860ee62a)
 - **vendor.dreame**: Fix model detection for US Mova S20 [`0529e22`](https://github.com/Hypfer/Valetudo/commit/0529e22d610f8f061b0462de3b18b3517bd9da04)
 - Gracefully handle iw process not spawning [`0086080`](https://github.com/Hypfer/Valetudo/commit/0086080d1bd3e6b9aa570341a212d46c0af28654)
