@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-03-12T02:46:42.607Z)
+## Valetudo nightly (2025-03-13T02:47:18.185Z)
 
 ### Features
 
@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- **ui**: Fix timers view broken by the grid2 migration [`b7de2f3`](https://github.com/Hypfer/Valetudo/commit/b7de2f32dbc5621297d0e2f7b7a085851e9c886c)
 - **vendor.dreame**: Fix vacuum then mop [`e42adcb`](https://github.com/Hypfer/Valetudo/commit/e42adcb709055aecb559fae40d517af866396a26)
 - **ui**: Calculate map label sizes using formulas [`02286dc`](https://github.com/Hypfer/Valetudo/commit/02286dc39a12b352dc8ecd2c9b70f3e7860ee62a)
 - **vendor.dreame**: Fix model detection for US Mova S20 [`0529e22`](https://github.com/Hypfer/Valetudo/commit/0529e22d610f8f061b0462de3b18b3517bd9da04)
