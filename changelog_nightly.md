@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-03-20T02:47:04.766Z)
+## Valetudo nightly (2025-03-21T02:47:41.472Z)
 
 ### Features
 
@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- **ui**: handle all changedTouches [`92b2e6f`](https://github.com/Hypfer/Valetudo/commit/92b2e6f092153e691337cbeb9db02648f0d4e09d)
 - **ui**: Fix timers view broken by the grid2 migration [`b7de2f3`](https://github.com/Hypfer/Valetudo/commit/b7de2f32dbc5621297d0e2f7b7a085851e9c886c)
 - **vendor.dreame**: Fix vacuum then mop [`e42adcb`](https://github.com/Hypfer/Valetudo/commit/e42adcb709055aecb559fae40d517af866396a26)
 - **ui**: Calculate map label sizes using formulas [`02286dc`](https://github.com/Hypfer/Valetudo/commit/02286dc39a12b352dc8ecd2c9b70f3e7860ee62a)
