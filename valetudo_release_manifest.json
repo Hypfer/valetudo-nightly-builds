@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-05-06T02:52:43.518Z",
-  "version": "3f0897eefd015b582870de3422e3457cf3abbec5",
+  "timestamp": "2025-05-07T02:53:29.102Z",
+  "version": "5af45c3c2bce61251b1d2c2be9da5f7e782611f7",
   "sha256sums": {
-    "valetudo-armv7": "329b725de77a8c252a2352bef4bd6b4c78600f891d846b45e5f5f73f48e32eed",
-    "valetudo-armv7-lowmem": "a5f7de682920c1a7fa6c5b0ff16895f98ddd2c924b63cf698769c5f75b7b9861",
-    "valetudo-aarch64": "93b963cccc01e4c4282261ddcd3911ea9a2de5a1bb6c5ed5f10230217e93d42c",
-    "valetudo-armv7.upx": "640593b71d100f277cd4e9ecc4fda1cfd5aa2c9bdd469f0be0a505b8c122db86",
-    "valetudo-armv7-lowmem.upx": "b40799442f0ff231df4eb2a20518200bd7c52495c16e3b9f77b6251864ca3e74",
-    "valetudo-aarch64.upx": "0e879db52e1d47081706867b141f89e62660fdf24733a1367e52cfa258e21f0e"
+    "valetudo-armv7": "030d5ea390d3c8d341f3a26e35f6c8ff55f290bb147ba831a21b460f09f3ef40",
+    "valetudo-armv7-lowmem": "4ed11d12896e4a2e8a97248a6ebf117d6da25115bb17bd6200d693f6f46e0041",
+    "valetudo-aarch64": "43fb74f3756d0a54d07274063893bead11de198320d420af5d645f704842f6e8",
+    "valetudo-armv7.upx": "a2aae37a817ce88d15dbfbac58949e716d37ce95b208cf389279b3050fa3b459",
+    "valetudo-armv7-lowmem.upx": "18c5afa0da0e3c1b4d308d4c5d121504e3a15f1aadd10a1f440301e199e23970",
+    "valetudo-aarch64.upx": "140e1a599df6347f46dd52674d616c180f3b170f3012fd17ea65acba16db3eaf"
   },
-  "changelog": "## Valetudo nightly (2025-05-06T02:52:43.331Z)\n"
+  "changelog": "## Valetudo nightly (2025-05-07T02:53:28.917Z)\n\n### Features\n\n- **vendor.dreame**: Map additional error codes [`d961abf`](https://github.com/Hypfer/Valetudo/commit/d961abf59d2c39655f65a528f9196737fdc0e907)\n\n### Fixes\n\n- **vendor.dreame**: Prevent firmware from locking up on invalid state when cleaning the dock [`5af45c3`](https://github.com/Hypfer/Valetudo/commit/5af45c3c2bce61251b1d2c2be9da5f7e782611f7)\n- **vendor.dreame**: Remove non-functional quirk [`faf94dd`](https://github.com/Hypfer/Valetudo/commit/faf94dd28dab9315c4ab5216375ff7aecc164a83)\n"
 }
