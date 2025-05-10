@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-05-09T02:53:33.761Z",
-  "version": "bdcba8ba7158e4b0caa6c04ba390fa8b0054ccc7",
+  "timestamp": "2025-05-10T02:49:25.909Z",
+  "version": "0f1ac47ce39f6628987e7bf8588385d79086a657",
   "sha256sums": {
-    "valetudo-armv7": "82a0031ec2294b021de0c4aa4132157b5c778bf840021885b8553f26c473e820",
-    "valetudo-armv7-lowmem": "345067f599017257a375fdbee97cdc3a58df9cff7bcdb1d9ff39062e25adfde0",
-    "valetudo-aarch64": "73c32836bf9eb90b2d2aa3b81b23a83497d5c69c5f8666de33e202e9e96e5168",
-    "valetudo-armv7.upx": "511ec4d648a39c85cbd034cc8d8cfc2900b2eafea9fed013eb9abbf0d9c20e7a",
-    "valetudo-armv7-lowmem.upx": "5f6c362210438b78c94b48e4c3aeb4929c379d8aa723ed2f91462b468fc949c2",
-    "valetudo-aarch64.upx": "3bc2ba828a35e00912d015516fda4d889f929a215d0fa434797acdaebf150fa9"
+    "valetudo-armv7": "f80698e7cee24136b11251dda75890cc77f1302c37b195c6b71bc16052bb0834",
+    "valetudo-armv7-lowmem": "bbec59d8fa9fcbbd9933b594917d896df47860ba9a9238b9bb7dae3f4b8ec887",
+    "valetudo-aarch64": "0a10e9a647ef620e32d0117667e05aa06f9b8f75787caf4224c68741f5f55f77",
+    "valetudo-armv7.upx": "ba230043be0e0e8cd973e58ac459ccf3c1ae26c2979fb56e6203481309d36ee5",
+    "valetudo-armv7-lowmem.upx": "e698ab9aea4e555e21a24e689cc4efec03da0d687f4a2db008a5a6bf234062c1",
+    "valetudo-aarch64.upx": "34f4f8159835913c51f9e76e5a5974ebce8f34553b7942426df70f0d032a3d80"
   },
-  "changelog": "## Valetudo nightly (2025-05-09T02:53:33.576Z)\n\n### Features\n\n- **vendor.dreame**: Map additional error codes [`d961abf`](https://github.com/Hypfer/Valetudo/commit/d961abf59d2c39655f65a528f9196737fdc0e907)\n\n### Fixes\n\n- **vendor.dreame**: Prevent firmware from locking up on invalid state when cleaning the dock [`5af45c3`](https://github.com/Hypfer/Valetudo/commit/5af45c3c2bce61251b1d2c2be9da5f7e782611f7)\n- **vendor.dreame**: Remove non-functional quirk [`faf94dd`](https://github.com/Hypfer/Valetudo/commit/faf94dd28dab9315c4ab5216375ff7aecc164a83)\n"
+  "changelog": "## Valetudo nightly (2025-05-10T02:49:25.714Z)\n\n### Features\n\n- **vendor.dreame**: Map additional error codes [`d961abf`](https://github.com/Hypfer/Valetudo/commit/d961abf59d2c39655f65a528f9196737fdc0e907)\n\n### Fixes\n\n- **vendor.dreame**: Prevent firmware from locking up on invalid state when cleaning the dock [`5af45c3`](https://github.com/Hypfer/Valetudo/commit/5af45c3c2bce61251b1d2c2be9da5f7e782611f7)\n- **vendor.dreame**: Remove non-functional quirk [`faf94dd`](https://github.com/Hypfer/Valetudo/commit/faf94dd28dab9315c4ab5216375ff7aecc164a83)\n"
 }
