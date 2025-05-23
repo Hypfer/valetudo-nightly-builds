@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-05-22T02:54:40.978Z",
+  "timestamp": "2025-05-23T02:54:32.045Z",
   "version": "2472f29429374fdfe74a31506bc5f846182a0809",
   "sha256sums": {
-    "valetudo-armv7": "0ff03fcda502daf612c36373317d8324780894044b8733f43b91c9ecc80e4159",
-    "valetudo-armv7-lowmem": "c1b4cb9dc25f8e1549e0f3ed4a0a32233cd1f0bade232da6ca920aa71da67843",
-    "valetudo-aarch64": "5130cb1a0e2f6b6ed5e86b4e12f57500f384b5b32688fc0a12aaaacba7506b1c",
-    "valetudo-armv7.upx": "d3e7a72d2ecdb46ac427646afd4562e81d123131767a1bffeaecaf095b6052a3",
-    "valetudo-armv7-lowmem.upx": "b9acc449d2620f7fb5818bc9dd7a3a5f0dd86bbfdb3cd8ab4151c5fb38ec3fa1",
-    "valetudo-aarch64.upx": "e78c34575cb120f7ad8f1a5e415cf07a90d095cd75095a0dc607b32bc1e57f0b"
+    "valetudo-armv7": "fffe82110666ef5edf686a5232a1535f7b4ddaf4736ca2f44f0da95783de7b25",
+    "valetudo-armv7-lowmem": "3d1e479c449e8d2a8a810c7ead3a5b3c74ef537a7c1c6dbc82aedb9b24be5322",
+    "valetudo-aarch64": "7bb499211d13de7e1ea888878d43fa24f282f08087b06dc7289a5a156187af8f",
+    "valetudo-armv7.upx": "a4eeb13a32b3eb75c82ba7c4c7ec9192faf731156c7998811e7bb397b1070ffc",
+    "valetudo-armv7-lowmem.upx": "b2737185ed2852e7f69ec4f95fe110b19e590861726da3e74a3d39ae22dc75dd",
+    "valetudo-aarch64.upx": "5cd6d9b08cab6a5d172d533c325b71e64db6abdc32e196899284e28a72f8fdea"
   },
-  "changelog": "## Valetudo nightly (2025-05-22T02:54:40.782Z)\n\n### Features\n\n- **vendor.dreame**: Map additional error codes [`d961abf`](https://github.com/Hypfer/Valetudo/commit/d961abf59d2c39655f65a528f9196737fdc0e907)\n\n### Fixes\n\n- **vendor.roborock**: Gracefully handle dual-identity s5 max [`2472f29`](https://github.com/Hypfer/Valetudo/commit/2472f29429374fdfe74a31506bc5f846182a0809)\n- **vendor.dreame**: Prevent firmware from locking up on invalid state when cleaning the dock [`5af45c3`](https://github.com/Hypfer/Valetudo/commit/5af45c3c2bce61251b1d2c2be9da5f7e782611f7)\n- **vendor.dreame**: Remove non-functional quirk [`faf94dd`](https://github.com/Hypfer/Valetudo/commit/faf94dd28dab9315c4ab5216375ff7aecc164a83)\n"
+  "changelog": "## Valetudo nightly (2025-05-23T02:54:31.858Z)\n\n### Features\n\n- **vendor.dreame**: Map additional error codes [`d961abf`](https://github.com/Hypfer/Valetudo/commit/d961abf59d2c39655f65a528f9196737fdc0e907)\n\n### Fixes\n\n- **vendor.roborock**: Gracefully handle dual-identity s5 max [`2472f29`](https://github.com/Hypfer/Valetudo/commit/2472f29429374fdfe74a31506bc5f846182a0809)\n- **vendor.dreame**: Prevent firmware from locking up on invalid state when cleaning the dock [`5af45c3`](https://github.com/Hypfer/Valetudo/commit/5af45c3c2bce61251b1d2c2be9da5f7e782611f7)\n- **vendor.dreame**: Remove non-functional quirk [`faf94dd`](https://github.com/Hypfer/Valetudo/commit/faf94dd28dab9315c4ab5216375ff7aecc164a83)\n"
 }
