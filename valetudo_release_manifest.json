@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-05-24T02:50:13.671Z",
-  "version": "2472f29429374fdfe74a31506bc5f846182a0809",
+  "timestamp": "2025-05-25T02:59:06.706Z",
+  "version": "8ee5157ea6052e41acf7981055cca58da5ed9ce6",
   "sha256sums": {
-    "valetudo-armv7": "d82e47244ae0d4792098a4c790c5cc2a9d7656b1b12c420515f0a11a66590dd7",
-    "valetudo-armv7-lowmem": "1e86301a2cbe226c378d6e6bce270fb86df49b0ed19999198c8c38940a965c4c",
-    "valetudo-aarch64": "0a3d605f7b84b8c2505fd3ad296222618c74e55e4e621f7e3dae33f3deb07ebb",
-    "valetudo-armv7.upx": "24e26b9ec7ea367470df482510ff15eb2f62994034a8fc9daea438cf98f5ea86",
-    "valetudo-armv7-lowmem.upx": "3a4ad00118410ff48b02ca775500457a2b3b97959950be6985646b56f474cdc6",
-    "valetudo-aarch64.upx": "f94f0f953b2f446134892999df3c9b8fad802c15d2a05c2d30a917f553e8c816"
+    "valetudo-armv7": "94e241506a88d85555c4065f5c3601e40b68b27e7104182496aadb0292d3f480",
+    "valetudo-armv7-lowmem": "6751c8dc91276c51d6df83e8fdd3c4b8dc01c28602a1ade590ec4102d18bbe26",
+    "valetudo-aarch64": "32a6abfd5532447b08670b9266f9233d58e58d9ca66f958e9f21809c8f30b6f2",
+    "valetudo-armv7.upx": "97da038e032e04681c1b6668508fb9b5c90248c62ba10aeb6dfa677a0f69391f",
+    "valetudo-armv7-lowmem.upx": "06b014bce89e6cc0ab8fb95e4f1a99db76014a430df1a15aa18c125f386feac9",
+    "valetudo-aarch64.upx": "0fdcb719b3b0042519fccadb4258bc7de046575a27c9b05328feabf1a0f87368"
   },
-  "changelog": "## Valetudo nightly (2025-05-24T02:50:13.474Z)\n\n### Features\n\n- **vendor.dreame**: Map additional error codes [`d961abf`](https://github.com/Hypfer/Valetudo/commit/d961abf59d2c39655f65a528f9196737fdc0e907)\n\n### Fixes\n\n- **vendor.roborock**: Gracefully handle dual-identity s5 max [`2472f29`](https://github.com/Hypfer/Valetudo/commit/2472f29429374fdfe74a31506bc5f846182a0809)\n- **vendor.dreame**: Prevent firmware from locking up on invalid state when cleaning the dock [`5af45c3`](https://github.com/Hypfer/Valetudo/commit/5af45c3c2bce61251b1d2c2be9da5f7e782611f7)\n- **vendor.dreame**: Remove non-functional quirk [`faf94dd`](https://github.com/Hypfer/Valetudo/commit/faf94dd28dab9315c4ab5216375ff7aecc164a83)\n"
+  "changelog": "## Valetudo nightly (2025-05-25T02:59:06.516Z)\n"
 }
