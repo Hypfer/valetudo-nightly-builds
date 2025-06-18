@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-06-17T02:57:58.424Z",
+  "timestamp": "2025-06-18T02:57:35.891Z",
   "version": "b8dc5f8191beeb72c2f33d4a62507bf6bb086da4",
   "sha256sums": {
-    "valetudo-armv7": "04079521200bcaa263bc9a54c1eb71f3596848a09757c9aa27f639f0cbc989af",
-    "valetudo-armv7-lowmem": "6273c143a3c916f84377a658673d66d47d61c59ad8f5924c250b671a5bbc4e5c",
-    "valetudo-aarch64": "ef259a9a84411670d1307014b6cadcbbb6c7b42fd781b25cd9f325667851fc3a",
-    "valetudo-armv7.upx": "b63eba131791b43e6e680ae5f54e9eabc9c20ca706084cd38b0aab4292867b41",
-    "valetudo-armv7-lowmem.upx": "f8b57079474a196aa6d0dd10ee90fbf59d80b40d4c1a4028e1d7af8e8a198231",
-    "valetudo-aarch64.upx": "85ec67719e1a7f3366779c50e58a2fb4304d09279cbccb8d7115cddd980e35a9"
+    "valetudo-armv7": "1160ac56b2be7e3c912ca2a3774cae45b6c9ff74466a1e9955d371f1eb5866b5",
+    "valetudo-armv7-lowmem": "69f4a1e6638f566c16f7a14279639bb33a7d3b988c9e6cd6bb361ca052f8a4ad",
+    "valetudo-aarch64": "d48c1cdbfe28715984308b7f47d00dd1234380918d8989dea3537d14eaeba57e",
+    "valetudo-armv7.upx": "10462993676d66a93414e3e4cc13c845017571dbb9fb1a22dffe1b6ae3e2f2a8",
+    "valetudo-armv7-lowmem.upx": "4e171fc835d68442b6b48da6e43e41c6ac392adbaa46198153a37ce9b8a5bd65",
+    "valetudo-aarch64.upx": "b3ce81ca46561db9cda931381b91dc7b124eb5d2a54cb75e201cd1e81791f310"
   },
-  "changelog": "## Valetudo nightly (2025-06-17T02:57:58.227Z)\n"
+  "changelog": "## Valetudo nightly (2025-06-18T02:57:35.703Z)\n"
 }
