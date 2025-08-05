@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-08-04T03:07:38.704Z",
+  "timestamp": "2025-08-05T03:03:58.175Z",
   "version": "f12da39c335816483d7a447544ef7a28c6fc1167",
   "sha256sums": {
-    "valetudo-armv7": "2679a0a38e76341ad1b31eb3bf90ca1e176efe1b28e8761e483d98b098200325",
-    "valetudo-armv7-lowmem": "d5df388a5012761bfb2a21310608334d56ca01c9fab0bc5f4dee71b3d572bff5",
-    "valetudo-aarch64": "116a6084911bde1b237aed5de9d57a9931db835ccbea0ff16e76c78e64420805",
-    "valetudo-armv7.upx": "c9b84758838e23a1a4e1c99de3db9c6f99cf0797ea92cda59183636efbbf66fe",
-    "valetudo-armv7-lowmem.upx": "3e86ac64e83905477462288110e0935c6292802b3caceaebd91cda080dc037a7",
-    "valetudo-aarch64.upx": "8c1fc7b8871d0e8e71b6c6bb1ad805799cc7dbc765941cd32801140818d95b6b"
+    "valetudo-armv7": "72883348b565a677a4529cf2127e58ac44bb40499e314c5f05e3cb1df91dd051",
+    "valetudo-armv7-lowmem": "aa45ce5456819fe30cf3ac0c07109942d516dfc3ec2f0ab015dded909a9a4e96",
+    "valetudo-aarch64": "35216fbbc3c2bff357f330b77eb720ff6ec29a34e29b642124643547d901f52b",
+    "valetudo-armv7.upx": "ce3652b0be7faacda9c9c90c40c909d31c85e4d711ed2b211eb877bcf09f8776",
+    "valetudo-armv7-lowmem.upx": "8235d28a2012de027bac28a236be00cc9536b3b403920d12918ada6da1043592",
+    "valetudo-aarch64.upx": "4ea8b44749d6bb08c368664f4018e083684c73b37784a72f43242ac9181db1cf"
   },
-  "changelog": "## Valetudo nightly (2025-08-04T03:07:38.524Z)\n\n### Chores\n\n- spelling [`aaf0fc3`](https://github.com/Hypfer/Valetudo/commit/aaf0fc3f149b977ac492fc86ee592df75a63aee1)\n"
+  "changelog": "## Valetudo nightly (2025-08-05T03:03:57.984Z)\n\n### Chores\n\n- spelling [`aaf0fc3`](https://github.com/Hypfer/Valetudo/commit/aaf0fc3f149b977ac492fc86ee592df75a63aee1)\n"
 }
