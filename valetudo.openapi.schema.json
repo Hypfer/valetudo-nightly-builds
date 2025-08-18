@@ -1618,6 +1618,26 @@
           }
         }
       },
+      "ValetudoConsumable": {
+        "type": "object",
+        "properties": {
+          "remaining": {
+            "type": "object",
+            "properties": {
+              "value": {
+                "type": "number"
+              },
+              "unit": {
+                "type": "string",
+                "enum": [
+                  "percent",
+                  "minutes"
+                ]
+              }
+            }
+          }
+        }
+      },
       "ValetudoDataPoint": {
         "type": "object",
         "properties": {
@@ -3041,60 +3061,6 @@
           }
         ]
       },
-      "ConsumableStateAttribute": {
-        "allOf": [
-          {
-            "allOf": [
-              {
-                "allOf": [
-                  {
-                    "type": "object",
-                    "properties": {
-                      "__class": {
-                        "type": "string"
-                      },
-                      "metaData": {
-                        "type": "object"
-                      }
-                    }
-                  },
-                  {
-                    "type": "object",
-                    "properties": {
-                      "type": {
-                        "type": "string"
-                      },
-                      "subType": {
-                        "type": "string"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "object",
-            "properties": {
-              "remaining": {
-                "type": "object",
-                "properties": {
-                  "value": {
-                    "type": "number"
-                  },
-                  "unit": {
-                    "type": "string",
-                    "enum": [
-                      "percent",
-                      "minutes"
-                    ]
-                  }
-                }
-              }
-            }
-          }
-        ]
-      },
       "PresetSelectionStateAttribute": {
         "allOf": [
           {
@@ -3965,60 +3931,6 @@
                               {
                                 "type": "object",
                                 "properties": {
-                                  "remaining": {
-                                    "type": "object",
-                                    "properties": {
-                                      "value": {
-                                        "type": "number"
-                                      },
-                                      "unit": {
-                                        "type": "string",
-                                        "enum": [
-                                          "percent",
-                                          "minutes"
-                                        ]
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            ]
-                          },
-                          {
-                            "allOf": [
-                              {
-                                "allOf": [
-                                  {
-                                    "allOf": [
-                                      {
-                                        "type": "object",
-                                        "properties": {
-                                          "__class": {
-                                            "type": "string"
-                                          },
-                                          "metaData": {
-                                            "type": "object"
-                                          }
-                                        }
-                                      },
-                                      {
-                                        "type": "object",
-                                        "properties": {
-                                          "type": {
-                                            "type": "string"
-                                          },
-                                          "subType": {
-                                            "type": "string"
-                                          }
-                                        }
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                              {
-                                "type": "object",
-                                "properties": {
                                   "type": {
                                     "type": "string",
                                     "enum": [
@@ -4471,60 +4383,6 @@
                                   "discharging",
                                   "charged"
                                 ]
-                              }
-                            }
-                          }
-                        ]
-                      },
-                      {
-                        "allOf": [
-                          {
-                            "allOf": [
-                              {
-                                "allOf": [
-                                  {
-                                    "type": "object",
-                                    "properties": {
-                                      "__class": {
-                                        "type": "string"
-                                      },
-                                      "metaData": {
-                                        "type": "object"
-                                      }
-                                    }
-                                  },
-                                  {
-                                    "type": "object",
-                                    "properties": {
-                                      "type": {
-                                        "type": "string"
-                                      },
-                                      "subType": {
-                                        "type": "string"
-                                      }
-                                    }
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
-                            "type": "object",
-                            "properties": {
-                              "remaining": {
-                                "type": "object",
-                                "properties": {
-                                  "value": {
-                                    "type": "number"
-                                  },
-                                  "unit": {
-                                    "type": "string",
-                                    "enum": [
-                                      "percent",
-                                      "minutes"
-                                    ]
-                                  }
-                                }
                               }
                             }
                           }
@@ -8049,58 +7907,24 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "allOf": [
-                      {
-                        "allOf": [
-                          {
-                            "allOf": [
-                              {
-                                "type": "object",
-                                "properties": {
-                                  "__class": {
-                                    "type": "string"
-                                  },
-                                  "metaData": {
-                                    "type": "object"
-                                  }
-                                }
-                              },
-                              {
-                                "type": "object",
-                                "properties": {
-                                  "type": {
-                                    "type": "string"
-                                  },
-                                  "subType": {
-                                    "type": "string"
-                                  }
-                                }
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
+                    "type": "object",
+                    "properties": {
+                      "remaining": {
                         "type": "object",
                         "properties": {
-                          "remaining": {
-                            "type": "object",
-                            "properties": {
-                              "value": {
-                                "type": "number"
-                              },
-                              "unit": {
-                                "type": "string",
-                                "enum": [
-                                  "percent",
-                                  "minutes"
-                                ]
-                              }
-                            }
+                          "value": {
+                            "type": "number"
+                          },
+                          "unit": {
+                            "type": "string",
+                            "enum": [
+                              "percent",
+                              "minutes"
+                            ]
                           }
                         }
                       }
-                    ]
+                    }
                   }
                 },
                 "examples": {
@@ -8108,7 +7932,7 @@
                     "description": "Get the status of the consumables.",
                     "value": [
                       {
-                        "__class": "ConsumableStateAttribute",
+                        "__class": "ValetudoConsumable",
                         "metaData": {},
                         "type": "brush",
                         "subType": "main",
@@ -8118,7 +7942,7 @@
                         }
                       },
                       {
-                        "__class": "ConsumableStateAttribute",
+                        "__class": "ValetudoConsumable",
                         "metaData": {},
                         "type": "brush",
                         "subType": "side_right",
@@ -8128,7 +7952,7 @@
                         }
                       },
                       {
-                        "__class": "ConsumableStateAttribute",
+                        "__class": "ValetudoConsumable",
                         "metaData": {},
                         "type": "filter",
                         "subType": "main",
@@ -8138,7 +7962,7 @@
                         }
                       },
                       {
-                        "__class": "ConsumableStateAttribute",
+                        "__class": "ValetudoConsumable",
                         "metaData": {},
                         "type": "cleaning",
                         "subType": "sensor",
@@ -10930,6 +10754,160 @@
       "get": {
         "tags": [
           "CollisionAvoidantNavigationControlCapability"
+        ],
+        "summary": "Get various capability-related properties",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v2/robot/capabilities/MopExtensionControlCapability": {
+      "get": {
+        "tags": [
+          "MopExtensionControlCapability"
+        ],
+        "summary": "Get mop extension setting",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "enabled": {
+                      "type": "boolean"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "MopExtensionControlCapability"
+        ],
+        "summary": "Set mop extension setting",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "action": {
+                    "type": "string",
+                    "enum": [
+                      "enable",
+                      "disable"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad request"
+          }
+        }
+      }
+    },
+    "/api/v2/robot/capabilities/MopExtensionControlCapability/properties": {
+      "get": {
+        "tags": [
+          "MopExtensionControlCapability"
+        ],
+        "summary": "Get various capability-related properties",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v2/robot/capabilities/CameraLightControlCapability": {
+      "get": {
+        "tags": [
+          "CameraLightControlCapability"
+        ],
+        "summary": "Get camera light setting",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "enabled": {
+                      "type": "boolean"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "CameraLightControlCapability"
+        ],
+        "summary": "Set camera light setting",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "action": {
+                    "type": "string",
+                    "enum": [
+                      "enable",
+                      "disable"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad request"
+          }
+        }
+      }
+    },
+    "/api/v2/robot/capabilities/CameraLightControlCapability/properties": {
+      "get": {
+        "tags": [
+          "CameraLightControlCapability"
         ],
         "summary": "Get various capability-related properties",
         "responses": {

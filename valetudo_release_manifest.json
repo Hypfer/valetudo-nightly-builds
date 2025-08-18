@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-08-17T03:01:14.351Z",
-  "version": "f12da39c335816483d7a447544ef7a28c6fc1167",
+  "timestamp": "2025-08-18T03:02:22.886Z",
+  "version": "c941ca416d4e54f14992cc57c869e1d6bf902105",
   "sha256sums": {
-    "valetudo-armv7": "d7955e1ad5f3d1218687e0dab32545da0e0e6ccab4d66d8c165b292f4e8db885",
-    "valetudo-armv7-lowmem": "577e27a5376a801457561c0bcf18cda417c3e698f4bb684b0b4e2aec6c7ea22f",
-    "valetudo-aarch64": "5ebcb121b224d578d55348cea76d32cb701ac06d3048d122716430a0bdb4398b",
-    "valetudo-armv7.upx": "a913ec226e3801872ecf6ada79436f8d0f3583419ca004e5087d717177076794",
-    "valetudo-armv7-lowmem.upx": "fdb752f2d03eeb94f8617a67dfafbd13719024f62e044ad43bcef953546c7470",
-    "valetudo-aarch64.upx": "2c18254299bf244fd72f192d326f6340a8ac94dd88b9eaee8456da48623b9eb8"
+    "valetudo-armv7": "31d49dd547df0acc6bf59c8781b8b6f16f91d5206696b8cd59e553af03064f5b",
+    "valetudo-armv7-lowmem": "fb8b036c798be17681ddd79ec569cdf8ec589be0131c3e7de8c858282a64e2f5",
+    "valetudo-aarch64": "8d551efe7be68a581f2bca0929556527b7ca1d4a79f97867f504ad986b2e12d9",
+    "valetudo-armv7.upx": "e1dc7c9cc2d866d2ad9d22456f88baf1b29b3577516bec7a39261d24dd0b547c",
+    "valetudo-armv7-lowmem.upx": "1b82d419763a8172665347c5026c6320e83920101ce88a8b40352521915d81b5",
+    "valetudo-aarch64.upx": "ad744855a37136f59e0aef020fac29ad45f8fbb792a437e5745ff611b321ca08"
   },
-  "changelog": "## Valetudo nightly (2025-08-17T03:01:14.159Z)\n\n### Chores\n\n- spelling [`aaf0fc3`](https://github.com/Hypfer/Valetudo/commit/aaf0fc3f149b977ac492fc86ee592df75a63aee1)\n"
+  "changelog": "## Valetudo nightly (2025-08-18T03:02:22.678Z)\n### Breaking Changes\n\n- Drop ConsumableStateAttribute in favor of ValetudoConsumable entity [`ddc9918`](https://github.com/Hypfer/Valetudo/commit/ddc99180327570760299f6a627013328efe3b477)\n\n### Features\n\n- **vendor.dreame**: CameraLightControlCapability [`cefa92b`](https://github.com/Hypfer/Valetudo/commit/cefa92b8eeea6bd7bfabc2ca8de4eb49b975052b)\n- **core**: CameraLightControlCapability [`994c3f9`](https://github.com/Hypfer/Valetudo/commit/994c3f97a2f651a2c4fd8673f785cba9847f0c51)\n- **vendor.dreame**: MopExtensionControlCapability [`1189bd9`](https://github.com/Hypfer/Valetudo/commit/1189bd9f9c1e3f0c36917c39f075ac54c5c6c655)\n- **core**: MopExtensionControlCapability [`ccc3073`](https://github.com/Hypfer/Valetudo/commit/ccc307379e97199c70519078a541a3889942f17a)\n\n### Fixes\n\n- **ui**: Only show AppBar Subheaders when there are items for it [`453ac70`](https://github.com/Hypfer/Valetudo/commit/453ac70f53921dbe70e527530eaa995ba8553316)\n- **core**: Remove ip from default config [`3746d26`](https://github.com/Hypfer/Valetudo/commit/3746d267a703af422c5793edb8644be5f5fe2d33)\n- **vendor.viomi**: Remove redundant second emitMapUpdated on map reset [`f29592f`](https://github.com/Hypfer/Valetudo/commit/f29592f6efb1493c202ecd1d7e1aa1e4d9820fa5)\n- **webserver**: Fetching the map should not poll the state [`81801d6`](https://github.com/Hypfer/Valetudo/commit/81801d68b57b3a6be012d431a2ee8e59d280cc38)\n- **ui**: Add feedback when saving virtual restrictions [`69e47ab`](https://github.com/Hypfer/Valetudo/commit/69e47ab9be2a5794a5e786d20675a0ab7e39c5e9)\n\n### Refactoring\n\n- **core**: Use native crypto.randomUUID where possible [`b456a2b`](https://github.com/Hypfer/Valetudo/commit/b456a2b516b77bdb25e91d24c64868913c4bd66b)\n- **core**: Move map polling orchestration logic into ValetudoRobot base class [`b12fb03`](https://github.com/Hypfer/Valetudo/commit/b12fb031361be55710c80a51e2ecf657f74af58d)\n\n### Chores\n\n- Return await cleanup [`89b7882`](https://github.com/Hypfer/Valetudo/commit/89b7882b90e080ad740322d7c89482da0f841177)\n- Variable naming cleanup [`d67cabc`](https://github.com/Hypfer/Valetudo/commit/d67cabc51574fad608040608b03f49266ceac15d)\n- spelling [`aaf0fc3`](https://github.com/Hypfer/Valetudo/commit/aaf0fc3f149b977ac492fc86ee592df75a63aee1)\n"
 }
