@@ -1,10 +1,11 @@
-## Valetudo nightly (2025-08-18T03:02:22.678Z)
+## Valetudo nightly (2025-08-19T02:53:02.699Z)
 ### Breaking Changes
 
 - Drop ConsumableStateAttribute in favor of ValetudoConsumable entity [`ddc9918`](https://github.com/Hypfer/Valetudo/commit/ddc99180327570760299f6a627013328efe3b477)
 
 ### Features
 
+- **ui**: Introduce Valetudo AI Assistant [`da4c8c4`](https://github.com/Hypfer/Valetudo/commit/da4c8c4040c8a5c955edba5af7cc71e1e6c16072)
 - **vendor.dreame**: CameraLightControlCapability [`cefa92b`](https://github.com/Hypfer/Valetudo/commit/cefa92b8eeea6bd7bfabc2ca8de4eb49b975052b)
 - **core**: CameraLightControlCapability [`994c3f9`](https://github.com/Hypfer/Valetudo/commit/994c3f97a2f651a2c4fd8673f785cba9847f0c51)
 - **vendor.dreame**: MopExtensionControlCapability [`1189bd9`](https://github.com/Hypfer/Valetudo/commit/1189bd9f9c1e3f0c36917c39f075ac54c5c6c655)
