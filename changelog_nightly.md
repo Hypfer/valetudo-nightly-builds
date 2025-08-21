@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-08-20T02:51:45.650Z)
+## Valetudo nightly (2025-08-21T02:51:36.922Z)
 ### Breaking Changes
 
 - Drop ConsumableStateAttribute in favor of ValetudoConsumable entity [`ddc9918`](https://github.com/Hypfer/Valetudo/commit/ddc99180327570760299f6a627013328efe3b477)
@@ -13,6 +13,7 @@
 
 ### Fixes
 
+- **ui**: Improve mobile UX of AI Assistant [`f6b08e6`](https://github.com/Hypfer/Valetudo/commit/f6b08e679f0953cc2e60422f7961fe08e7ceaf35)
 - **ui**: Only show AppBar Subheaders when there are items for it [`453ac70`](https://github.com/Hypfer/Valetudo/commit/453ac70f53921dbe70e527530eaa995ba8553316)
 - **core**: Remove ip from default config [`3746d26`](https://github.com/Hypfer/Valetudo/commit/3746d267a703af422c5793edb8644be5f5fe2d33)
 - **vendor.viomi**: Remove redundant second emitMapUpdated on map reset [`f29592f`](https://github.com/Hypfer/Valetudo/commit/f29592f6efb1493c202ecd1d7e1aa1e4d9820fa5)
