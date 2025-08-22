@@ -1,10 +1,11 @@
-## Valetudo nightly (2025-08-21T02:51:36.922Z)
+## Valetudo nightly (2025-08-22T02:51:37.014Z)
 ### Breaking Changes
 
 - Drop ConsumableStateAttribute in favor of ValetudoConsumable entity [`ddc9918`](https://github.com/Hypfer/Valetudo/commit/ddc99180327570760299f6a627013328efe3b477)
 
 ### Features
 
+- **ui**: Further improve UX of AI Assistant [`d575e2f`](https://github.com/Hypfer/Valetudo/commit/d575e2f31414a57d4b226d99a12edaeab3e38758)
 - **ui**: Introduce Valetudo AI Assistant [`da4c8c4`](https://github.com/Hypfer/Valetudo/commit/da4c8c4040c8a5c955edba5af7cc71e1e6c16072)
 - **vendor.dreame**: CameraLightControlCapability [`cefa92b`](https://github.com/Hypfer/Valetudo/commit/cefa92b8eeea6bd7bfabc2ca8de4eb49b975052b)
 - **core**: CameraLightControlCapability [`994c3f9`](https://github.com/Hypfer/Valetudo/commit/994c3f97a2f651a2c4fd8673f785cba9847f0c51)
@@ -22,6 +23,7 @@
 
 ### Refactoring
 
+- **mqtt**: Simplify segment ID validation [`649eb4e`](https://github.com/Hypfer/Valetudo/commit/649eb4e6230b03991489f113517dd4f96fa7a2a9)
 - **core**: Use native crypto.randomUUID where possible [`b456a2b`](https://github.com/Hypfer/Valetudo/commit/b456a2b516b77bdb25e91d24c64868913c4bd66b)
 - **core**: Move map polling orchestration logic into ValetudoRobot base class [`b12fb03`](https://github.com/Hypfer/Valetudo/commit/b12fb031361be55710c80a51e2ecf657f74af58d)
 
