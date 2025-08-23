@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-08-22T02:51:37.014Z)
+## Valetudo nightly (2025-08-23T02:48:46.531Z)
 ### Breaking Changes
 
 - Drop ConsumableStateAttribute in favor of ValetudoConsumable entity [`ddc9918`](https://github.com/Hypfer/Valetudo/commit/ddc99180327570760299f6a627013328efe3b477)
@@ -14,6 +14,8 @@
 
 ### Fixes
 
+- **ui**: Fix ValetudoSplash showing scrollbars with some specific browser window dimensions [`47e129c`](https://github.com/Hypfer/Valetudo/commit/47e129c035ac7f046b131936f9a821c6cbea30ca)
+- **ui**: Actually reading docs helps build better software [`6bec34d`](https://github.com/Hypfer/Valetudo/commit/6bec34db1cbdbf3ec3ec301ad2df8d1cc2b672e9)
 - **ui**: Improve mobile UX of AI Assistant [`f6b08e6`](https://github.com/Hypfer/Valetudo/commit/f6b08e679f0953cc2e60422f7961fe08e7ceaf35)
 - **ui**: Only show AppBar Subheaders when there are items for it [`453ac70`](https://github.com/Hypfer/Valetudo/commit/453ac70f53921dbe70e527530eaa995ba8553316)
 - **core**: Remove ip from default config [`3746d26`](https://github.com/Hypfer/Valetudo/commit/3746d267a703af422c5793edb8644be5f5fe2d33)
