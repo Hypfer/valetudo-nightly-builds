@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-08-23T02:48:46.531Z)
+## Valetudo nightly (2025-08-24T02:58:44.610Z)
 ### Breaking Changes
 
 - Drop ConsumableStateAttribute in favor of ValetudoConsumable entity [`ddc9918`](https://github.com/Hypfer/Valetudo/commit/ddc99180327570760299f6a627013328efe3b477)
