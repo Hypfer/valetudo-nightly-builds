@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-09-05T02:47:57.102Z",
-  "version": "87d0760cccd364c168691de294c453fc72493b39",
+  "timestamp": "2025-09-06T02:46:19.617Z",
+  "version": "a71a91a8bd9d7b31371858b024af0ddcaa7c1ab3",
   "sha256sums": {
-    "valetudo-armv7": "d31d55142f807b747a399248cb25eb80693643333ce885a71bfab0a17c38b008",
-    "valetudo-armv7-lowmem": "4d59670b4cd52f4dda4a8b9c52074bc85cb0335487b10d3c31818907dcc0f2f2",
-    "valetudo-aarch64": "7b442ffd6f0ea1a4f74e966d2e91e7f564314e91621e63ca89a16931cae0334c",
-    "valetudo-armv7.upx": "f19ca393be25ff5be7ff70dc3ed745eed2e7362e05a289e1a228e01e96b73585",
-    "valetudo-armv7-lowmem.upx": "bf522a48fa12b18f647301d7e8202b42aef2d0adeeedc13b2d535ff9204a3b29",
-    "valetudo-aarch64.upx": "501b08cb1a46ed9accf7c3d2ac65ae261f1c18f6972b2ea0d06fbc5f6955dc1e"
+    "valetudo-armv7": "99eb3e74e739e78c3c05f70fcfa77c8285a56a70084aeb0b64d48ec0affd7d18",
+    "valetudo-armv7-lowmem": "205f9be7e045e81b3c6ccee5522b30a358f347722c4ea94dff28034355dc65e8",
+    "valetudo-aarch64": "ddded1b10792c91f0ff43e51682eecb55ee5dd194a1c7331897eb48afd95f9f1",
+    "valetudo-armv7.upx": "d5b99a058ad9b6139ec1f77caa0f5ff171a4f908ca04f67afec68ec2dd807f9b",
+    "valetudo-armv7-lowmem.upx": "11ba82368f0794461b154ef550a6084ae4e747fc2608663334d7abae5e89301e",
+    "valetudo-aarch64.upx": "d22f2110345a8a9870293664722c3f8647aaca8a2067c910a5f3b3dc25dcc3fa"
   },
-  "changelog": "## Valetudo nightly (2025-09-05T02:47:56.916Z)\n\n### Features\n\n- **ui**: Improve MopExtensionControl Icon [`757e682`](https://github.com/Hypfer/Valetudo/commit/757e6827ce54b47fcb19c6f0aa01afe556b05476)\n\n### Fixes\n\n- **vendor.dreame**: Add missing model ID [`87d0760`](https://github.com/Hypfer/Valetudo/commit/87d0760cccd364c168691de294c453fc72493b39)\n- **vendor.roborock**: No-Op handle two more events [`0261f57`](https://github.com/Hypfer/Valetudo/commit/0261f57e5d696ab8671a61137972203c1207c364)\n- **vendor.dreame**: Track emptying state of auto empty dock [`6f0fc2a`](https://github.com/Hypfer/Valetudo/commit/6f0fc2a4535cca3a5985f4990a6dec652895eb13)\n\n### Chores\n\n- **vendor.midea**: Minor cleanup [`ed34e36`](https://github.com/Hypfer/Valetudo/commit/ed34e36e4ebcb0ea2bc911743e8a5ddb13982abe)\n"
+  "changelog": "## Valetudo nightly (2025-09-06T02:46:19.429Z)\n\n### Features\n\n- **ui**: Improve MopExtensionControl Icon [`757e682`](https://github.com/Hypfer/Valetudo/commit/757e6827ce54b47fcb19c6f0aa01afe556b05476)\n\n### Fixes\n\n- **vendor.dreame**: Add missing model ID [`87d0760`](https://github.com/Hypfer/Valetudo/commit/87d0760cccd364c168691de294c453fc72493b39)\n- **vendor.roborock**: No-Op handle two more events [`0261f57`](https://github.com/Hypfer/Valetudo/commit/0261f57e5d696ab8671a61137972203c1207c364)\n- **vendor.dreame**: Track emptying state of auto empty dock [`6f0fc2a`](https://github.com/Hypfer/Valetudo/commit/6f0fc2a4535cca3a5985f4990a6dec652895eb13)\n\n### Chores\n\n- **vendor.midea**: Minor cleanup [`ed34e36`](https://github.com/Hypfer/Valetudo/commit/ed34e36e4ebcb0ea2bc911743e8a5ddb13982abe)\n"
 }
