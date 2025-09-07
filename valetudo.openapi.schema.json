@@ -7248,6 +7248,7 @@
                     "interval": {
                       "type": "string",
                       "enum": [
+                        "off",
                         "infrequent",
                         "normal",
                         "frequent"
@@ -7274,6 +7275,7 @@
                   "interval": {
                     "type": "string",
                     "enum": [
+                      "off",
                       "infrequent",
                       "normal",
                       "frequent"
@@ -7313,6 +7315,7 @@
                       "items": {
                         "type": "string",
                         "enum": [
+                          "off",
                           "infrequent",
                           "normal",
                           "frequent"
@@ -9667,6 +9670,108 @@
         }
       }
     },
+    "/api/v2/robot/capabilities/MopDockMopWashTemperatureControlCapability": {
+      "get": {
+        "tags": [
+          "MopDockMopWashTemperatureControlCapability"
+        ],
+        "summary": "Get current mop wash water temperature",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "temperature": {
+                      "type": "string",
+                      "enum": [
+                        "cold",
+                        "warm",
+                        "hot",
+                        "scalding",
+                        "boiling"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "MopDockMopWashTemperatureControlCapability"
+        ],
+        "summary": "Set mop wash water temperature",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "temperature": {
+                    "type": "string",
+                    "enum": [
+                      "cold",
+                      "warm",
+                      "hot",
+                      "scalding",
+                      "boiling"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad request"
+          }
+        }
+      }
+    },
+    "/api/v2/robot/capabilities/MopDockMopWashTemperatureControlCapability/properties": {
+      "get": {
+        "tags": [
+          "MopDockMopWashTemperatureControlCapability"
+        ],
+        "summary": "Get various capability-related properties",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "supportedTemperatures": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "cold",
+                          "warm",
+                          "hot",
+                          "scalding",
+                          "boiling"
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/v2/robot/capabilities/ObstacleImagesCapability": {
       "get": {
         "tags": [
@@ -10600,83 +10705,6 @@
       "get": {
         "tags": [
           "PetObstacleAvoidanceControlCapability"
-        ],
-        "summary": "Get various capability-related properties",
-        "responses": {
-          "200": {
-            "description": "Ok",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/api/v2/robot/capabilities/AutoEmptyDockAutoEmptyControlCapability": {
-      "get": {
-        "tags": [
-          "AutoEmptyDockAutoEmptyControlCapability"
-        ],
-        "summary": "Get auto empty dock auto empty setting",
-        "responses": {
-          "200": {
-            "description": "Ok",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object",
-                  "properties": {
-                    "enabled": {
-                      "type": "boolean"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "put": {
-        "tags": [
-          "AutoEmptyDockAutoEmptyControlCapability"
-        ],
-        "summary": "Set auto empty dock auto empty setting",
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "type": "object",
-                "properties": {
-                  "action": {
-                    "type": "string",
-                    "enum": [
-                      "enable",
-                      "disable"
-                    ]
-                  }
-                }
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "Ok"
-          },
-          "400": {
-            "description": "Bad request"
-          }
-        }
-      }
-    },
-    "/api/v2/robot/capabilities/AutoEmptyDockAutoEmptyControlCapability/properties": {
-      "get": {
-        "tags": [
-          "AutoEmptyDockAutoEmptyControlCapability"
         ],
         "summary": "Get various capability-related properties",
         "responses": {
