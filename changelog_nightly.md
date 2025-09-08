@@ -1,10 +1,15 @@
-## Valetudo nightly (2025-09-07T02:49:09.868Z)
+## Valetudo nightly (2025-09-08T02:50:38.035Z)
 ### Breaking Changes
 
 - Merge AutoEmptyDockAutoEmptyControlCapability into AutoEmptyDockAutoEmptyIntervalControlCapability [`7d1aea3`](https://github.com/Hypfer/Valetudo/commit/7d1aea37f772f0d9db4532420d5d8211174a0976)
 
 ### Features
 
+- **vendor.midea**: MopTwistControlCapability [`72444e6`](https://github.com/Hypfer/Valetudo/commit/72444e6fe12275b332760a7bd5969d936f15d710)
+- **vendor.dreame**: MopTwistControlCapability [`ea236ab`](https://github.com/Hypfer/Valetudo/commit/ea236abc1ea61874a5cc2b9b9e29e8bf30a6938d)
+- **core**: MopTwistControlCapability [`92ee9a5`](https://github.com/Hypfer/Valetudo/commit/92ee9a5f183f53064e98744c569843ea8b0172d3)
+- **vendor.midea**: Pet obstacle avoidance and stain cleaning [`0ea2a50`](https://github.com/Hypfer/Valetudo/commit/0ea2a50a4ddcdf76462559c4e0f647c3b95d1f2d)
+- **vendor.midea**: Everything carpet [`f94f3c1`](https://github.com/Hypfer/Valetudo/commit/f94f3c1101bbdf764f5b51a26a6c0abe6d0c873a)
 - **vendor.midea**: MopDockMopWashTemperatureControlCapability [`52c8c4b`](https://github.com/Hypfer/Valetudo/commit/52c8c4b290d8700634a1854b796f6b5973a98b22)
 - **vendor.dreame**: MopDockMopWashTemperatureControlCapability [`53ff4fa`](https://github.com/Hypfer/Valetudo/commit/53ff4fa841a071a16a1427864215d60fbdce3b48)
 - **core**: MopDockMopWashTemperatureControlCapability [`de62cbf`](https://github.com/Hypfer/Valetudo/commit/de62cbf8121b5e193488bf96a53d670f2719f554)
@@ -14,6 +19,7 @@
 
 ### Fixes
 
+- **vendor.midea**: Do not fail fast [`5715fb0`](https://github.com/Hypfer/Valetudo/commit/5715fb02f2d6b75b0e0c5e46557c0556f4c52375)
 - **ui**: MopDockMopWashTemperatureControl should be a dockListItems [`493c570`](https://github.com/Hypfer/Valetudo/commit/493c57010d5cefe0eaa4ae4eefb7081eecda97bf)
 - **vendor.midea**: Add missing return statement [`52b4625`](https://github.com/Hypfer/Valetudo/commit/52b462517b48ecd75abdc7c9ba68a35031e4cc5f)
 - **vendor.dreame**: Fix connection timeout on startup on very recent firmwares [`15c1f80`](https://github.com/Hypfer/Valetudo/commit/15c1f801add4c7af61dc13378e30a224efb73383)
