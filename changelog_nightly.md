@@ -1,10 +1,11 @@
-## Valetudo nightly (2025-09-09T02:48:55.067Z)
+## Valetudo nightly (2025-09-10T02:47:00.726Z)
 ### Breaking Changes
 
 - Merge AutoEmptyDockAutoEmptyControlCapability into AutoEmptyDockAutoEmptyIntervalControlCapability [`7d1aea3`](https://github.com/Hypfer/Valetudo/commit/7d1aea37f772f0d9db4532420d5d8211174a0976)
 
 ### Features
 
+- **webserver**: You know the rules and so do I [`0dcca1d`](https://github.com/Hypfer/Valetudo/commit/0dcca1df2f870007738fc267932e18ef6864bbca)
 - **vendor.midea**: MopTwistControlCapability [`72444e6`](https://github.com/Hypfer/Valetudo/commit/72444e6fe12275b332760a7bd5969d936f15d710)
 - **vendor.dreame**: MopTwistControlCapability [`ea236ab`](https://github.com/Hypfer/Valetudo/commit/ea236abc1ea61874a5cc2b9b9e29e8bf30a6938d)
 - **core**: MopTwistControlCapability [`92ee9a5`](https://github.com/Hypfer/Valetudo/commit/92ee9a5f183f53064e98744c569843ea8b0172d3)
