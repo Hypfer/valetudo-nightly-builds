@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-09-19T02:48:26.349Z)
+## Valetudo nightly (2025-09-20T02:46:20.740Z)
 ### Breaking Changes
 
 - Merge AutoEmptyDockAutoEmptyControlCapability into AutoEmptyDockAutoEmptyIntervalControlCapability [`7d1aea3`](https://github.com/Hypfer/Valetudo/commit/7d1aea37f772f0d9db4532420d5d8211174a0976)
