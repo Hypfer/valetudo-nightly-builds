@@ -1,10 +1,14 @@
-## Valetudo nightly (2025-09-30T02:47:39.619Z)
+## Valetudo nightly (2025-10-01T02:54:17.690Z)
 ### Breaking Changes
 
 - Merge AutoEmptyDockAutoEmptyControlCapability into AutoEmptyDockAutoEmptyIntervalControlCapability [`7d1aea3`](https://github.com/Hypfer/Valetudo/commit/7d1aea37f772f0d9db4532420d5d8211174a0976)
 
 ### Features
 
+- **vendor.dreame**: MopDockMopAutoDryingControlCapability [`6fcfc6a`](https://github.com/Hypfer/Valetudo/commit/6fcfc6a5c1d587fe755b6a68daac38353ec54a9f)
+- **vendor.roborock**: MopDockMopAutoDryingControlCapability [`847093a`](https://github.com/Hypfer/Valetudo/commit/847093aa4d99dc235dce11942753e3701e6335ee)
+- **vendor.midea**: MopDockMopAutoDryingControlCapability [`ed78538`](https://github.com/Hypfer/Valetudo/commit/ed7853825795485bbf771d83e42d14b79ede874e)
+- **core**: MopDockMopAutoDryingControlCapability [`f150a89`](https://github.com/Hypfer/Valetudo/commit/f150a89f2c8062ea930a2f23d8d46a831cd6e174)
 - **mqtt**: Add missing deviceClass + stateClass attributes, update enums and fix units for HA [`921dd13`](https://github.com/Hypfer/Valetudo/commit/921dd13b82f384a4f186300a0fbbea45395db4b9)
 - **vendor.midea**: Improve state reporting [`0afc47e`](https://github.com/Hypfer/Valetudo/commit/0afc47e9a3c17e7fdb7a8648f4fe4a0582cbfbdf)
 - **vendor.midea**: MopExtensionFurnitureLegHandlingControlCapability [`7c0fc3a`](https://github.com/Hypfer/Valetudo/commit/7c0fc3a09416e665a19f79f1a2a936638c3a8111)
@@ -26,6 +30,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Give the firmware some time to think [`ec61206`](https://github.com/Hypfer/Valetudo/commit/ec61206742c8e55372ffaecf94a1e607beb843b5)
 - **vendor.midea**: Do not fail fast [`5715fb0`](https://github.com/Hypfer/Valetudo/commit/5715fb02f2d6b75b0e0c5e46557c0556f4c52375)
 - **ui**: MopDockMopWashTemperatureControl should be a dockListItems [`493c570`](https://github.com/Hypfer/Valetudo/commit/493c57010d5cefe0eaa4ae4eefb7081eecda97bf)
 - **vendor.midea**: Add missing return statement [`52b4625`](https://github.com/Hypfer/Valetudo/commit/52b462517b48ecd75abdc7c9ba68a35031e4cc5f)
