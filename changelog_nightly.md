@@ -1,7 +1,9 @@
-## Valetudo nightly (2025-10-05T02:51:18.157Z)
+## Valetudo nightly (2025-10-06T02:48:54.220Z)
 
 ### Features
 
+- **mqtt**: HA autodiscovery manufacturer should be Valetudo [`78ee0f5`](https://github.com/Hypfer/Valetudo/commit/78ee0f513c862fab38e94a84bcc95c798079c04d)
+- **vendor.dreame**: Add some more obstacle IDs [`aa8c98e`](https://github.com/Hypfer/Valetudo/commit/aa8c98e5f35338f96134644e308836cd7459757e)
 - **ui**: Enhance AI safety guardrails [`4b45af6`](https://github.com/Hypfer/Valetudo/commit/4b45af6bd3a5beedeff9a63bb50adc16e11e0cdb)
 
 ### Fixes
