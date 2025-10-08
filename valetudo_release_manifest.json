@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-10-07T02:47:34.852Z",
+  "timestamp": "2025-10-08T02:47:42.715Z",
   "version": "78ee0f513c862fab38e94a84bcc95c798079c04d",
   "sha256sums": {
-    "valetudo-armv7": "8f6305a8a1010ac8c7742da6cda1ff6f5de2e6046c57dbd9fc167aa3eb5ec8af",
-    "valetudo-armv7-lowmem": "c200f445da60482b92277bb2c9d00a0728bceb5a75ae26399e6e081493636d6a",
-    "valetudo-aarch64": "2f697d361216adf9001d698d47513bbf27df33ad194a752649bb6307d6b8b158",
-    "valetudo-armv7.upx": "6d7cd41343fa59d12bf47099f83225bf3629c2bb75613f40311d0f9b7691b749",
-    "valetudo-armv7-lowmem.upx": "b383c139c4a1b453950e9829deed3bcb2e7af15803f0d4e694eca9e2147f27e3",
-    "valetudo-aarch64.upx": "5abeb152180c1e58578839b8a25908dd9d8530a8ee5113c403f5661c9f2d754e"
+    "valetudo-armv7": "2a08ff6a7a7c4872deb3d42a02a2dec07dcc02bedd37738acf313bedd5cfc366",
+    "valetudo-armv7-lowmem": "92a555cb68aff38a5138f1385c2e76c419b5a9e27262decebd73a9af637bc822",
+    "valetudo-aarch64": "48db600d2a5a8df164f72135f163ea4168b2e9b1a693a9dcc49b7f5287b9a09e",
+    "valetudo-armv7.upx": "7653738ecc79eaee7c7ef6a6cea079116d7995e30372bf7a6791d32222798cc6",
+    "valetudo-armv7-lowmem.upx": "11d3f623bb4d34a65c9fe700b49c56398433487482ffe47b27a6c5d2a1964a93",
+    "valetudo-aarch64.upx": "0a03ecea8e81968240c575cf7d2935dfd229b6284388373d007055c569ed926f"
   },
-  "changelog": "## Valetudo nightly (2025-10-07T02:47:34.665Z)\n\n### Features\n\n- **mqtt**: HA autodiscovery manufacturer should be Valetudo [`78ee0f5`](https://github.com/Hypfer/Valetudo/commit/78ee0f513c862fab38e94a84bcc95c798079c04d)\n- **vendor.dreame**: Add some more obstacle IDs [`aa8c98e`](https://github.com/Hypfer/Valetudo/commit/aa8c98e5f35338f96134644e308836cd7459757e)\n- **ui**: Enhance AI safety guardrails [`4b45af6`](https://github.com/Hypfer/Valetudo/commit/4b45af6bd3a5beedeff9a63bb50adc16e11e0cdb)\n\n### Fixes\n\n- **updater**: Pass around a file descriptor to/and make things safer [`ff7e462`](https://github.com/Hypfer/Valetudo/commit/ff7e462c4d228f4db942de2d0ab1d7889c0a6c22)\n"
+  "changelog": "## Valetudo nightly (2025-10-08T02:47:42.529Z)\n\n### Features\n\n- **mqtt**: HA autodiscovery manufacturer should be Valetudo [`78ee0f5`](https://github.com/Hypfer/Valetudo/commit/78ee0f513c862fab38e94a84bcc95c798079c04d)\n- **vendor.dreame**: Add some more obstacle IDs [`aa8c98e`](https://github.com/Hypfer/Valetudo/commit/aa8c98e5f35338f96134644e308836cd7459757e)\n- **ui**: Enhance AI safety guardrails [`4b45af6`](https://github.com/Hypfer/Valetudo/commit/4b45af6bd3a5beedeff9a63bb50adc16e11e0cdb)\n\n### Fixes\n\n- **updater**: Pass around a file descriptor to/and make things safer [`ff7e462`](https://github.com/Hypfer/Valetudo/commit/ff7e462c4d228f4db942de2d0ab1d7889c0a6c22)\n"
 }
