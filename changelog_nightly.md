@@ -1,7 +1,8 @@
-## Valetudo nightly (2025-10-12T02:48:57.348Z)
+## Valetudo nightly (2025-10-13T02:52:58.215Z)
 
 ### Features
 
+- **vendor.midea**: J12 Ultra [`8fc5a0a`](https://github.com/Hypfer/Valetudo/commit/8fc5a0ab297ee27fbf925816751044d8bfb0c42a)
 - **webserver**: Add another 404 page [`64b0ee0`](https://github.com/Hypfer/Valetudo/commit/64b0ee01fe86c2cb9ae7b2a4682af51e9d49c422)
 - **ui**: More and better Achievements [`c3609fc`](https://github.com/Hypfer/Valetudo/commit/c3609fc19914330a04c710a4973f8d79fc034f15)
 - **mqtt**: HA autodiscovery manufacturer should be Valetudo [`78ee0f5`](https://github.com/Hypfer/Valetudo/commit/78ee0f513c862fab38e94a84bcc95c798079c04d)
@@ -10,4 +11,5 @@
 
 ### Fixes
 
+- **ui**: Fix statistics label [`d1dd007`](https://github.com/Hypfer/Valetudo/commit/d1dd007ab0671aaf38c3896d32ba4e438001813b)
 - **updater**: Pass around a file descriptor to/and make things safer [`ff7e462`](https://github.com/Hypfer/Valetudo/commit/ff7e462c4d228f4db942de2d0ab1d7889c0a6c22)
