@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-10-14T02:48:27.654Z)
+## Valetudo nightly (2025-10-15T02:49:46.358Z)
 
 ### Features
 
@@ -11,5 +11,6 @@
 
 ### Fixes
 
+- **vendor.dreame**: Remove legacy payload for manual mop clean trigger that worked for 0 remaining robots [`94ae396`](https://github.com/Hypfer/Valetudo/commit/94ae396d850cef30667e4e92d5a5d01ff7ad72a2)
 - **ui**: Fix statistics label [`d1dd007`](https://github.com/Hypfer/Valetudo/commit/d1dd007ab0671aaf38c3896d32ba4e438001813b)
 - **updater**: Pass around a file descriptor to/and make things safer [`ff7e462`](https://github.com/Hypfer/Valetudo/commit/ff7e462c4d228f4db942de2d0ab1d7889c0a6c22)
