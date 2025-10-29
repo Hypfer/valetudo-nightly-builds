@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-10-28T02:50:45.249Z",
-  "version": "0664af31b6f5ea95423dd67bfafb7cb5d96df969",
+  "timestamp": "2025-10-29T02:56:34.934Z",
+  "version": "e5519f86e8667f7aa69005d1775a1d444e93ecd7",
   "sha256sums": {
-    "valetudo-armv7": "d4af013d8c4d94e50cce93513c56674ef62b30a7a702d5426063d12b5f65fedd",
-    "valetudo-armv7-lowmem": "81b0277c6374b4f976944f648c991fb6eecfbf50ad226cbbcf9166b65637a8c2",
-    "valetudo-aarch64": "f6cafef9e435cec8555fa1ca0dfe0f5987275d4ab8ffda9925ed7f7bbc4dbdc9",
-    "valetudo-armv7.upx": "a118ece1b02dc38909dc5d37f24534af7e165c9a1d1819b23c310fbf48c7bcff",
-    "valetudo-armv7-lowmem.upx": "4123d314f47e44097f5b0dae10f4e1e58e7455dc5773010fa4573f8a7e86af1b",
-    "valetudo-aarch64.upx": "40ae003b5fb96435dab76ba017d07c6abfab6eafa0a52b285d7edf3fef2bdfb9"
+    "valetudo-armv7": "d2648667aa995652a766891290be34df3b53b24b8b8a6699d73ad794956ee9f5",
+    "valetudo-armv7-lowmem": "1d0c44b1b0fd053ce36427b9083d84fde0550b6efb8b2632f940ed08283153d8",
+    "valetudo-aarch64": "3e11305c09dbd48b298f5a6069dedb10d013c27dd2f1a660a155d12d2993bf21",
+    "valetudo-armv7.upx": "94c2b8d9d0c428486b817d548835ac1d12ed858d552f93b92bbc13be74b39f47",
+    "valetudo-armv7-lowmem.upx": "5dc7e2e92fdb979698b60c62d4d94090b7e1b424b9ff8b7d3b4e5929c58706ee",
+    "valetudo-aarch64.upx": "be9d34bf98b920105373367ce29eeafe94bfd71a216864fab9307baa50c7fe3c"
   },
-  "changelog": "## Valetudo nightly (2025-10-28T02:50:45.023Z)\n\n### Features\n\n- **vendor.midea**: J15 Ultra [`84c8697`](https://github.com/Hypfer/Valetudo/commit/84c8697432fb142df954f1d2225a064b741e4df7)\n- **vendor.midea**: J12 Ultra [`8fc5a0a`](https://github.com/Hypfer/Valetudo/commit/8fc5a0ab297ee27fbf925816751044d8bfb0c42a)\n- **webserver**: Add another 404 page [`64b0ee0`](https://github.com/Hypfer/Valetudo/commit/64b0ee01fe86c2cb9ae7b2a4682af51e9d49c422)\n- **ui**: More and better Achievements [`c3609fc`](https://github.com/Hypfer/Valetudo/commit/c3609fc19914330a04c710a4973f8d79fc034f15)\n- **mqtt**: HA autodiscovery manufacturer should be Valetudo [`78ee0f5`](https://github.com/Hypfer/Valetudo/commit/78ee0f513c862fab38e94a84bcc95c798079c04d)\n- **vendor.dreame**: Add some more obstacle IDs [`aa8c98e`](https://github.com/Hypfer/Valetudo/commit/aa8c98e5f35338f96134644e308836cd7459757e)\n- **ui**: Enhance AI safety guardrails [`4b45af6`](https://github.com/Hypfer/Valetudo/commit/4b45af6bd3a5beedeff9a63bb50adc16e11e0cdb)\n\n### Fixes\n\n- **vendor.midea**: Fix J12 ota update check failing [`6c94eda`](https://github.com/Hypfer/Valetudo/commit/6c94eda6ffc701bf033acd8e50cd057824f88e14)\n- **vendor.dreame**: Remove legacy payload for manual mop clean trigger that worked for 0 remaining robots [`94ae396`](https://github.com/Hypfer/Valetudo/commit/94ae396d850cef30667e4e92d5a5d01ff7ad72a2)\n- **ui**: Fix statistics label [`d1dd007`](https://github.com/Hypfer/Valetudo/commit/d1dd007ab0671aaf38c3896d32ba4e438001813b)\n- **updater**: Pass around a file descriptor to/and make things safer [`ff7e462`](https://github.com/Hypfer/Valetudo/commit/ff7e462c4d228f4db942de2d0ab1d7889c0a6c22)\n\n### Refactoring\n\n- **vendor.midea**: Misc cleanup [`1de0ca3`](https://github.com/Hypfer/Valetudo/commit/1de0ca3186d7bbee45143b5869a4b59716721a9c)\n\n### Chores\n\n- Spelling [`c16245b`](https://github.com/Hypfer/Valetudo/commit/c16245bd51cbacd130be7be9638c452ddbfa7dfe)\n- Bump some transient dependencies [`ec25373`](https://github.com/Hypfer/Valetudo/commit/ec2537319561e372c85fc24ba22fe7bbc17ed96e)\n"
+  "changelog": "## Valetudo nightly (2025-10-29T02:56:34.747Z)\n"
 }
