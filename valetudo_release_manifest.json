@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-11-10T02:58:45.139Z",
+  "timestamp": "2025-11-11T02:55:17.751Z",
   "version": "6a4a6cabd0f0b487b8a76c05707267081277e521",
   "sha256sums": {
-    "valetudo-armv7": "735f4b77b65e8e602089b2684ce1f0fcb1c524a14a67946c16e568bd48d37994",
-    "valetudo-armv7-lowmem": "fe35b2d8f97942c1dd621eea6d8fde77d6928b484cbfc51940d24d1dc82d02cd",
-    "valetudo-aarch64": "51dab5affc8dabef6dee6b9268cba35517a4be71f172e04f24b63b67881cebe7",
-    "valetudo-armv7.upx": "f1b2770a6c80cd49a991fe9e6209afa4e4fe7cb74b50687ed8f604c37335037d",
-    "valetudo-armv7-lowmem.upx": "c248574ae7a7245fd67fb23c117613c71d324f83e024eab6565b3b2bcc9acf02",
-    "valetudo-aarch64.upx": "3ea884dd233dc9fc2a4a9f9b58f203e34873ec52e60c98565aaf07aee01edb4f"
+    "valetudo-armv7": "d40679937d6a98a443835ddbb1be945ba5f6872e80c38e2df2e30a548b42d37e",
+    "valetudo-armv7-lowmem": "ac3593f12865d2d0f88ee0fd87926919863c2b7c476b95aee4fd68c5a72ba479",
+    "valetudo-aarch64": "1945b5d2bfd762de6973fa8a46e01f5a7cf9b4125a209975a6fcec454577f9f9",
+    "valetudo-armv7.upx": "34021c508abd70bded2aa44317043e87e9fdb709673a004001cd159b97922a76",
+    "valetudo-armv7-lowmem.upx": "8fe288097c96a003727a2b0bf42f8b8ace19a9187fc07fdab2968837fa79aefb",
+    "valetudo-aarch64.upx": "9c2de93777595f6b84fe5ca8b6ca2dd1f6c058fe669c5fc3992d952dc3e1ca8d"
   },
-  "changelog": "## Valetudo nightly (2025-11-10T02:58:44.944Z)\n\n### Features\n\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
+  "changelog": "## Valetudo nightly (2025-11-11T02:55:17.548Z)\n\n### Features\n\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
 }
