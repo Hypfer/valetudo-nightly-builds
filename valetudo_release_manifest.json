@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-11-11T02:55:17.751Z",
-  "version": "6a4a6cabd0f0b487b8a76c05707267081277e521",
+  "timestamp": "2025-11-12T02:54:01.613Z",
+  "version": "a87996812efee841a78b4773166dc6d8e884df69",
   "sha256sums": {
-    "valetudo-armv7": "d40679937d6a98a443835ddbb1be945ba5f6872e80c38e2df2e30a548b42d37e",
-    "valetudo-armv7-lowmem": "ac3593f12865d2d0f88ee0fd87926919863c2b7c476b95aee4fd68c5a72ba479",
-    "valetudo-aarch64": "1945b5d2bfd762de6973fa8a46e01f5a7cf9b4125a209975a6fcec454577f9f9",
-    "valetudo-armv7.upx": "34021c508abd70bded2aa44317043e87e9fdb709673a004001cd159b97922a76",
-    "valetudo-armv7-lowmem.upx": "8fe288097c96a003727a2b0bf42f8b8ace19a9187fc07fdab2968837fa79aefb",
-    "valetudo-aarch64.upx": "9c2de93777595f6b84fe5ca8b6ca2dd1f6c058fe669c5fc3992d952dc3e1ca8d"
+    "valetudo-armv7": "ac0ed215a6a1f2ec54d2d32b3b4dc11f6ec3c2f92d9021111b26ef5e075ca2ac",
+    "valetudo-armv7-lowmem": "c46ed721976338bd27e7f732946b92fba00974e5ca218e1ae9539d74ab9d785a",
+    "valetudo-aarch64": "8753b4d548e0f6c04a35471398b1aa0bd9d8874950970b04b68635486eb6cf87",
+    "valetudo-armv7.upx": "787393ec9393ff00b31c7738dbcf94aa12e9ac983b94b0db0a3a45fdb6271d74",
+    "valetudo-armv7-lowmem.upx": "24a1a22df28d9867daeab06358720fb504cbce89d126d31db6f18ffa5325505e",
+    "valetudo-aarch64.upx": "5d6ef509d6e0b78372a296c8bd8b3496f77454a6cf36bf6a27d7e5f37deafe03"
   },
-  "changelog": "## Valetudo nightly (2025-11-11T02:55:17.548Z)\n\n### Features\n\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
+  "changelog": "## Valetudo nightly (2025-11-12T02:54:01.426Z)\n\n### Features\n\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
 }
