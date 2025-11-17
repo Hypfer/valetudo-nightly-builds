@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-11-16T02:58:44.990Z",
-  "version": "a87996812efee841a78b4773166dc6d8e884df69",
+  "timestamp": "2025-11-17T02:56:18.258Z",
+  "version": "10c692ab29d48c6207ee7966a6e3e896be7bd2e8",
   "sha256sums": {
-    "valetudo-armv7": "6e6f785b9435f5c8c2d828620067cba6c6335252bff14ca36921fed49dc76207",
-    "valetudo-armv7-lowmem": "a100f4c501ebeb8aef61403308f7bcca14f7b03245481b436c52c5e943efc1d1",
-    "valetudo-aarch64": "dd4d04c396e1fde2e855905bf27f40b0b47d466e020ca237282ca963c6f0de16",
-    "valetudo-armv7.upx": "ed5fae19d46a57adde9962cf1ab9526b9bb5538d5b4cb371b91d104d5bf96318",
-    "valetudo-armv7-lowmem.upx": "40a98ebecb3459a85979792921481b93932122678c344268d0b62631722955db",
-    "valetudo-aarch64.upx": "2e86af497add7ba93a673fe36d7473bdf2b2aca30caf0e52d5e1e58e9e73f330"
+    "valetudo-armv7": "8d91f26a9e02aec05415f2e647a24d85772356471b503f4cbac50159b08cfdf5",
+    "valetudo-armv7-lowmem": "b99fbe3319bd557399421480bf40297e209a85d9a916ae78957be76cbf8cc9fc",
+    "valetudo-aarch64": "868906fe03ad87da9354a8dc7ac7de2dbf90cf30e7ce503764f402ac661c7bfe",
+    "valetudo-armv7.upx": "421b878e50dadc2882f285f98e3f18e807a5c58488829aa0e6012688a3956f43",
+    "valetudo-armv7-lowmem.upx": "6c323900dd488417e471483d4614d88d1932e09b66f3c9a1eb8e61befe835c02",
+    "valetudo-aarch64.upx": "63b64b03d94441bc6987eea4b6485d55f874847cede3bb805cae22bc974bbb99"
   },
-  "changelog": "## Valetudo nightly (2025-11-16T02:58:44.798Z)\n\n### Features\n\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
+  "changelog": "## Valetudo nightly (2025-11-17T02:56:18.059Z)\n\n### Features\n\n- **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)\n- **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
 }
