@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-11-20T02:52:56.978Z",
+  "timestamp": "2025-11-21T02:53:28.023Z",
   "version": "ec606c502df509041f22752d5578d260ecc8f63d",
   "sha256sums": {
-    "valetudo-armv7": "c1b0a949569ce5d4d9bd657616b35db18e591bbaaf523c0c2de876c22bf92227",
-    "valetudo-armv7-lowmem": "c9e814a551303dc7f03e86469202acdefc6d7f108b8e40e5885ae6becedc428b",
-    "valetudo-aarch64": "5c4b840f030c50d83d6ad6e8ff66ffb73b64c0c610dd6387e0c879e809b6c2c0",
-    "valetudo-armv7.upx": "ef372e50e0e2648711c4e1e3421d3c6fbf3e61fd618f316ecbe49c1577c25700",
-    "valetudo-armv7-lowmem.upx": "6d8c2646cb4db465bc371a93197cd4b09664889f0907deb3734aa3779eaf7880",
-    "valetudo-aarch64.upx": "d56820472fdfcb5877a88bfd779a63136da94dbf66420e3e4c8de14b95d0450e"
+    "valetudo-armv7": "7c602e66c61e194df045f61570c661f42220353590f6e15b66f3a067198464b7",
+    "valetudo-armv7-lowmem": "0d3dc9988a12a800ac561634973b9719c9d4f4e69d51ef7178882cfc77e9d88e",
+    "valetudo-aarch64": "df33ab229efe12e2cc6f47fc7d149d54b73d5d261f8668076906834ab788bdd4",
+    "valetudo-armv7.upx": "2b9c8a16cb966627bc3624bc742d22c07cbe3949ab0347e60fc86de65b012d17",
+    "valetudo-armv7-lowmem.upx": "97513eb3eb0bcf06fcb59964e5642d94b32a29130e853eee915ee0366ba5c0db",
+    "valetudo-aarch64.upx": "273807ef6afa794e44f2b5412d0f31a7ca8a0e9d4c833f3f3fb0a1a58aa8ae00"
   },
-  "changelog": "## Valetudo nightly (2025-11-20T02:52:56.778Z)\n\n### Features\n\n- **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)\n- **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
+  "changelog": "## Valetudo nightly (2025-11-21T02:53:27.834Z)\n\n### Features\n\n- **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)\n- **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n"
 }
