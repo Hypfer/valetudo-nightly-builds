@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-11-23T03:02:09.190Z",
-  "version": "aaa14159abc5a9616ab921da6a59b09e11e184d7",
+  "timestamp": "2025-11-24T03:01:12.891Z",
+  "version": "b31dc84d176a94669c5024ceabd7e880fba5e7d0",
   "sha256sums": {
-    "valetudo-armv7": "48836dd32222ad5cdbc533bf5e8caf04f2b405cbee03eeed0273b0df0c3f4cca",
-    "valetudo-armv7-lowmem": "ec57d086268e98752347f7c292771b724cb22efe8a2f0c0c8c45aa0aabdb14f3",
-    "valetudo-aarch64": "ff3d4873d9fc7c07a10c28e154df6370a8018b175bb76a9803e8cc8517830743",
-    "valetudo-armv7.upx": "bfcf203689f0d412ae0e82419129aad9852df3d5d7388379aafb345ad84f5e16",
-    "valetudo-armv7-lowmem.upx": "148dc1809506e307be87596c0769dd3bc4cfc92e655b0c114beff5f4c2de4957",
-    "valetudo-aarch64.upx": "e974a8e2d54fd58f08258e395dfb3fd7f4166127a03d5ef97b799099b561f073"
+    "valetudo-armv7": "0b5f99d4fa28fcfd1ba93615f3d502e591ae21d3ea4efa8306a70841bdfbc2ef",
+    "valetudo-armv7-lowmem": "8880171a243208de8eca82f8d7019ad8e931ef4a12cbcef0d969f2273f61adc5",
+    "valetudo-aarch64": "865d64ee902464caae87ef2768e09abad123919eb72190ce0042de6e09198724",
+    "valetudo-armv7.upx": "b5a29f8f4bc005bfa90313149099b5cf1ca9ac23e46f7921434e3b4f810af578",
+    "valetudo-armv7-lowmem.upx": "276abe8f318817188fa848b195b8750e1b3b435a844e8136ee89d49e9c95e280",
+    "valetudo-aarch64.upx": "5f590db7508406bb6f9da99b6b73fe7778fb0d55d6620f9bafcf00a7ebe876e5"
   },
-  "changelog": "## Valetudo nightly (2025-11-23T03:02:08.994Z)\n\n### Features\n\n- **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)\n- **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n\n### Fixes\n\n- **vendor.roborock**: The S4 does not support carpet mode [`aaa1415`](https://github.com/Hypfer/Valetudo/commit/aaa14159abc5a9616ab921da6a59b09e11e184d7)\n"
+  "changelog": "## Valetudo nightly (2025-11-24T03:01:12.689Z)\n\n### Features\n\n- **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)\n- **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n\n### Fixes\n\n- **vendor.midea**: Misc [`b31dc84`](https://github.com/Hypfer/Valetudo/commit/b31dc84d176a94669c5024ceabd7e880fba5e7d0)\n- **vendor.roborock**: The S4 does not support carpet mode [`aaa1415`](https://github.com/Hypfer/Valetudo/commit/aaa14159abc5a9616ab921da6a59b09e11e184d7)\n"
 }

@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-11-23T03:02:08.994Z)
+## Valetudo nightly (2025-11-24T03:01:12.689Z)
 
 ### Features
 
@@ -9,4 +9,5 @@
 
 ### Fixes
 
+- **vendor.midea**: Misc [`b31dc84`](https://github.com/Hypfer/Valetudo/commit/b31dc84d176a94669c5024ceabd7e880fba5e7d0)
 - **vendor.roborock**: The S4 does not support carpet mode [`aaa1415`](https://github.com/Hypfer/Valetudo/commit/aaa14159abc5a9616ab921da6a59b09e11e184d7)
