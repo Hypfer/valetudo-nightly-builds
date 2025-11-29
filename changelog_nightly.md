@@ -1,7 +1,8 @@
-## Valetudo nightly (2025-11-29T02:52:57.526Z)
+## Valetudo nightly (2025-11-29T19:12:19.868Z)
 
 ### Features
 
+- Display detected carpets [`133f843`](https://github.com/Hypfer/Valetudo/commit/133f843c4c416fcefe917d3795d45b2d52c1b59a)
 - **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)
 - **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)
 - **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)
@@ -12,3 +13,7 @@
 - **vendor.midea**: Misc fixes [`a9b3621`](https://github.com/Hypfer/Valetudo/commit/a9b3621d34490a34aa1300d98033fd66a359d08f)
 - **vendor.midea**: Misc [`b31dc84`](https://github.com/Hypfer/Valetudo/commit/b31dc84d176a94669c5024ceabd7e880fba5e7d0)
 - **vendor.roborock**: The S4 does not support carpet mode [`aaa1415`](https://github.com/Hypfer/Valetudo/commit/aaa14159abc5a9616ab921da6a59b09e11e184d7)
+
+### Chores
+
+- Bump node-forge [`7380092`](https://github.com/Hypfer/Valetudo/commit/73800926da505d56296cd641e056394badce99d7)
