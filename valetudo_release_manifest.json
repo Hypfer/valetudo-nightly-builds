@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-11-29T19:12:20.088Z",
-  "version": "73800926da505d56296cd641e056394badce99d7",
+  "timestamp": "2025-11-30T03:01:44.602Z",
+  "version": "bad3e8480c90fcfe85283cc6e0fee597978d176c",
   "sha256sums": {
-    "valetudo-armv7": "825b7fbb31ca9d96478972961b1b73ff0c32619e3da62af34d2869fe3108b184",
-    "valetudo-armv7-lowmem": "a8e4fb4d80d924885c3fbff716e63007ba19a015b90ad468c35ffa42bfec8903",
-    "valetudo-aarch64": "f23d7570eb5300583b76699939c346ad5b49b0575bd85f535ce806539435b42a",
-    "valetudo-armv7.upx": "32630c35e89bd2a7899641247821e884834e5f28724b29aa1a1caee119603c89",
-    "valetudo-armv7-lowmem.upx": "e6c1f21b292bfc63f4788b8a206dcaf1270113614847b9e3f71e3c03ee7065e7",
-    "valetudo-aarch64.upx": "99b66584872e57f004ac799a9593b0e516fa9001bbc566ebf9cebfdaceb618b4"
+    "valetudo-armv7": "308a05d2e67f9f719598d6e08a13a466e0d226c2c6ec7d2165d200242c7570b6",
+    "valetudo-armv7-lowmem": "94cc3c41cf01aee478eb1b4eb20abe14c2eaaa3fc438bafbd05da3f73c27af65",
+    "valetudo-aarch64": "e5e12f5a8a1b203d054538cf062b421539868eeb27fbcf31c54f10e268a119a6",
+    "valetudo-armv7.upx": "33c66fdcf7339768519c43b3e0b718930c0d249251495c6fa13028493660216c",
+    "valetudo-armv7-lowmem.upx": "42d863115a5c531a15abc2320d6eb02f61502ac226c57996eb6ec90cf7d0844f",
+    "valetudo-aarch64.upx": "8d9a9dbfc924f3a119c96dfda6cf9574c5f8a899d7f2d07c0e332cb656991bc9"
   },
-  "changelog": "## Valetudo nightly (2025-11-29T19:12:19.868Z)\n\n### Features\n\n- Display detected carpets [`133f843`](https://github.com/Hypfer/Valetudo/commit/133f843c4c416fcefe917d3795d45b2d52c1b59a)\n- **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)\n- **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n\n### Fixes\n\n- **vendor.midea**: Misc fixes [`a9b3621`](https://github.com/Hypfer/Valetudo/commit/a9b3621d34490a34aa1300d98033fd66a359d08f)\n- **vendor.midea**: Misc [`b31dc84`](https://github.com/Hypfer/Valetudo/commit/b31dc84d176a94669c5024ceabd7e880fba5e7d0)\n- **vendor.roborock**: The S4 does not support carpet mode [`aaa1415`](https://github.com/Hypfer/Valetudo/commit/aaa14159abc5a9616ab921da6a59b09e11e184d7)\n\n### Chores\n\n- Bump node-forge [`7380092`](https://github.com/Hypfer/Valetudo/commit/73800926da505d56296cd641e056394badce99d7)\n"
+  "changelog": "## Valetudo nightly (2025-11-30T03:01:44.387Z)\n\n### Features\n\n- Display detected carpets [`133f843`](https://github.com/Hypfer/Valetudo/commit/133f843c4c416fcefe917d3795d45b2d52c1b59a)\n- **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)\n- **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)\n- **vendor.midea**: Various cleanups [`6a4a6ca`](https://github.com/Hypfer/Valetudo/commit/6a4a6cabd0f0b487b8a76c05707267081277e521)\n- **vendor.midea**: E20 Evo Plus [`cde0bc8`](https://github.com/Hypfer/Valetudo/commit/cde0bc86f8fcca16e6cdf500edf8093869d37385)\n\n### Fixes\n\n- **vendor.midea**: Misc fixes [`a9b3621`](https://github.com/Hypfer/Valetudo/commit/a9b3621d34490a34aa1300d98033fd66a359d08f)\n- **vendor.midea**: Misc [`b31dc84`](https://github.com/Hypfer/Valetudo/commit/b31dc84d176a94669c5024ceabd7e880fba5e7d0)\n- **vendor.roborock**: The S4 does not support carpet mode [`aaa1415`](https://github.com/Hypfer/Valetudo/commit/aaa14159abc5a9616ab921da6a59b09e11e184d7)\n\n### Refactoring\n\n- Consistency [`bad3e84`](https://github.com/Hypfer/Valetudo/commit/bad3e8480c90fcfe85283cc6e0fee597978d176c)\n\n### Chores\n\n- Bump node-forge [`7380092`](https://github.com/Hypfer/Valetudo/commit/73800926da505d56296cd641e056394badce99d7)\n"
 }
