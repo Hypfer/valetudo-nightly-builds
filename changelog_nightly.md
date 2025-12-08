@@ -1,7 +1,8 @@
-## Valetudo nightly (2025-12-07T03:02:00.573Z)
+## Valetudo nightly (2025-12-08T02:59:39.090Z)
 
 ### Features
 
+- **vendor.midea**: E20 Plus [`51d8531`](https://github.com/Hypfer/Valetudo/commit/51d85316e4edb78f6492f60ba2af4d33e5274efd)
 - Display detected carpets [`133f843`](https://github.com/Hypfer/Valetudo/commit/133f843c4c416fcefe917d3795d45b2d52c1b59a)
 - **vendor.midea**: Add quirks for various mop-related controls [`10c692a`](https://github.com/Hypfer/Valetudo/commit/10c692ab29d48c6207ee7966a6e3e896be7bd2e8)
 - **vendor.midea**: J15 Max Ultra [`2771580`](https://github.com/Hypfer/Valetudo/commit/2771580f14659335969ed730b2b3b25331829da2)
