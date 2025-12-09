@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-12-08T02:59:39.090Z)
+## Valetudo nightly (2025-12-09T02:58:28.954Z)
 
 ### Features
 
@@ -11,10 +11,12 @@
 
 ### Fixes
 
+- **vendor.dreame**: Detect R2338H [`197f866`](https://github.com/Hypfer/Valetudo/commit/197f8669b63387b0524cfabe5389f775f7bff01b)
 - **ui**: Slightly improve visibility of carpets [`689b48f`](https://github.com/Hypfer/Valetudo/commit/689b48f644f9e15879f21375ea2b99f990962293)
 - **vendor.midea**: Misc fixes [`a9b3621`](https://github.com/Hypfer/Valetudo/commit/a9b3621d34490a34aa1300d98033fd66a359d08f)
 - **vendor.midea**: Misc [`b31dc84`](https://github.com/Hypfer/Valetudo/commit/b31dc84d176a94669c5024ceabd7e880fba5e7d0)
 - **vendor.roborock**: The S4 does not support carpet mode [`aaa1415`](https://github.com/Hypfer/Valetudo/commit/aaa14159abc5a9616ab921da6a59b09e11e184d7)
+- **mqtt**: Use new default_entity_id instead of deprecated object_id in autodiscovery [`4ba6c43`](https://github.com/Hypfer/Valetudo/commit/4ba6c43e9c4b2b7cbeb655d433f3dd8634c95457)
 
 ### Refactoring
 
