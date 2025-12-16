@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-12-15T03:02:36.130Z",
+  "timestamp": "2025-12-16T03:01:04.394Z",
   "version": "04bac60fdc988db2074c3a13638379715591f6f6",
   "sha256sums": {
-    "valetudo-armv7": "cb3628a761df92ff4117b72359362632f87c7b319a0a3ace248dbc339e88713b",
-    "valetudo-armv7-lowmem": "0081f5e7372177e4d7624ee1ffd851271dab81456a81e9356b00ba75f9c74d1e",
-    "valetudo-aarch64": "25d3714a3e0a712436c97097d57451d9da6edc16379c295b06d97098e231adab",
-    "valetudo-armv7.upx": "b1f89d5a362d1a5d6ccf1831b84a6fd3aefd57fedc3967fd9ee9a846185d823e",
-    "valetudo-armv7-lowmem.upx": "41396fece44ed2493ebbb37fcabcd26d1e8c9891b99443fe10be7361f5b04d49",
-    "valetudo-aarch64.upx": "8076b0a82cc2ab083b270b0c5d3c3d0f4caf904e751ef8c11c39971cf23daa57"
+    "valetudo-armv7": "c850c4810da496690e53da5bb6b0804006993d48257b3897b76f370999beae8f",
+    "valetudo-armv7-lowmem": "f3ac6de7996bc15d9754dd83e1e5b8c76c3c87215da0a7971cea407d1a938d54",
+    "valetudo-aarch64": "7aeb0b11d6b47da12f52f712ce87b423a76f73f000a3db1070714793d3aa0d1d",
+    "valetudo-armv7.upx": "0df69df031b11646a31e7dc92b55c501e85408ad35803e8615a3b6e26b24508b",
+    "valetudo-armv7-lowmem.upx": "36e9b2064c2b2e9887f06e002d9f80ac6378d08d4a36ff5242636191196f5884",
+    "valetudo-aarch64.upx": "42da1cfa19044e5f2df9fa576f57a0c1e5e214aaaae7c1cd7c1e7e701b477a1c"
   },
-  "changelog": "## Valetudo nightly (2025-12-15T03:02:35.941Z)\n\n### Fixes\n\n- **vendor.dreame**: The latest L10spuh firmware uses the newer-style mop extension controls [`04bac60`](https://github.com/Hypfer/Valetudo/commit/04bac60fdc988db2074c3a13638379715591f6f6)\n"
+  "changelog": "## Valetudo nightly (2025-12-16T03:01:04.206Z)\n\n### Fixes\n\n- **vendor.dreame**: The latest L10spuh firmware uses the newer-style mop extension controls [`04bac60`](https://github.com/Hypfer/Valetudo/commit/04bac60fdc988db2074c3a13638379715591f6f6)\n"
 }
