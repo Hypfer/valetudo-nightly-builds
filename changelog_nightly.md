@@ -1,4 +1,4 @@
-## Valetudo nightly (2025-12-16T03:01:04.206Z)
+## Valetudo nightly (2025-12-17T02:59:06.672Z)
 
 ### Fixes
 
