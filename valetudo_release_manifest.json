@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-12-24T03:00:48.870Z",
-  "version": "04bac60fdc988db2074c3a13638379715591f6f6",
+  "timestamp": "2025-12-24T16:59:28.263Z",
+  "version": "77a8edf65369718cca25ed1ac415237ff0807913",
   "sha256sums": {
-    "valetudo-armv7": "c12e420ac8cb16f9a948c4ec017ba4f862ef9e8d322a775b1fd1237573f9c1f7",
-    "valetudo-armv7-lowmem": "69b009967022ded02f2ac5c3474c18a5e3e7a1fb58f099fbfdd3d9d40f5a1a33",
-    "valetudo-aarch64": "297f3a52d2468c3154b5dd28acb37eddb20c6e6f5664f7af290d45c8518e86dd",
-    "valetudo-armv7.upx": "9b694af24b8b2f327ac67bdb524c4c089137dc4e82777c98abae2c66b32e5fdb",
-    "valetudo-armv7-lowmem.upx": "ec757f4c044cc6416e87ae88d9bd01dccae554f31ec160fe2c4b7b94fbd57fd0",
-    "valetudo-aarch64.upx": "be302513be77356b32ee6197bfed7f112c5e2b1723a3f4027fb913e6405fc2a9"
+    "valetudo-armv7": "f8101273435113a17e5f8d3297c20dca196572de2efee4ae45924f2d2337677d",
+    "valetudo-armv7-lowmem": "d52b1f058a9915099edcbcba934451127244ac4a5dbf242935c466374c37cfe1",
+    "valetudo-aarch64": "29cae394e3b49744bc78f14b5ae05a80cf6e7e0fb49b48fb1c5e1200047b5a17",
+    "valetudo-armv7.upx": "55f3676a56e9785e6f24c6964991f54a9cc04218b1fc31f42a1c05445de0239b",
+    "valetudo-armv7-lowmem.upx": "54dca41dcebab931376c398d66796cdb5acaf8126748e650a473fa1357e4c424",
+    "valetudo-aarch64.upx": "647ab09ccc61609df32ff3efcdd9e94261bc64e74f425f6d87822daabbff7c08"
   },
-  "changelog": "## Valetudo nightly (2025-12-24T03:00:48.691Z)\n\n### Fixes\n\n- **vendor.dreame**: The latest L10spuh firmware uses the newer-style mop extension controls [`04bac60`](https://github.com/Hypfer/Valetudo/commit/04bac60fdc988db2074c3a13638379715591f6f6)\n"
+  "changelog": "## Valetudo nightly (2025-12-24T16:59:28.056Z)\n\n### Features\n\n- **webserver**: Add another 404 page [`3456363`](https://github.com/Hypfer/Valetudo/commit/345636319d8dde0d5ba15b30c0c464a6065ba846)\n- **vendor.dreame**: MapSegmentMaterialControlCapability [`5273df1`](https://github.com/Hypfer/Valetudo/commit/5273df12c6de7eca9d4e6f9f8d6065d8748f23f3)\n- **vendor.midea**: MapSegmentMaterialControlCapability [`93132c6`](https://github.com/Hypfer/Valetudo/commit/93132c66adca976050df6f262b5e567a6cae736f)\n- **ui**: MapSegmentMaterialControlCapability [`b13d796`](https://github.com/Hypfer/Valetudo/commit/b13d7964565f929e57fc43e97ad18b760f1f8f50)\n- **core**: MapSegmentMaterialControlCapability [`6a8dd6f`](https://github.com/Hypfer/Valetudo/commit/6a8dd6f5bb23f750532ea05570b9801650f974f0)\n\n### Fixes\n\n- **vendor.dreame**: The latest L10spuh firmware uses the newer-style mop extension controls [`04bac60`](https://github.com/Hypfer/Valetudo/commit/04bac60fdc988db2074c3a13638379715591f6f6)\n\n### Refactoring\n\n- **ui**: Clean up mapLayer color handling [`2146713`](https://github.com/Hypfer/Valetudo/commit/21467136e8756a2ec2419001ad115ef57c37e3a4)\n"
 }
