@@ -1,7 +1,8 @@
-## Valetudo nightly (2025-12-25T03:01:47.711Z)
+## Valetudo nightly (2025-12-26T03:01:27.173Z)
 
 ### Features
 
+- **vendor.midea**: More quirks [`8dfb08c`](https://github.com/Hypfer/Valetudo/commit/8dfb08cbfcea600ae405f2536911362f1d23cd56)
 - **vendor.dreame**: FloorMaterialDirectionAwareNavigationControlCapability [`2c4717f`](https://github.com/Hypfer/Valetudo/commit/2c4717fe6ba5432fa4c6cd98b7dae22550481d88)
 - **vendor.roborock**: FloorMaterialDirectionAwareNavigationControlCapability + MapSegmentMaterialControlCapability [`5c257a5`](https://github.com/Hypfer/Valetudo/commit/5c257a52c86db9a05a6c6210793e47fa8154ef58)
 - **ui**: FloorMaterialDirectionAwareNavigationControlCapability [`4005e0e`](https://github.com/Hypfer/Valetudo/commit/4005e0e65e418ab7ef3e233ab4f6a6095556555f)
