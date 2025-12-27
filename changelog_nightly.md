@@ -1,7 +1,9 @@
-## Valetudo nightly (2025-12-26T03:01:27.173Z)
+## Valetudo nightly (2025-12-27T03:00:12.254Z)
 
 ### Features
 
+- **ui**: General map polish including improvements to performance + UX + looks [`6d54afa`](https://github.com/Hypfer/Valetudo/commit/6d54afa02077aecaff958ad61b9a679c0d1144f5)
+- **ui**: Improve map icons [`05450c4`](https://github.com/Hypfer/Valetudo/commit/05450c4e5a6606ea97df8e6d6bdea8d7b57c6d98)
 - **vendor.midea**: More quirks [`8dfb08c`](https://github.com/Hypfer/Valetudo/commit/8dfb08cbfcea600ae405f2536911362f1d23cd56)
 - **vendor.dreame**: FloorMaterialDirectionAwareNavigationControlCapability [`2c4717f`](https://github.com/Hypfer/Valetudo/commit/2c4717fe6ba5432fa4c6cd98b7dae22550481d88)
 - **vendor.roborock**: FloorMaterialDirectionAwareNavigationControlCapability + MapSegmentMaterialControlCapability [`5c257a5`](https://github.com/Hypfer/Valetudo/commit/5c257a52c86db9a05a6c6210793e47fa8154ef58)
