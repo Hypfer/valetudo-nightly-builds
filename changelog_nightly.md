@@ -1,7 +1,8 @@
-## Valetudo nightly (2025-12-27T03:00:12.254Z)
+## Valetudo nightly (2025-12-28T03:04:47.251Z)
 
 ### Features
 
+- **ui**: Improve label rendering for map structures [`8fd17be`](https://github.com/Hypfer/Valetudo/commit/8fd17bede7c4ce72a2cfc8dc4a1d4356a5bda21b)
 - **ui**: General map polish including improvements to performance + UX + looks [`6d54afa`](https://github.com/Hypfer/Valetudo/commit/6d54afa02077aecaff958ad61b9a679c0d1144f5)
 - **ui**: Improve map icons [`05450c4`](https://github.com/Hypfer/Valetudo/commit/05450c4e5a6606ea97df8e6d6bdea8d7b57c6d98)
 - **vendor.midea**: More quirks [`8dfb08c`](https://github.com/Hypfer/Valetudo/commit/8dfb08cbfcea600ae405f2536911362f1d23cd56)
