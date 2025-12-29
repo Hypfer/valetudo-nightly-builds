@@ -1,7 +1,10 @@
-## Valetudo nightly (2025-12-28T03:04:47.251Z)
+## Valetudo nightly (2025-12-29T03:05:01.929Z)
 
 ### Features
 
+- **webserver**: Lawful compliance [`6638b23`](https://github.com/Hypfer/Valetudo/commit/6638b23883879bab99f6f34f36f460ccb765c5d2)
+- **ui**: Update robot icons to look less like a pokeball [`386dbd8`](https://github.com/Hypfer/Valetudo/commit/386dbd8eb382135bcbe12e77449833a80aff87d1)
+- **ui**: Switch font to IBM Plex Sans [`d0fa5a2`](https://github.com/Hypfer/Valetudo/commit/d0fa5a210821851672a8e3383ca09325cfceb0cd)
 - **ui**: Improve label rendering for map structures [`8fd17be`](https://github.com/Hypfer/Valetudo/commit/8fd17bede7c4ce72a2cfc8dc4a1d4356a5bda21b)
 - **ui**: General map polish including improvements to performance + UX + looks [`6d54afa`](https://github.com/Hypfer/Valetudo/commit/6d54afa02077aecaff958ad61b9a679c0d1144f5)
 - **ui**: Improve map icons [`05450c4`](https://github.com/Hypfer/Valetudo/commit/05450c4e5a6606ea97df8e6d6bdea8d7b57c6d98)
@@ -18,9 +21,14 @@
 
 ### Fixes
 
+- **ui**: Minor visual cleanup [`4cbc004`](https://github.com/Hypfer/Valetudo/commit/4cbc0041766002a4c3362eae3373ca0317df30c4)
 - **vendor.dreame**: The latest L10spuh firmware uses the newer-style mop extension controls [`04bac60`](https://github.com/Hypfer/Valetudo/commit/04bac60fdc988db2074c3a13638379715591f6f6)
 
 ### Refactoring
 
 - **vendor.roborock**: Wording [`714af6c`](https://github.com/Hypfer/Valetudo/commit/714af6c41b61cb2a280411b1144ccf2d4451c7a2)
 - **ui**: Clean up mapLayer color handling [`2146713`](https://github.com/Hypfer/Valetudo/commit/21467136e8756a2ec2419001ad115ef57c37e3a4)
+
+### Chores
+
+- Update eslint rules [`dde428f`](https://github.com/Hypfer/Valetudo/commit/dde428fe381d27b7f9187b86157c109e973e5f27)
