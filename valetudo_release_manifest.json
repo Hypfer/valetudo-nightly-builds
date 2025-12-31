@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-12-30T03:02:01.118Z",
-  "version": "30f7f12492f36a455d7bb461856f60e1df19adfc",
+  "timestamp": "2025-12-31T03:02:03.078Z",
+  "version": "99a91f68b0148bc888a93615c6a5b7e7cd95577b",
   "sha256sums": {
-    "valetudo-armv7": "5b668882687608717a9967c46cb2ab644fe8a2a21d6ebfca450209d105170057",
-    "valetudo-armv7-lowmem": "66828b7b565603f78d9c71eb344f8365eca39f2a424737f1becf77e663fcf098",
-    "valetudo-aarch64": "b184680a23a96883885cb95c4c5d8ef5eb081f1f90b70f3a4febf71040917a4b",
-    "valetudo-armv7.upx": "154ac94130dc20c5a1ea3d1b0ae5a17a69bff826549a19d201ac28d6265c84a2",
-    "valetudo-armv7-lowmem.upx": "b2b18750e1eb22e60b74310894fa632804ed71af5b9351ebf2edf89c03e8c642",
-    "valetudo-aarch64.upx": "23f32eb53913c00ee96a8d4a27702729750fb899f3aebfdf441ac8ae79666780"
+    "valetudo-armv7": "9f0bf8d4316b48e9fdd9fc6fa6b72ddf3b6de985ef92ecde37ec47ea08b7d224",
+    "valetudo-armv7-lowmem": "8ad77813805a22962bd7afb5c2156589f7e263e3c130bc78012f2ba86476ff28",
+    "valetudo-aarch64": "934df80d5c727f107875545d69a5fbaea44d3af8b5d121c84d5e8f52ab1777d1",
+    "valetudo-armv7.upx": "f84df632b16a11120f27e4445b5a720b333780869af5532770778a1cdddfad06",
+    "valetudo-armv7-lowmem.upx": "673abb702e2691b1616c8e586b8d6934ddcfedcdb66d1a2f1e70ba70975375e6",
+    "valetudo-aarch64.upx": "da44a8541cdce1cd30e646151085791cd903181055ed5e1edef2a5670d2f4c69"
   },
-  "changelog": "## Valetudo nightly (2025-12-30T03:02:00.921Z)\n\n### Chores\n\n- **ui**: Update hint [`30f7f12`](https://github.com/Hypfer/Valetudo/commit/30f7f12492f36a455d7bb461856f60e1df19adfc)\n"
+  "changelog": "## Valetudo nightly (2025-12-31T03:02:02.879Z)\n\n### Features\n\n- **vendor.dreame**: L10 Ultra also supports material [`99a91f6`](https://github.com/Hypfer/Valetudo/commit/99a91f68b0148bc888a93615c6a5b7e7cd95577b)\n\n### Chores\n\n- **ui**: Update hint [`30f7f12`](https://github.com/Hypfer/Valetudo/commit/30f7f12492f36a455d7bb461856f60e1df19adfc)\n"
 }
