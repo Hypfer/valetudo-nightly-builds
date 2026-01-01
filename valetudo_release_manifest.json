@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-12-31T03:02:03.078Z",
-  "version": "99a91f68b0148bc888a93615c6a5b7e7cd95577b",
+  "timestamp": "2026-01-01T03:05:04.785Z",
+  "version": "2a1fb8e8eda24291e3c1ec0df2853da7ba21f61f",
   "sha256sums": {
-    "valetudo-armv7": "9f0bf8d4316b48e9fdd9fc6fa6b72ddf3b6de985ef92ecde37ec47ea08b7d224",
-    "valetudo-armv7-lowmem": "8ad77813805a22962bd7afb5c2156589f7e263e3c130bc78012f2ba86476ff28",
-    "valetudo-aarch64": "934df80d5c727f107875545d69a5fbaea44d3af8b5d121c84d5e8f52ab1777d1",
-    "valetudo-armv7.upx": "f84df632b16a11120f27e4445b5a720b333780869af5532770778a1cdddfad06",
-    "valetudo-armv7-lowmem.upx": "673abb702e2691b1616c8e586b8d6934ddcfedcdb66d1a2f1e70ba70975375e6",
-    "valetudo-aarch64.upx": "da44a8541cdce1cd30e646151085791cd903181055ed5e1edef2a5670d2f4c69"
+    "valetudo-armv7": "fdaa4c2dfcbba1e2fec0d382eded4e5c778affc4c87e47132d9a169a0a727479",
+    "valetudo-armv7-lowmem": "2b2d033affedaecc3e44e93050d23168a99797dfe7fa1ea13db99a86ace0183c",
+    "valetudo-aarch64": "5fcbf8cbd7066d189577c53963dc7794a68fc350558206445f2d9435f3b09a0d",
+    "valetudo-armv7.upx": "70b8d637861057d9d0e9731045fdee54d1432c1c0bf59f65cc29cfb96bf5074c",
+    "valetudo-armv7-lowmem.upx": "50c75a24c305b9bb144a6512783ba4cba2c96d0a5c3a05c34d57a86f3a26e125",
+    "valetudo-aarch64.upx": "84311f4c80e74c605d592cabbd262fd99b7093f9496c80576cfedea38e8e6d01"
   },
-  "changelog": "## Valetudo nightly (2025-12-31T03:02:02.879Z)\n\n### Features\n\n- **vendor.dreame**: L10 Ultra also supports material [`99a91f6`](https://github.com/Hypfer/Valetudo/commit/99a91f68b0148bc888a93615c6a5b7e7cd95577b)\n\n### Chores\n\n- **ui**: Update hint [`30f7f12`](https://github.com/Hypfer/Valetudo/commit/30f7f12492f36a455d7bb461856f60e1df19adfc)\n"
+  "changelog": "## Valetudo nightly (2026-01-01T03:05:04.600Z)\n\n### Features\n\n- **vendor.dreame**: L10 Ultra also supports material [`99a91f6`](https://github.com/Hypfer/Valetudo/commit/99a91f68b0148bc888a93615c6a5b7e7cd95577b)\n\n### Fixes\n\n- **ui**: Fix goto marker scaling and draw order [`2a1fb8e`](https://github.com/Hypfer/Valetudo/commit/2a1fb8e8eda24291e3c1ec0df2853da7ba21f61f)\n\n### Chores\n\n- **ui**: Update hint [`30f7f12`](https://github.com/Hypfer/Valetudo/commit/30f7f12492f36a455d7bb461856f60e1df19adfc)\n"
 }
