@@ -7572,6 +7572,129 @@
         }
       }
     },
+    "/api/v2/robot/capabilities/CleanRouteControlCapability": {
+      "get": {
+        "tags": [
+          "CleanRouteControlCapability"
+        ],
+        "summary": "Get current clean route",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "interval": {
+                      "type": "string",
+                      "enum": [
+                        "normal",
+                        "quick",
+                        "intensive",
+                        "deep"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "CleanRouteControlCapability"
+        ],
+        "summary": "Set clean route",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "interval": {
+                    "type": "string",
+                    "enum": [
+                      "normal",
+                      "quick",
+                      "intensive",
+                      "deep"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad request"
+          }
+        }
+      }
+    },
+    "/api/v2/robot/capabilities/CleanRouteControlCapability/properties": {
+      "get": {
+        "tags": [
+          "CleanRouteControlCapability"
+        ],
+        "summary": "Get various capability-related properties",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "supportedRoutes": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "normal",
+                          "quick",
+                          "intensive",
+                          "deep"
+                        ]
+                      }
+                    },
+                    "mopOnly": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "normal",
+                          "quick",
+                          "intensive",
+                          "deep"
+                        ]
+                      }
+                    },
+                    "oneTime": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "enum": [
+                          "normal",
+                          "quick",
+                          "intensive",
+                          "deep"
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/v2/robot/capabilities/CombinedVirtualRestrictionsCapability": {
       "get": {
         "tags": [
@@ -11332,83 +11455,6 @@
       "get": {
         "tags": [
           "FloorMaterialDirectionAwareNavigationControlCapability"
-        ],
-        "summary": "Get various capability-related properties",
-        "responses": {
-          "200": {
-            "description": "Ok",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/api/v2/robot/capabilities/IntensiveMoppingPathControlCapability": {
-      "get": {
-        "tags": [
-          "IntensiveMoppingPathControlCapability"
-        ],
-        "summary": "Get intensive mopping path setting",
-        "responses": {
-          "200": {
-            "description": "Ok",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object",
-                  "properties": {
-                    "enabled": {
-                      "type": "boolean"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      "put": {
-        "tags": [
-          "IntensiveMoppingPathControlCapability"
-        ],
-        "summary": "Set intensive mopping path setting",
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "type": "object",
-                "properties": {
-                  "action": {
-                    "type": "string",
-                    "enum": [
-                      "enable",
-                      "disable"
-                    ]
-                  }
-                }
-              }
-            }
-          }
-        },
-        "responses": {
-          "200": {
-            "description": "Ok"
-          },
-          "400": {
-            "description": "Bad request"
-          }
-        }
-      }
-    },
-    "/api/v2/robot/capabilities/IntensiveMoppingPathControlCapability/properties": {
-      "get": {
-        "tags": [
-          "IntensiveMoppingPathControlCapability"
         ],
         "summary": "Get various capability-related properties",
         "responses": {

@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-01-03T02:59:27.601Z)
+## Valetudo nightly (2026-01-04T03:05:53.117Z)
 
 ### Features
 
+- Replace IntensiveMoppingPathControlCapability with more generic CleanRouteControlCapability [`b08a3d2`](https://github.com/Hypfer/Valetudo/commit/b08a3d2d23210625b6452b863591ab7889bf1106)
 - **ui**: Increase segment label name font size [`eb3bde0`](https://github.com/Hypfer/Valetudo/commit/eb3bde07fa9e04fecbe6ea6276ae52826f565483)
 - **vendor.viomi**: IntensiveMoppingPathControlCapability [`6a8c5ef`](https://github.com/Hypfer/Valetudo/commit/6a8c5eff5b27fad9fde29f0f907c0d07ab7ea49d)
 - **vendor.dreame**: IntensiveMoppingPathControlCapability [`63a761e`](https://github.com/Hypfer/Valetudo/commit/63a761e8fab6b3d8e837f95498e5df4a41dacde1)
