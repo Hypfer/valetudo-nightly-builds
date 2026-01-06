@@ -1,7 +1,17 @@
-## Valetudo nightly (2026-01-05T03:07:16.086Z)
+## Valetudo nightly (2026-01-06T03:02:21.695Z)
 
 ### Features
 
+- **vendor.dreame**: L20 Ultra (MR813) [`12abbd3`](https://github.com/Hypfer/Valetudo/commit/12abbd3b7108b26d0742b1a0d464c716869d3751)
+- **vendor.midea**: AutoEmptyDockAutoEmptyDurationControlCapability [`bc2445d`](https://github.com/Hypfer/Valetudo/commit/bc2445d79e3a08fd19aa96d295c8bf210381e4ed)
+- **vendor.roborock**: AutoEmptyDockAutoEmptyDurationControlCapability [`4da60ae`](https://github.com/Hypfer/Valetudo/commit/4da60ae2af7c8326dacaa7466a74dbf041bbf8a9)
+- **ui**: AutoEmptyDockAutoEmptyDurationControlCapability [`597bf57`](https://github.com/Hypfer/Valetudo/commit/597bf573af1ab0123f27363a8dff769511a1f074)
+- **core**: AutoEmptyDockAutoEmptyDurationControlCapability [`448e3ad`](https://github.com/Hypfer/Valetudo/commit/448e3adb18484097f4040de2f0b892f7164a1388)
+- **vendor.midea**: MopDockMopDryingTimeControlCapability [`1366c97`](https://github.com/Hypfer/Valetudo/commit/1366c974681aa10412dedb84d85ac436c525da13)
+- **vendor.roborock**: MopDockMopDryingTimeControlCapability [`0344ba4`](https://github.com/Hypfer/Valetudo/commit/0344ba433cae050eff2eecef2f9af596c97b9aca)
+- **vendor.dreame**: MopDockMopDryingTimeControlCapability [`b3e1527`](https://github.com/Hypfer/Valetudo/commit/b3e15276b10b07c802fea28f2d5f47830f240536)
+- **ui**: MopDockMopDryingTimeControlCapability [`e550f9e`](https://github.com/Hypfer/Valetudo/commit/e550f9e82aad79cb4505d9c4f2053cb0a72b1add)
+- **core**: MopDockMopDryingTimeControlCapability [`fe4e164`](https://github.com/Hypfer/Valetudo/commit/fe4e1640e1bbc5dd1ad0b3826d1909fafc5a2e32)
 - Replace IntensiveMoppingPathControlCapability with more generic CleanRouteControlCapability [`b08a3d2`](https://github.com/Hypfer/Valetudo/commit/b08a3d2d23210625b6452b863591ab7889bf1106)
 - **ui**: Increase segment label name font size [`eb3bde0`](https://github.com/Hypfer/Valetudo/commit/eb3bde07fa9e04fecbe6ea6276ae52826f565483)
 - **vendor.viomi**: IntensiveMoppingPathControlCapability [`6a8c5ef`](https://github.com/Hypfer/Valetudo/commit/6a8c5eff5b27fad9fde29f0f907c0d07ab7ea49d)
