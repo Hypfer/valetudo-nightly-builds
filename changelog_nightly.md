@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-01-08T03:02:21.461Z)
+## Valetudo nightly (2026-01-09T03:02:48.160Z)
 
 ### Features
 
+- **vendor.midea**: MapSegmentRenameCapability [`e2045ba`](https://github.com/Hypfer/Valetudo/commit/e2045ba09ff28c730e74ef833833209f11a882d9)
 - **vendor.dreame**: L20 Ultra (MR813) [`12abbd3`](https://github.com/Hypfer/Valetudo/commit/12abbd3b7108b26d0742b1a0d464c716869d3751)
 - **vendor.midea**: AutoEmptyDockAutoEmptyDurationControlCapability [`bc2445d`](https://github.com/Hypfer/Valetudo/commit/bc2445d79e3a08fd19aa96d295c8bf210381e4ed)
 - **vendor.roborock**: AutoEmptyDockAutoEmptyDurationControlCapability [`4da60ae`](https://github.com/Hypfer/Valetudo/commit/4da60ae2af7c8326dacaa7466a74dbf041bbf8a9)
