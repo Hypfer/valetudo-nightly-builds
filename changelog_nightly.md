@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-01-09T03:02:48.160Z)
+## Valetudo nightly (2026-01-10T03:00:40.930Z)
 
 ### Features
 
@@ -33,4 +33,5 @@
 
 ### Chores
 
+- Update PR template [`61472d3`](https://github.com/Hypfer/Valetudo/commit/61472d3462714819d1ae621cf6defe6bf55f9d29)
 - **ui**: Update hint [`30f7f12`](https://github.com/Hypfer/Valetudo/commit/30f7f12492f36a455d7bb461856f60e1df19adfc)
