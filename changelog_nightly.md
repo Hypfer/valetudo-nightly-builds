@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-01-11T03:05:25.878Z)
+## Valetudo nightly (2026-01-12T03:04:55.360Z)
 
 ### Features
 
@@ -28,10 +28,12 @@
 
 ### Fixes
 
+- **vendor.dreame**: L10spuh FW 1633 does not have a mop consumable anymore [`4280e9a`](https://github.com/Hypfer/Valetudo/commit/4280e9a0221b8281d2609b14d5f27cb4bb9108aa)
 - **vendor.viomi**: Wait even longer for the firmware to think [`fd9ec50`](https://github.com/Hypfer/Valetudo/commit/fd9ec50769132e3cc5102d7368a9f275a873f7db)
 - **ui**: Fix goto marker scaling and draw order [`2a1fb8e`](https://github.com/Hypfer/Valetudo/commit/2a1fb8e8eda24291e3c1ec0df2853da7ba21f61f)
 
 ### Chores
 
+- Bump some dependencies [`6e9293e`](https://github.com/Hypfer/Valetudo/commit/6e9293e460796904bfeec093707fda7286644ece)
 - Update PR template [`61472d3`](https://github.com/Hypfer/Valetudo/commit/61472d3462714819d1ae621cf6defe6bf55f9d29)
 - **ui**: Update hint [`30f7f12`](https://github.com/Hypfer/Valetudo/commit/30f7f12492f36a455d7bb461856f60e1df19adfc)
