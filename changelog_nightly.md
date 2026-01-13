@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-01-12T03:04:55.360Z)
+## Valetudo nightly (2026-01-13T03:01:59.739Z)
 
 ### Features
 
+- **ui**: Peent [`4798616`](https://github.com/Hypfer/Valetudo/commit/4798616b890ae72efa4972d4a609db04f8c0561f)
 - **vendor.midea**: MapSegmentRenameCapability [`e2045ba`](https://github.com/Hypfer/Valetudo/commit/e2045ba09ff28c730e74ef833833209f11a882d9)
 - **vendor.dreame**: L20 Ultra (MR813) [`12abbd3`](https://github.com/Hypfer/Valetudo/commit/12abbd3b7108b26d0742b1a0d464c716869d3751)
 - **vendor.midea**: AutoEmptyDockAutoEmptyDurationControlCapability [`bc2445d`](https://github.com/Hypfer/Valetudo/commit/bc2445d79e3a08fd19aa96d295c8bf210381e4ed)
