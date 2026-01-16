@@ -3064,6 +3064,144 @@
           }
         ]
       },
+      "DockComponentStateAttribute": {
+        "allOf": [
+          {
+            "allOf": [
+              {
+                "allOf": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "__class": {
+                        "type": "string"
+                      },
+                      "metaData": {
+                        "type": "object"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string"
+                      },
+                      "subType": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "water_tank_clean",
+                  "water_tank_dirty",
+                  "dustbag",
+                  "detergent"
+                ]
+              },
+              "value": {
+                "type": "string",
+                "enum": [
+                  "ok",
+                  "missing",
+                  "empty",
+                  "full",
+                  "unknown"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "DockComponentStateAttributeType": {
+        "type": "string",
+        "enum": [
+          "water_tank_clean",
+          "water_tank_dirty",
+          "dustbag",
+          "detergent"
+        ]
+      },
+      "DockComponentStateAttributeValue": {
+        "type": "string",
+        "enum": [
+          "ok",
+          "missing",
+          "empty",
+          "full",
+          "unknown"
+        ]
+      },
+      "DockStatusStateAttribute": {
+        "allOf": [
+          {
+            "allOf": [
+              {
+                "allOf": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "__class": {
+                        "type": "string"
+                      },
+                      "metaData": {
+                        "type": "object"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string"
+                      },
+                      "subType": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "value": {
+                "type": "string",
+                "enum": [
+                  "error",
+                  "idle",
+                  "pause",
+                  "emptying",
+                  "cleaning",
+                  "drying"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "DockStatusStateAttributeValue": {
+        "type": "string",
+        "enum": [
+          "error",
+          "idle",
+          "pause",
+          "emptying",
+          "cleaning",
+          "drying"
+        ]
+      },
       "PresetSelectionStateAttribute": {
         "allOf": [
           {
@@ -3159,6 +3297,99 @@
               }
             ]
           }
+        ]
+      },
+      "StatusStateAttribute": {
+        "allOf": [
+          {
+            "allOf": [
+              {
+                "allOf": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "__class": {
+                        "type": "string"
+                      },
+                      "metaData": {
+                        "type": "object"
+                      }
+                    }
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "type": {
+                        "type": "string"
+                      },
+                      "subType": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "object",
+            "properties": {
+              "value": {
+                "type": "string",
+                "enum": [
+                  "error",
+                  "docked",
+                  "idle",
+                  "returning",
+                  "cleaning",
+                  "paused",
+                  "manual_control",
+                  "moving"
+                ]
+              },
+              "flag": {
+                "type": "string",
+                "enum": [
+                  "none",
+                  "zone",
+                  "segment",
+                  "spot",
+                  "target",
+                  "resumable",
+                  "mapping"
+                ]
+              },
+              "error": {
+                "description": "Only present if the value is 'error'.",
+                "type": "object"
+              }
+            }
+          }
+        ]
+      },
+      "StatusStateAttributeValue": {
+        "type": "string",
+        "enum": [
+          "error",
+          "docked",
+          "idle",
+          "returning",
+          "cleaning",
+          "paused",
+          "manual_control",
+          "moving"
+        ]
+      },
+      "StatusStateAttributeFlag": {
+        "type": "string",
+        "enum": [
+          "none",
+          "zone",
+          "segment",
+          "spot",
+          "target",
+          "resumable",
+          "mapping"
         ]
       },
       "ValetudoManualControlMovementCommandType": {
@@ -3744,6 +3975,19 @@
                               "mop"
                             ]
                           }
+                        },
+                        "supportedDockComponents": {
+                          "type": "array",
+                          "description": "Dock components that are detected and reported by the robot",
+                          "items": {
+                            "type": "string",
+                            "enum": [
+                              "water_tank_clean",
+                              "water_tank_dirty",
+                              "dustbag",
+                              "detergent"
+                            ]
+                          }
                         }
                       }
                     },
@@ -3937,6 +4181,114 @@
                                   "type": {
                                     "type": "string",
                                     "enum": [
+                                      "water_tank_clean",
+                                      "water_tank_dirty",
+                                      "dustbag",
+                                      "detergent"
+                                    ]
+                                  },
+                                  "value": {
+                                    "type": "string",
+                                    "enum": [
+                                      "ok",
+                                      "missing",
+                                      "empty",
+                                      "full",
+                                      "unknown"
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "allOf": [
+                              {
+                                "allOf": [
+                                  {
+                                    "allOf": [
+                                      {
+                                        "type": "object",
+                                        "properties": {
+                                          "__class": {
+                                            "type": "string"
+                                          },
+                                          "metaData": {
+                                            "type": "object"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "type": "object",
+                                        "properties": {
+                                          "type": {
+                                            "type": "string"
+                                          },
+                                          "subType": {
+                                            "type": "string"
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "object",
+                                "properties": {
+                                  "value": {
+                                    "type": "string",
+                                    "enum": [
+                                      "error",
+                                      "idle",
+                                      "pause",
+                                      "emptying",
+                                      "cleaning",
+                                      "drying"
+                                    ]
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "allOf": [
+                              {
+                                "allOf": [
+                                  {
+                                    "allOf": [
+                                      {
+                                        "type": "object",
+                                        "properties": {
+                                          "__class": {
+                                            "type": "string"
+                                          },
+                                          "metaData": {
+                                            "type": "object"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "type": "object",
+                                        "properties": {
+                                          "type": {
+                                            "type": "string"
+                                          },
+                                          "subType": {
+                                            "type": "string"
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "object",
+                                "properties": {
+                                  "type": {
+                                    "type": "string",
+                                    "enum": [
                                       "fan_speed",
                                       "water_grade",
                                       "operation_mode"
@@ -3961,6 +4313,74 @@
                                   },
                                   "customValue": {
                                     "type": "number"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "allOf": [
+                              {
+                                "allOf": [
+                                  {
+                                    "allOf": [
+                                      {
+                                        "type": "object",
+                                        "properties": {
+                                          "__class": {
+                                            "type": "string"
+                                          },
+                                          "metaData": {
+                                            "type": "object"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "type": "object",
+                                        "properties": {
+                                          "type": {
+                                            "type": "string"
+                                          },
+                                          "subType": {
+                                            "type": "string"
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "object",
+                                "properties": {
+                                  "value": {
+                                    "type": "string",
+                                    "enum": [
+                                      "error",
+                                      "docked",
+                                      "idle",
+                                      "returning",
+                                      "cleaning",
+                                      "paused",
+                                      "manual_control",
+                                      "moving"
+                                    ]
+                                  },
+                                  "flag": {
+                                    "type": "string",
+                                    "enum": [
+                                      "none",
+                                      "zone",
+                                      "segment",
+                                      "spot",
+                                      "target",
+                                      "resumable",
+                                      "mapping"
+                                    ]
+                                  },
+                                  "error": {
+                                    "description": "Only present if the value is 'error'.",
+                                    "type": "object"
                                   }
                                 }
                               }
@@ -4430,6 +4850,114 @@
                               "type": {
                                 "type": "string",
                                 "enum": [
+                                  "water_tank_clean",
+                                  "water_tank_dirty",
+                                  "dustbag",
+                                  "detergent"
+                                ]
+                              },
+                              "value": {
+                                "type": "string",
+                                "enum": [
+                                  "ok",
+                                  "missing",
+                                  "empty",
+                                  "full",
+                                  "unknown"
+                                ]
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "allOf": [
+                          {
+                            "allOf": [
+                              {
+                                "allOf": [
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "__class": {
+                                        "type": "string"
+                                      },
+                                      "metaData": {
+                                        "type": "object"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "type": {
+                                        "type": "string"
+                                      },
+                                      "subType": {
+                                        "type": "string"
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "value": {
+                                "type": "string",
+                                "enum": [
+                                  "error",
+                                  "idle",
+                                  "pause",
+                                  "emptying",
+                                  "cleaning",
+                                  "drying"
+                                ]
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "allOf": [
+                          {
+                            "allOf": [
+                              {
+                                "allOf": [
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "__class": {
+                                        "type": "string"
+                                      },
+                                      "metaData": {
+                                        "type": "object"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "type": {
+                                        "type": "string"
+                                      },
+                                      "subType": {
+                                        "type": "string"
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "type": {
+                                "type": "string",
+                                "enum": [
                                   "fan_speed",
                                   "water_grade",
                                   "operation_mode"
@@ -4454,6 +4982,74 @@
                               },
                               "customValue": {
                                 "type": "number"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "allOf": [
+                          {
+                            "allOf": [
+                              {
+                                "allOf": [
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "__class": {
+                                        "type": "string"
+                                      },
+                                      "metaData": {
+                                        "type": "object"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "type": "object",
+                                    "properties": {
+                                      "type": {
+                                        "type": "string"
+                                      },
+                                      "subType": {
+                                        "type": "string"
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "value": {
+                                "type": "string",
+                                "enum": [
+                                  "error",
+                                  "docked",
+                                  "idle",
+                                  "returning",
+                                  "cleaning",
+                                  "paused",
+                                  "manual_control",
+                                  "moving"
+                                ]
+                              },
+                              "flag": {
+                                "type": "string",
+                                "enum": [
+                                  "none",
+                                  "zone",
+                                  "segment",
+                                  "spot",
+                                  "target",
+                                  "resumable",
+                                  "mapping"
+                                ]
+                              },
+                              "error": {
+                                "description": "Only present if the value is 'error'.",
+                                "type": "object"
                               }
                             }
                           }

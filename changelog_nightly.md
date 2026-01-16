@@ -1,7 +1,11 @@
-## Valetudo nightly (2026-01-15T03:02:34.674Z)
+## Valetudo nightly (2026-01-16T03:02:54.577Z)
 
 ### Features
 
+- **vendor.midea**: DockComponentStateAttribute [`8d483b7`](https://github.com/Hypfer/Valetudo/commit/8d483b7f92a782878bdc8de1783929e978c4b04b)
+- **vendor.dreame**: DockComponentStateAttribute [`d771b4c`](https://github.com/Hypfer/Valetudo/commit/d771b4c2e1f5eb1eaede1d9826f99704eb322098)
+- **ui**: DockComponentStateAttribute [`cc3c6a2`](https://github.com/Hypfer/Valetudo/commit/cc3c6a20810343a2620a6ca82d72db30fe99f2cc)
+- **core**: DockComponentStateAttribute [`eaaa1bd`](https://github.com/Hypfer/Valetudo/commit/eaaa1bd41761b63d2496d19e46935c6e51bc015d)
 - **ui**: Peent [`4798616`](https://github.com/Hypfer/Valetudo/commit/4798616b890ae72efa4972d4a609db04f8c0561f)
 - **vendor.midea**: MapSegmentRenameCapability [`e2045ba`](https://github.com/Hypfer/Valetudo/commit/e2045ba09ff28c730e74ef833833209f11a882d9)
 - **vendor.dreame**: L20 Ultra (MR813) [`12abbd3`](https://github.com/Hypfer/Valetudo/commit/12abbd3b7108b26d0742b1a0d464c716869d3751)
@@ -32,6 +36,11 @@
 - **vendor.dreame**: L10spuh FW 1633 does not have a mop consumable anymore [`4280e9a`](https://github.com/Hypfer/Valetudo/commit/4280e9a0221b8281d2609b14d5f27cb4bb9108aa)
 - **vendor.viomi**: Wait even longer for the firmware to think [`fd9ec50`](https://github.com/Hypfer/Valetudo/commit/fd9ec50769132e3cc5102d7368a9f275a873f7db)
 - **ui**: Fix goto marker scaling and draw order [`2a1fb8e`](https://github.com/Hypfer/Valetudo/commit/2a1fb8e8eda24291e3c1ec0df2853da7ba21f61f)
+
+### Refactoring
+
+- Pull initialization of supportedAttachments into ValetudoRobot base class [`3a8cb21`](https://github.com/Hypfer/Valetudo/commit/3a8cb217fc4cffa1d49daed1fe32f430c3a93631)
+- **ui**: Pull valetudo colors to a central location [`2035cbd`](https://github.com/Hypfer/Valetudo/commit/2035cbde6906cf9668d82df86585bcdc0d1249df)
 
 ### Chores
 
