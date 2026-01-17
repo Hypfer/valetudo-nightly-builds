@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-01-17T03:00:08.908Z)
+## Valetudo nightly (2026-01-17T11:20:03.803Z)
 
 ### Features
 
@@ -35,6 +35,7 @@
 
 ### Fixes
 
+- **webserver**: Use correct new expressjs 5 syntax for optional path parameters [`5ec1f5a`](https://github.com/Hypfer/Valetudo/commit/5ec1f5abaefd73c6eb09c56fe101143331b2753d)
 - **ui**: Don't break the layout [`76650d9`](https://github.com/Hypfer/Valetudo/commit/76650d9e11869a3f51755e4cd16013e3a1bec601)
 - **vendor.dreame**: L10spuh FW 1633 does not have a mop consumable anymore [`4280e9a`](https://github.com/Hypfer/Valetudo/commit/4280e9a0221b8281d2609b14d5f27cb4bb9108aa)
 - **vendor.viomi**: Wait even longer for the firmware to think [`fd9ec50`](https://github.com/Hypfer/Valetudo/commit/fd9ec50769132e3cc5102d7368a9f275a873f7db)
