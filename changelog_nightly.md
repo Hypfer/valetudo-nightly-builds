@@ -1,7 +1,9 @@
-## Valetudo nightly (2026-01-16T03:02:54.577Z)
+## Valetudo nightly (2026-01-17T03:00:08.908Z)
 
 ### Features
 
+- **vendor.midea**: Dustbag dock component [`8e020ef`](https://github.com/Hypfer/Valetudo/commit/8e020ef4b6339470d99460b210033619a024821f)
+- **vendor.dreame**: Add missing metadata [`8c2fefe`](https://github.com/Hypfer/Valetudo/commit/8c2fefe01e400091e39dcdb6279be36c493b2071)
 - **vendor.midea**: DockComponentStateAttribute [`8d483b7`](https://github.com/Hypfer/Valetudo/commit/8d483b7f92a782878bdc8de1783929e978c4b04b)
 - **vendor.dreame**: DockComponentStateAttribute [`d771b4c`](https://github.com/Hypfer/Valetudo/commit/d771b4c2e1f5eb1eaede1d9826f99704eb322098)
 - **ui**: DockComponentStateAttribute [`cc3c6a2`](https://github.com/Hypfer/Valetudo/commit/cc3c6a20810343a2620a6ca82d72db30fe99f2cc)
@@ -33,17 +35,22 @@
 
 ### Fixes
 
+- **ui**: Don't break the layout [`76650d9`](https://github.com/Hypfer/Valetudo/commit/76650d9e11869a3f51755e4cd16013e3a1bec601)
 - **vendor.dreame**: L10spuh FW 1633 does not have a mop consumable anymore [`4280e9a`](https://github.com/Hypfer/Valetudo/commit/4280e9a0221b8281d2609b14d5f27cb4bb9108aa)
 - **vendor.viomi**: Wait even longer for the firmware to think [`fd9ec50`](https://github.com/Hypfer/Valetudo/commit/fd9ec50769132e3cc5102d7368a9f275a873f7db)
 - **ui**: Fix goto marker scaling and draw order [`2a1fb8e`](https://github.com/Hypfer/Valetudo/commit/2a1fb8e8eda24291e3c1ec0df2853da7ba21f61f)
 
 ### Refactoring
 
+- **ui**: Inline useless env.js file [`9c0d22a`](https://github.com/Hypfer/Valetudo/commit/9c0d22abbe1e815d0016503dd822a3683e259729)
+- **ui**: Eject from now-dead CRA [`4713182`](https://github.com/Hypfer/Valetudo/commit/4713182024c722b88e710b68d476d2f25db95e3c)
+- **ui**: Get rid of heavy libs that were basically unused [`4558f04`](https://github.com/Hypfer/Valetudo/commit/4558f044947c4eb0302189f4a125acee1966f63a)
 - Pull initialization of supportedAttachments into ValetudoRobot base class [`3a8cb21`](https://github.com/Hypfer/Valetudo/commit/3a8cb217fc4cffa1d49daed1fe32f430c3a93631)
 - **ui**: Pull valetudo colors to a central location [`2035cbd`](https://github.com/Hypfer/Valetudo/commit/2035cbde6906cf9668d82df86585bcdc0d1249df)
 
 ### Chores
 
+- Bump some dependencies [`b6b3417`](https://github.com/Hypfer/Valetudo/commit/b6b3417626d11e71b5e62c4b1a2967b0cd04270f)
 - Bump some dependencies [`6e9293e`](https://github.com/Hypfer/Valetudo/commit/6e9293e460796904bfeec093707fda7286644ece)
 - Update PR template [`61472d3`](https://github.com/Hypfer/Valetudo/commit/61472d3462714819d1ae621cf6defe6bf55f9d29)
 - **ui**: Update hint [`30f7f12`](https://github.com/Hypfer/Valetudo/commit/30f7f12492f36a455d7bb461856f60e1df19adfc)
