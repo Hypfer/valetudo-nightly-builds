@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-01-18T03:05:00.952Z)
+## Valetudo nightly (2026-01-19T03:04:57.132Z)
 
 ### Features
 
@@ -35,6 +35,8 @@
 
 ### Fixes
 
+- **vendor.roborock**: Fix initialization of supportedAttachments after refactor [`92dd06d`](https://github.com/Hypfer/Valetudo/commit/92dd06d9c573388c402b67482f4e3933923af8e4)
+- **ui**: Prod build [`414d959`](https://github.com/Hypfer/Valetudo/commit/414d959f460763ebed366dd3b7bb4d1a7d1c8660)
 - **webserver**: Use correct new expressjs 5 syntax for optional path parameters [`5ec1f5a`](https://github.com/Hypfer/Valetudo/commit/5ec1f5abaefd73c6eb09c56fe101143331b2753d)
 - **ui**: Don't break the layout [`76650d9`](https://github.com/Hypfer/Valetudo/commit/76650d9e11869a3f51755e4cd16013e3a1bec601)
 - **vendor.dreame**: L10spuh FW 1633 does not have a mop consumable anymore [`4280e9a`](https://github.com/Hypfer/Valetudo/commit/4280e9a0221b8281d2609b14d5f27cb4bb9108aa)
@@ -51,6 +53,8 @@
 
 ### Chores
 
+- Downgrade uuid once more, as it still leads to a broken build [`0f589c1`](https://github.com/Hypfer/Valetudo/commit/0f589c110efa8f9bb2af86db0417cd0a566f171c)
+- Bump and reduce dependencies [`faf4813`](https://github.com/Hypfer/Valetudo/commit/faf48139e83a58d17d2838f394b8f4c0e3a913b9)
 - Bump some dependencies [`b6b3417`](https://github.com/Hypfer/Valetudo/commit/b6b3417626d11e71b5e62c4b1a2967b0cd04270f)
 - Bump some dependencies [`6e9293e`](https://github.com/Hypfer/Valetudo/commit/6e9293e460796904bfeec093707fda7286644ece)
 - Update PR template [`61472d3`](https://github.com/Hypfer/Valetudo/commit/61472d3462714819d1ae621cf6defe6bf55f9d29)
