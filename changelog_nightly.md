@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-01-23T03:03:06.263Z)
+## Valetudo nightly (2026-01-24T03:01:45.269Z)
 
 ### Features
 
+- **ui**: Add support for xm files [`8363770`](https://github.com/Hypfer/Valetudo/commit/8363770e8bc4b785369193e0ce987951b6770cca)
 - **vendor.midea**: Dustbag dock component [`8e020ef`](https://github.com/Hypfer/Valetudo/commit/8e020ef4b6339470d99460b210033619a024821f)
 - **vendor.dreame**: Add missing metadata [`8c2fefe`](https://github.com/Hypfer/Valetudo/commit/8c2fefe01e400091e39dcdb6279be36c493b2071)
 - **vendor.midea**: DockComponentStateAttribute [`8d483b7`](https://github.com/Hypfer/Valetudo/commit/8d483b7f92a782878bdc8de1783929e978c4b04b)
@@ -53,6 +54,7 @@
 
 ### Chores
 
+- **ui**: Formatting [`1881c4d`](https://github.com/Hypfer/Valetudo/commit/1881c4d5930f3bed5a1eabebe9aae95c3a794aaa)
 - Downgrade uuid once more, as it still leads to a broken build [`0f589c1`](https://github.com/Hypfer/Valetudo/commit/0f589c110efa8f9bb2af86db0417cd0a566f171c)
 - Bump and reduce dependencies [`faf4813`](https://github.com/Hypfer/Valetudo/commit/faf48139e83a58d17d2838f394b8f4c0e3a913b9)
 - Bump some dependencies [`b6b3417`](https://github.com/Hypfer/Valetudo/commit/b6b3417626d11e71b5e62c4b1a2967b0cd04270f)
