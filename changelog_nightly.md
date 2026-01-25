@@ -1,7 +1,9 @@
-## Valetudo nightly (2026-01-24T03:01:45.269Z)
+## Valetudo nightly (2026-01-25T03:08:02.937Z)
 
 ### Features
 
+- **vendor.dreame**: Carpet First quirk [`4589bbc`](https://github.com/Hypfer/Valetudo/commit/4589bbc6f9c6f9354ea2a1962bb432fd7eed38d7)
+- **vendor.dreame**: Map additional error codes [`158c678`](https://github.com/Hypfer/Valetudo/commit/158c6784e1daa40cd74115b5a6b93b99a700137b)
 - **ui**: Add support for xm files [`8363770`](https://github.com/Hypfer/Valetudo/commit/8363770e8bc4b785369193e0ce987951b6770cca)
 - **vendor.midea**: Dustbag dock component [`8e020ef`](https://github.com/Hypfer/Valetudo/commit/8e020ef4b6339470d99460b210033619a024821f)
 - **vendor.dreame**: Add missing metadata [`8c2fefe`](https://github.com/Hypfer/Valetudo/commit/8c2fefe01e400091e39dcdb6279be36c493b2071)
@@ -36,6 +38,7 @@
 
 ### Fixes
 
+- **ui**: UX cleanup of sidebar nav [`0c82159`](https://github.com/Hypfer/Valetudo/commit/0c8215980ec935efb98de5522d2b34e6a1272497)
 - **vendor.roborock**: Fix initialization of supportedAttachments after refactor [`92dd06d`](https://github.com/Hypfer/Valetudo/commit/92dd06d9c573388c402b67482f4e3933923af8e4)
 - **ui**: Prod build [`414d959`](https://github.com/Hypfer/Valetudo/commit/414d959f460763ebed366dd3b7bb4d1a7d1c8660)
 - **webserver**: Use correct new expressjs 5 syntax for optional path parameters [`5ec1f5a`](https://github.com/Hypfer/Valetudo/commit/5ec1f5abaefd73c6eb09c56fe101143331b2753d)
@@ -54,6 +57,7 @@
 
 ### Chores
 
+- Bump transient dependencies [`c41ee88`](https://github.com/Hypfer/Valetudo/commit/c41ee88f91f0aed42df15fd5727bb759f0411005)
 - **ui**: Formatting [`1881c4d`](https://github.com/Hypfer/Valetudo/commit/1881c4d5930f3bed5a1eabebe9aae95c3a794aaa)
 - Downgrade uuid once more, as it still leads to a broken build [`0f589c1`](https://github.com/Hypfer/Valetudo/commit/0f589c110efa8f9bb2af86db0417cd0a566f171c)
 - Bump and reduce dependencies [`faf4813`](https://github.com/Hypfer/Valetudo/commit/faf48139e83a58d17d2838f394b8f4c0e3a913b9)
