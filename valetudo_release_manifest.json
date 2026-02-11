@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-02-10T03:29:13.540Z",
-  "version": "9307dd3870b28ab7dd2cb4dc7f119286b5046d25",
+  "timestamp": "2026-02-11T03:27:47.459Z",
+  "version": "5940f5d993dc3ebe72e984b55f29c578a9b96bde",
   "sha256sums": {
-    "valetudo-armv7": "8aef5bc5cade0f4e4455bbc42273527fea7a06da28593bd856ebc523aa53f325",
-    "valetudo-armv7-lowmem": "48e3e51073d1ba388ae0aaa339fe5a66ebe853465983a418504015a6c9ed23af",
-    "valetudo-aarch64": "8eddd6a78bab8ed51641bf37374395b08e449f57442203a82ddb4bde146a6955",
-    "valetudo-armv7.upx": "b578df04a4a0a0ed85d04a185c5e5ed0723b296fd3ee489539641fee1f1ba4b6",
-    "valetudo-armv7-lowmem.upx": "e6a842a811cacf10083e981972129cec6f4b6951e21a388550e18a3bc5580e7b",
-    "valetudo-aarch64.upx": "120fe7b3cc91710dbcf672608410847a1a0b751dfd33c3c84f1694dce2065ed3"
+    "valetudo-armv7": "dd87acd6e635d2adeacdd4982f1e7877387cc4c3f40173fd922e9f89eee1a49c",
+    "valetudo-armv7-lowmem": "6f37af3fe6d739a10978bc0e06082071ec848890e91596b01b2548ff3081976b",
+    "valetudo-aarch64": "acafb11ab95fe4c6729bd7ac126467278b657cca0221dbef76d18d5f19227b84",
+    "valetudo-armv7.upx": "216ea20b07ca4e0c30a42ceb9d2d485046b9bfafb580025845886fe319e224ef",
+    "valetudo-armv7-lowmem.upx": "f84202326a6eb6a1bc82de3af991b8a23300969d791f38add6dd3b8dbde93575",
+    "valetudo-aarch64.upx": "ae18ef8ce162a329773610e8232a6e7fb7d9c9b03dda16a80bd1077a81cab14e"
   },
-  "changelog": "## Valetudo nightly (2026-02-10T03:29:13.347Z)\n"
+  "changelog": "## Valetudo nightly (2026-02-11T03:27:47.275Z)\n\n### Fixes\n\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n"
 }
