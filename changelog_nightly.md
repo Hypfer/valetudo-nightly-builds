@@ -1,4 +1,8 @@
-## Valetudo nightly (2026-02-11T03:27:47.275Z)
+## Valetudo nightly (2026-02-12T03:25:57.549Z)
+
+### Features
+
+- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)
 
 ### Fixes
 
