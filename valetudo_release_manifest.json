@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-05T03:18:06.168Z",
+  "timestamp": "2026-03-06T03:17:23.555Z",
   "version": "20d0ead0c6961472e9dcc7c6d4108f86d82303d9",
   "sha256sums": {
-    "valetudo-armv7": "b7fd4044a1f35c0bec7c949ed8d46ed5b37b7d76bbe306046caac91a554c5bb1",
-    "valetudo-armv7-lowmem": "7edc8e25deb2e24d01c07b68b412985a28afa26887e3f1cc368d267879c9f786",
-    "valetudo-aarch64": "56a0d4cb9813b885f84575988692e2914fc31c011698397d01dce05c1fac3e08",
-    "valetudo-armv7.upx": "b6728f4fdea541d558e3b635652c1558ed23c99d02e0690bb92c3c4e7f6fe33b",
-    "valetudo-armv7-lowmem.upx": "d00077ed633c80a56c387c8d7c77bb3a21eee383108b1bb31614f97eefedf580",
-    "valetudo-aarch64.upx": "f28672a4ca1702ddef148e7646cbbd27100231badb2cd8010ea05ca8edf9bc46"
+    "valetudo-armv7": "ab4307b30f2f4c277014e52a858a6802da535efcc8cbd734eb2360f5141ac45a",
+    "valetudo-armv7-lowmem": "182d61cbac7df0d38bee51948c2ff5bfa9d875a7c08078378e520964d2e8606c",
+    "valetudo-aarch64": "71f27c615e78f5505b81c45f875343b84d8cff2a6c619f2f539a3d89bc02bd80",
+    "valetudo-armv7.upx": "3db9f71826ca60b6d6f3599b81ef7d4454a014e82628380e10f1232c8d6675d7",
+    "valetudo-armv7-lowmem.upx": "8d03af047c1f80a0fa4001c794898eede15d03fc73ea4bbcfb2bcb03f078b4f7",
+    "valetudo-aarch64.upx": "57c1bb81afae66bd3f41e74e34a9e515c0a7369f3c449581182ce87347873938"
   },
-  "changelog": "## Valetudo nightly (2026-03-05T03:18:05.957Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n"
+  "changelog": "## Valetudo nightly (2026-03-06T03:17:23.339Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n"
 }
