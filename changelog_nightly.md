@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-03-08T03:19:12.117Z)
+## Valetudo nightly (2026-03-09T03:21:44.532Z)
 
 ### Features
 
@@ -8,3 +8,7 @@
 
 - **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)
 - **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)
+
+### Chores
+
+- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)
