@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-11T03:18:12.743Z",
+  "timestamp": "2026-03-12T03:19:45.057Z",
   "version": "4947a1430c9b947e50fe4096ac8bf8da8442d5fe",
   "sha256sums": {
-    "valetudo-armv7": "36b210e62c8d56a7b614b6fd696e94985e54e7bd56d1918353a12131a61dec5d",
-    "valetudo-armv7-lowmem": "676fe0db47e4ea6d0714a9b72da5870deaa297da9c09cee9758a0184051fbd84",
-    "valetudo-aarch64": "5cde1db225ab1cba14f31867d065e9fae05ea93382318e409cafd6614bf16850",
-    "valetudo-armv7.upx": "07ae957e43289cd664a3df84e5f4d5832712c2604e6a5f3a16e8ee7ffd177e75",
-    "valetudo-armv7-lowmem.upx": "e2a9c399393842dd658256a71a8af1fae3468edfeebc5388b9313f8031476d5b",
-    "valetudo-aarch64.upx": "9cc18837bcefdc543681e27e02f9ff6830d6502306e28c429f3c15ad6f7fd7c3"
+    "valetudo-armv7": "794870324d50c09c25965957856d80ae4fb9f6764421fe82a79e37096625fd6d",
+    "valetudo-armv7-lowmem": "7ed12425ce812ab4156774314f3d76a6a85071610eed7baf1e0a92e57e8acc70",
+    "valetudo-aarch64": "a57ba7b631387c7f1924a6a84603eaad36ad34c9f3dfc80f8ef43d2357179427",
+    "valetudo-armv7.upx": "1d0814a653e9c646c0891fdda38b7fd563f71ce08ffdbfd47cbf151b99a88b46",
+    "valetudo-armv7-lowmem.upx": "2dc012d8fbb4803f679e8aae6439b6e78cfc32f1607448eaae874c2ca1b9bd5c",
+    "valetudo-aarch64.upx": "1d69f942b66ae836fbab561ba1aa65a68023c7d6c50ef690b7b3970c2c46c6d1"
   },
-  "changelog": "## Valetudo nightly (2026-03-11T03:18:12.527Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
+  "changelog": "## Valetudo nightly (2026-03-12T03:19:44.843Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
 }
