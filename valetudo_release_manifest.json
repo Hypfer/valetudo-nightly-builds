@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T03:20:58.723Z",
-  "version": "a3bc1aa96fc638428484b950a7c0b6ca8fb0f94a",
+  "timestamp": "2026-03-25T03:24:03.963Z",
+  "version": "8a93d60d46d10040585078ad816ecd3da4e01cab",
   "sha256sums": {
-    "valetudo-armv7": "b4bdcbf7e5af4c987f0851412a6335952fe1d8c5221e4cfa545d0e66795d2b86",
-    "valetudo-armv7-lowmem": "b493cfaaf2e8d7ca80139c6c85197e143924fc2188519e817ac0d640a7adae12",
-    "valetudo-aarch64": "bf1dc2e15da9cacf121eb8430bcc172834ed38c4fd19c85dc3acc089ed049281",
-    "valetudo-armv7.upx": "c8558341be2c2a429e13e27c2a6f9cadc77981277bd17620ae4c7798bd1f305a",
-    "valetudo-armv7-lowmem.upx": "cdaefa0415bfb5640ec2fb73b5cc375ca22d73203d71674ddbbb21457cbf13bf",
-    "valetudo-aarch64.upx": "b5401e77df41d1cf163c0039461232f80ceeb9375695ef42b3366450e9684bbd"
+    "valetudo-armv7": "7077c67bac4107795ddf1ed437ec08cf28d776f9ccfdd2a6a1f5e414d561ccec",
+    "valetudo-armv7-lowmem": "86e11021c5ab7bea2fd12b1bde94373e1f8f24506f160f279186b8ab86aea71a",
+    "valetudo-aarch64": "9758e5a534fdc027a16c8845c837aa7ba9dd3b390f0a51382d387beb3778ad2c",
+    "valetudo-armv7.upx": "235231f1983638d2aa68c6cb3e40923f5418d9f6303fd53ebdf0cd0583d30272",
+    "valetudo-armv7-lowmem.upx": "467c9b736530462a9acebe5a2825973aa164b76f2b8bf1b8e33b553cc5ff776c",
+    "valetudo-aarch64.upx": "62f15f52e129256464347b5c3ee2128c896ca41c15b500522ea546056ca64d42"
   },
-  "changelog": "## Valetudo nightly (2026-03-24T03:20:58.501Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Refactoring\n\n- **vendor.dreame**: Central miot helper [`a9a5ab3`](https://github.com/Hypfer/Valetudo/commit/a9a5ab32810290c2a3e822d09fb1d685ff60b40c)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
+  "changelog": "## Valetudo nightly (2026-03-25T03:24:03.743Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **vendor.dreame**: Disable postWriteDelay for manual control commands [`8a93d60`](https://github.com/Hypfer/Valetudo/commit/8a93d60d46d10040585078ad816ecd3da4e01cab)\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Refactoring\n\n- **vendor.dreame**: Central miot helper [`a9a5ab3`](https://github.com/Hypfer/Valetudo/commit/a9a5ab32810290c2a3e822d09fb1d685ff60b40c)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
 }
