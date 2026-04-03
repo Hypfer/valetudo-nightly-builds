@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-02T03:27:35.684Z",
-  "version": "cbb70fc867928d233fae79f9d27092c6f22ccb71",
+  "timestamp": "2026-04-03T03:28:44.545Z",
+  "version": "95c3634b05d3b44a3d31bed29894de83e1efea4f",
   "sha256sums": {
-    "valetudo-armv7": "fcfd310fa0cb657d560471ad1f6effb6b5b7153915ee9ee654f1a6de80b41939",
-    "valetudo-armv7-lowmem": "d275e81e7dfc63d52aa87f63a12cf8f2e9da8cecd129d51704657f6bc0188fe6",
-    "valetudo-aarch64": "5046830851c61ec12dc756a16c4e21785d75c91a58c6250490eba65b36547b9e",
-    "valetudo-armv7.upx": "ca1a06ef19e2e915ee6cffc827409e5fb946a356b34d7eee878132de89715696",
-    "valetudo-armv7-lowmem.upx": "2db1fa23953d8fc4bd405bf146e750641499ad7c0489bd2ba70c2ceb2ffe4a9a",
-    "valetudo-aarch64.upx": "3e2f0811a17726f28456eefa9ad14bb35cb6d9892a846bbb37d41d06a2cff5ee"
+    "valetudo-armv7": "94084b72c4d0db95c77078fa978b0c364982093d0cabacb663e410c00ba1311c",
+    "valetudo-armv7-lowmem": "882cfdfcac7d3d8d5c4645de58b6992970872765fa33b178978152744794ec33",
+    "valetudo-aarch64": "1a0ee1a0e741ddd1add882aa30d46295e6888727235abd31a0f4460ea072d6b1",
+    "valetudo-armv7.upx": "e00ecb5604e9fe725a86f324d192d6be7ced773d545dc50a24b7dfb5c60684ce",
+    "valetudo-armv7-lowmem.upx": "b3f703384ff0d8bce270ba5812327f0b1e364661055f927f9a799282156cc3a4",
+    "valetudo-aarch64.upx": "b63cfb62eb6177840fda87ba758213f00ead4fcffdbb137010246fa4c414fb82"
   },
-  "changelog": "## Valetudo nightly (2026-04-02T03:27:35.492Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **vendor.dreame**: Possible fix for the selected material visually reverting sometimes [`cbb70fc`](https://github.com/Hypfer/Valetudo/commit/cbb70fc867928d233fae79f9d27092c6f22ccb71)\n- **vendor.dreame**: Disable postWriteDelay for manual control commands [`8a93d60`](https://github.com/Hypfer/Valetudo/commit/8a93d60d46d10040585078ad816ecd3da4e01cab)\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Refactoring\n\n- **vendor.dreame**: Send all communication through the miot helper [`6fc711d`](https://github.com/Hypfer/Valetudo/commit/6fc711d47330cb8d189615b2e85ca0ce9a48a10d)\n- **vendor.dreame**: Central miot helper [`a9a5ab3`](https://github.com/Hypfer/Valetudo/commit/a9a5ab32810290c2a3e822d09fb1d685ff60b40c)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
+  "changelog": "## Valetudo nightly (2026-04-03T03:28:44.335Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **vendor.dreame**: Possible fix for the selected material visually reverting sometimes [`cbb70fc`](https://github.com/Hypfer/Valetudo/commit/cbb70fc867928d233fae79f9d27092c6f22ccb71)\n- **vendor.dreame**: Disable postWriteDelay for manual control commands [`8a93d60`](https://github.com/Hypfer/Valetudo/commit/8a93d60d46d10040585078ad816ecd3da4e01cab)\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Refactoring\n\n- **vendor.dreame**: Send all communication through the miot helper [`6fc711d`](https://github.com/Hypfer/Valetudo/commit/6fc711d47330cb8d189615b2e85ca0ce9a48a10d)\n- **vendor.dreame**: Central miot helper [`a9a5ab3`](https://github.com/Hypfer/Valetudo/commit/a9a5ab32810290c2a3e822d09fb1d685ff60b40c)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
 }
