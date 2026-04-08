@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-04-07T03:29:40.758Z)
+## Valetudo nightly (2026-04-08T03:30:48.954Z)
 
 ### Features
 
@@ -6,7 +6,6 @@
 
 ### Fixes
 
-- **vendor.dreame**: Possible fix for the selected material visually reverting sometimes [`cbb70fc`](https://github.com/Hypfer/Valetudo/commit/cbb70fc867928d233fae79f9d27092c6f22ccb71)
 - **vendor.dreame**: Disable postWriteDelay for manual control commands [`8a93d60`](https://github.com/Hypfer/Valetudo/commit/8a93d60d46d10040585078ad816ecd3da4e01cab)
 - **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)
 - **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)
