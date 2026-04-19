@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-18T03:29:48.352Z",
+  "timestamp": "2026-04-19T03:31:46.774Z",
   "version": "d5bbfad778178f27fcd4f3d818bb9a5e93463cb0",
   "sha256sums": {
-    "valetudo-armv7": "a06edad435283d6220f7df05cd70422b7e264ca235735e5263463a7fc2801f87",
-    "valetudo-armv7-lowmem": "eb6e9ec30c4a83038bc529daa556c01c3efd23a9ef16e18b590687c75b54705a",
-    "valetudo-aarch64": "f46ba88881755f5db3bc3a3ecbe693b744ca20825a46f8f63ec54eb74298bda3",
-    "valetudo-armv7.upx": "fe62fc8d8b86a2e5672101b5d67379d855ecbafde5dbf4476358471a9949f617",
-    "valetudo-armv7-lowmem.upx": "8da2765541d675ff882e964599165a525f9126305c4059a295e7573f57e79df9",
-    "valetudo-aarch64.upx": "db6a01580f6976e463692ae60503f7e0d6253c4ceea9a2d9d24bb455a4ba4e35"
+    "valetudo-armv7": "26622adeca98ceecb7b0458d93458739d56b2f5db0d4ed41d9cd5cbb5ea53afd",
+    "valetudo-armv7-lowmem": "602d8ade6ce511e721fbce3ab9cfeeff7c7f1f3fe40a983f9206bcd657412a91",
+    "valetudo-aarch64": "fb1766374baf3022321b2548ce21ec05c8c90112aa231354a316a174fbc87d67",
+    "valetudo-armv7.upx": "76e4854693fb9306ecc4a3575292f3e3ec56d1646a2f7c36d5e29443003b5080",
+    "valetudo-armv7-lowmem.upx": "0bdb55bffabb33ca8cb505162441e629e04f79b7daf3d2f32c0fd4a366522fbc",
+    "valetudo-aarch64.upx": "67c0c66c068b3068a9b3989f98189ee4169f5d987a76f258d21b999dbae3b325"
   },
-  "changelog": "## Valetudo nightly (2026-04-18T03:29:48.088Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **vendor.dreame**: Add additional model IDs [`6c51d72`](https://github.com/Hypfer/Valetudo/commit/6c51d72f3d86ab965920fed9b04945ae04a34523)\n- **vendor.dreame**: Disable postWriteDelay for manual control commands [`8a93d60`](https://github.com/Hypfer/Valetudo/commit/8a93d60d46d10040585078ad816ecd3da4e01cab)\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Refactoring\n\n- **docs**: Migrate to eleventy + redesign [`0cf7d72`](https://github.com/Hypfer/Valetudo/commit/0cf7d72416931556a083d68edfc8ea1c41b78522)\n- **vendor.dreame**: Send all communication through the miot helper [`6fc711d`](https://github.com/Hypfer/Valetudo/commit/6fc711d47330cb8d189615b2e85ca0ce9a48a10d)\n- **vendor.dreame**: Central miot helper [`a9a5ab3`](https://github.com/Hypfer/Valetudo/commit/a9a5ab32810290c2a3e822d09fb1d685ff60b40c)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
+  "changelog": "## Valetudo nightly (2026-04-19T03:31:46.516Z)\n\n### Features\n\n- **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)\n\n### Fixes\n\n- **vendor.dreame**: Add additional model IDs [`6c51d72`](https://github.com/Hypfer/Valetudo/commit/6c51d72f3d86ab965920fed9b04945ae04a34523)\n- **vendor.dreame**: Disable postWriteDelay for manual control commands [`8a93d60`](https://github.com/Hypfer/Valetudo/commit/8a93d60d46d10040585078ad816ecd3da4e01cab)\n- **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)\n- **webserver**: Remove obsolete express-list-endpoints [`00c61e3`](https://github.com/Hypfer/Valetudo/commit/00c61e37bb47b0f6ac37ea80ecd4e08eff5116fe)\n\n### Refactoring\n\n- **docs**: Migrate to eleventy + redesign [`0cf7d72`](https://github.com/Hypfer/Valetudo/commit/0cf7d72416931556a083d68edfc8ea1c41b78522)\n- **vendor.dreame**: Send all communication through the miot helper [`6fc711d`](https://github.com/Hypfer/Valetudo/commit/6fc711d47330cb8d189615b2e85ca0ce9a48a10d)\n- **vendor.dreame**: Central miot helper [`a9a5ab3`](https://github.com/Hypfer/Valetudo/commit/a9a5ab32810290c2a3e822d09fb1d685ff60b40c)\n\n### Chores\n\n- **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)\n"
 }
