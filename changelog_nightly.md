@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-04-22T03:31:26.191Z)
+## Valetudo nightly (2026-04-23T05:25:24.709Z)
 
 ### Features
 
@@ -19,4 +19,5 @@
 
 ### Chores
 
+- Fix ref [`6461eee`](https://github.com/Hypfer/Valetudo/commit/6461eeec270e797324535f99d39a752ae8c261f9)
 - **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)
