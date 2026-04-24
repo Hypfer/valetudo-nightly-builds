@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-04-23T05:25:24.709Z)
+## Valetudo nightly (2026-04-24T03:31:44.073Z)
 
 ### Features
 
@@ -19,5 +19,6 @@
 
 ### Chores
 
+- **build**: Bump all github actions to supported node versions [`3a5bc21`](https://github.com/Hypfer/Valetudo/commit/3a5bc217c13b9283236bebe9c0a63499317cda92)
 - Fix ref [`6461eee`](https://github.com/Hypfer/Valetudo/commit/6461eeec270e797324535f99d39a752ae8c261f9)
 - **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)
