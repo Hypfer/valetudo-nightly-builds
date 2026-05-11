@@ -1,11 +1,13 @@
-## Valetudo nightly (2026-05-10T03:32:23.149Z)
+## Valetudo nightly (2026-05-11T03:32:44.635Z)
 
 ### Features
 
+- Biblically accurate exception handling [`b786064`](https://github.com/Hypfer/Valetudo/commit/b78606423f0b823bf9eb7decf48862c43ad66091)
 - **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)
 
 ### Fixes
 
+- **vendor.dreame**: Obstacle naming [`149a205`](https://github.com/Hypfer/Valetudo/commit/149a2054d690f71c885c6e632224726847794281)
 - **vendor.dreame**: Add additional model IDs [`6c51d72`](https://github.com/Hypfer/Valetudo/commit/6c51d72f3d86ab965920fed9b04945ae04a34523)
 - **vendor.dreame**: Disable postWriteDelay for manual control commands [`8a93d60`](https://github.com/Hypfer/Valetudo/commit/8a93d60d46d10040585078ad816ecd3da4e01cab)
 - **ui**: Some map touch handling cleanup [`e9998d2`](https://github.com/Hypfer/Valetudo/commit/e9998d217ead2c3453a0009c19c4c3e62fd9dc36)
