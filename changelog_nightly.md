@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-05-14T03:32:43.509Z)
+## Valetudo nightly (2026-05-14T11:17:42.099Z)
 
 ### Features
 
+- **updater**: Allow force updating to the same version for dev testing purposes [`38b943a`](https://github.com/Hypfer/Valetudo/commit/38b943abeb191f0d71f25f2d29f10777d5ed8ccc)
 - Biblically accurate exception handling [`b786064`](https://github.com/Hypfer/Valetudo/commit/b78606423f0b823bf9eb7decf48862c43ad66091)
 - **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)
 

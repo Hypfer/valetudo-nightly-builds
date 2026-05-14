@@ -6854,6 +6854,9 @@
                       "download",
                       "apply"
                     ]
+                  },
+                  "force": {
+                    "type": "boolean"
                   }
                 }
               }
