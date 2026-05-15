@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-05-14T11:17:42.099Z)
+## Valetudo nightly (2026-05-15T03:32:50.342Z)
 
 ### Features
 
+- **ui**: WASD manual control [`80cf405`](https://github.com/Hypfer/Valetudo/commit/80cf405fd590b9a8e6f01f8cde17f582de7953de)
 - **updater**: Allow force updating to the same version for dev testing purposes [`38b943a`](https://github.com/Hypfer/Valetudo/commit/38b943abeb191f0d71f25f2d29f10777d5ed8ccc)
 - Biblically accurate exception handling [`b786064`](https://github.com/Hypfer/Valetudo/commit/b78606423f0b823bf9eb7decf48862c43ad66091)
 - **mqtt**: Publish Dock Component Status to MQTT [`5d905ec`](https://github.com/Hypfer/Valetudo/commit/5d905ec2239dd14bbc11ee3785837562306a508e)
@@ -22,6 +23,7 @@
 
 ### Chores
 
+- Cleanup [`3232c40`](https://github.com/Hypfer/Valetudo/commit/3232c40aabf5aa1f6aa39ce50727e7b6819ccd3e)
 - **build**: Bump all github actions to supported node versions [`3a5bc21`](https://github.com/Hypfer/Valetudo/commit/3a5bc217c13b9283236bebe9c0a63499317cda92)
 - Fix ref [`6461eee`](https://github.com/Hypfer/Valetudo/commit/6461eeec270e797324535f99d39a752ae8c261f9)
 - **docs**: Add notes to midea [`a2e8c8b`](https://github.com/Hypfer/Valetudo/commit/a2e8c8b696b68f7e9c2c06c1bab7aca2a4cde8a9)
