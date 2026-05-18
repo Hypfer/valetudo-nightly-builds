@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-05-17T03:32:36.225Z)
+## Valetudo nightly (2026-05-18T03:33:13.800Z)
 
 ### Features
 
+- **mqtt**: Room cleaning for HA 2026.5 and up [`6bdef9f`](https://github.com/Hypfer/Valetudo/commit/6bdef9fc0f5569c52ade48cacebfd4c1200a0c13)
 - **ui**: WASD manual control [`80cf405`](https://github.com/Hypfer/Valetudo/commit/80cf405fd590b9a8e6f01f8cde17f582de7953de)
 - **updater**: Allow force updating to the same version for dev testing purposes [`38b943a`](https://github.com/Hypfer/Valetudo/commit/38b943abeb191f0d71f25f2d29f10777d5ed8ccc)
 - Biblically accurate exception handling [`b786064`](https://github.com/Hypfer/Valetudo/commit/b78606423f0b823bf9eb7decf48862c43ad66091)
