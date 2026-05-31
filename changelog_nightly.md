@@ -1,1 +1,9 @@
-## Valetudo nightly (2026-05-30T03:32:45.615Z)
+## Valetudo nightly (2026-05-31T03:33:18.767Z)
+
+### Features
+
+- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)
+
+### Fixes
+
+- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)

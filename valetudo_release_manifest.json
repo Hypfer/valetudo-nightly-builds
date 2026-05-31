@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-05-30T03:32:45.810Z",
-  "version": "4a56bfe876c1f9b298fc5a1b3c8b213ad749ffa1",
+  "timestamp": "2026-05-31T03:33:18.947Z",
+  "version": "72226e92c512dc6b5eb72c89ec36129b9ca90717",
   "sha256sums": {
-    "valetudo-armv7": "d567bd2e2e4b796e7b7bac36714396e38678320bf5e234d8c12513943205743f",
-    "valetudo-armv7-lowmem": "a9df9a626d1c557b98c2a952be65276b7ca7dea64f07eb77f790436c045c5d35",
-    "valetudo-aarch64": "4efef074bf12f5be0027b8686841f47cfe9f15f8f04a7419a7cdfed8bf2bc7d3",
-    "valetudo-armv7.upx": "d7d33878062a12b2f04ca8ef25237d97de19e24dcbb68664b8a89eccac871679",
-    "valetudo-armv7-lowmem.upx": "7aa53a143319490ea0d098bacd905878f2e30c5f4efc5cb256b0a6e36449ba5f",
-    "valetudo-aarch64.upx": "c00492f6d6d28cb7cb61843b908b2d42fc3f46e62c65530e08b898fdeeb8ca29"
+    "valetudo-armv7": "70d92ace4d3e775fba7c6c759ca724a63faa8ee726a6e24aa4355381b9eb23cf",
+    "valetudo-armv7-lowmem": "37872772f1a23d7c0ee512a7249f3976d6e4ad303867b375802058a35c96d3ac",
+    "valetudo-aarch64": "da773bebf1c04f8f78b3cd71c81ceda8c92032b487e89e06442471dce6c18ce2",
+    "valetudo-armv7.upx": "b12018470c61e92bd1949143aa0b2a267aebce504970c1d13ec9d75ddd4fb806",
+    "valetudo-armv7-lowmem.upx": "d9ed11fd9bd7fbfa47e5c3bdf6b838302ddf052e85c279ff6c54dca13ee9547a",
+    "valetudo-aarch64.upx": "33af82116c1085be97ffba4dc2d79857df9f66946e3d0652ba07725c51877c80"
   },
-  "changelog": "## Valetudo nightly (2026-05-30T03:32:45.615Z)\n"
+  "changelog": "## Valetudo nightly (2026-05-31T03:33:18.767Z)\n\n### Features\n\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n"
 }
