@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-05-31T03:33:18.767Z)
+## Valetudo nightly (2026-06-01T03:33:45.186Z)
 
 ### Features
 
@@ -7,3 +7,7 @@
 ### Fixes
 
 - End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)
+
+### Chores
+
+- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)
