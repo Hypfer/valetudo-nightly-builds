@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-04T03:33:43.316Z",
+  "timestamp": "2026-06-05T03:33:12.339Z",
   "version": "44381b25e45f3edbbee7985740ccf2bbd5de7481",
   "sha256sums": {
-    "valetudo-armv7": "3e2257daac8ed1e13d894cc92d7105fcd1c76a734571d2cf3abe937d527aedf3",
-    "valetudo-armv7-lowmem": "b6fd7bb1811edb91a1d9e6bbd25b256862b75fc43411f01adf39e992d70d118c",
-    "valetudo-aarch64": "7d361efae62b4ac836338a9a22e5e671f5afdac6fc34e9903a1756f679db2b7c",
-    "valetudo-armv7.upx": "0426e6709f6e51339804ec6f003425a58368ee068b53dae9d1f1c7cb179cefad",
-    "valetudo-armv7-lowmem.upx": "3248b2b32760e6d598a3704915ff58e9863198dae925f88b3fc51537f18b28c0",
-    "valetudo-aarch64.upx": "e84f7c6109ac5bd1f295a544ed03cb8ff03fd0e91ea77bce31c29b4673c88386"
+    "valetudo-armv7": "bff46115a16d149c0376cc444e632b83382ae51ab15e27cc48e4e4d7697546bd",
+    "valetudo-armv7-lowmem": "70234f709c73aacc3d72206981a6517be1c29096e0f79c1319d629d7124bbc85",
+    "valetudo-aarch64": "1f52ab18d057089ba1a6b0b44ad015206cfd5bc1144d130399c35c3e0b8e54a0",
+    "valetudo-armv7.upx": "f689e2a09e55fc12e69cfaffceb25d4c5671c033bc8e5a702d328cbc640267a4",
+    "valetudo-armv7-lowmem.upx": "df3cf0ac3121080a8bbf5e87e16d395d5309498f7c53c4664ab51976dcec8d71",
+    "valetudo-aarch64.upx": "78451da3f1149712ad44cc6e69fd4fb64ba9591dfcc57210f9818bd4221c482e"
   },
-  "changelog": "## Valetudo nightly (2026-06-04T03:33:43.112Z)\n\n### Features\n\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n\n### Chores\n\n- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)\n"
+  "changelog": "## Valetudo nightly (2026-06-05T03:33:12.157Z)\n\n### Features\n\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n\n### Chores\n\n- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)\n"
 }
