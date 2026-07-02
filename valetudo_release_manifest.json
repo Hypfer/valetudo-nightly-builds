@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-01T03:33:28.585Z",
+  "timestamp": "2026-07-02T03:33:00.827Z",
   "version": "ba32a038fb5844dc8c67d4b8c4abc98e1e5a2003",
   "sha256sums": {
-    "valetudo-armv7": "c9b694c0d4ffadb7ce918b48c510e1a7879e8b37c940ab934496b84915245f24",
-    "valetudo-armv7-lowmem": "ed5f7700d9404a5be49abfc8daddf16e53a671db8d00936c8ac28e87a3021a89",
-    "valetudo-aarch64": "3accac6e865d4853c9e0b715e4b38658955c1ea61506f988303014c3fb8fabac",
-    "valetudo-armv7.upx": "fb45911d0b01f8af6551993550b072b92da47d8fc83e8855b6300b67e7a5f05f",
-    "valetudo-armv7-lowmem.upx": "38896f9ff95cd9983a16d6e67bccf6753fd508d57704f6ec187cf77f8658a540",
-    "valetudo-aarch64.upx": "b1a6b1c9ffe89fa28962b63907c4b14c90888373f4582ea12723a1de101ab68a"
+    "valetudo-armv7": "90efb1b3dd0f9be60fa578a6026ff9fa72ceecdac0292c000bdf3cd6df01a563",
+    "valetudo-armv7-lowmem": "1069296c13418820f71c3defc0ae2aafb402466115db5dcca7bd41ed7d142675",
+    "valetudo-aarch64": "342de5c79613bc6952a8e9229e31b232c50cfab4e11d8afebbce57d5140f9990",
+    "valetudo-armv7.upx": "87ba2ba55e2c5b2cbc2ca083f22805c82197eb070e39330130d2997073cb76fb",
+    "valetudo-armv7-lowmem.upx": "23887bfdec41e0c6eccd380ec478a8acbaf80159cd845d36f343329fb18d0639",
+    "valetudo-aarch64.upx": "94e5c18a527a970e88c4eb21c143fb90bd8394fe24d99a099076f5df346250a3"
   },
-  "changelog": "## Valetudo nightly (2026-07-01T03:33:28.378Z)\n\n### Features\n\n- **vendor.dreame**: Add fan speed turbo quirk [`b4e3326`](https://github.com/Hypfer/Valetudo/commit/b4e3326070329d1147b4c569295601c697fc803d)\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n\n### Chores\n\n- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)\n"
+  "changelog": "## Valetudo nightly (2026-07-02T03:33:00.610Z)\n\n### Features\n\n- **vendor.dreame**: Add fan speed turbo quirk [`b4e3326`](https://github.com/Hypfer/Valetudo/commit/b4e3326070329d1147b4c569295601c697fc803d)\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n\n### Chores\n\n- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)\n"
 }
