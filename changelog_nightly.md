@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-07-02T03:33:00.610Z)
+## Valetudo nightly (2026-07-03T03:32:19.000Z)
 
 ### Features
 
@@ -11,4 +11,5 @@
 
 ### Chores
 
+- Some cleanup [`f14b4c0`](https://github.com/Hypfer/Valetudo/commit/f14b4c077ef94f8e5f5716e768ffea857daba8aa)
 - **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)
