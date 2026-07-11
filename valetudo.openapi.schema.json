@@ -9967,7 +9967,10 @@
                       "tile",
                       "wood",
                       "wood_horizontal",
-                      "wood_vertical"
+                      "wood_vertical",
+                      "carpet",
+                      "carpet_low",
+                      "carpet_high"
                     ]
                   }
                 }
@@ -10008,7 +10011,10 @@
                           "tile",
                           "wood",
                           "wood_horizontal",
-                          "wood_vertical"
+                          "wood_vertical",
+                          "carpet",
+                          "carpet_low",
+                          "carpet_high"
                         ]
                       }
                     }
