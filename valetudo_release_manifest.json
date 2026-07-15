@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-14T03:29:07.833Z",
-  "version": "a975c3afef23a31f9e73a1e0f418283bc05dbf9b",
+  "timestamp": "2026-07-15T03:29:12.620Z",
+  "version": "b86fb63c218455947d4493d8c4183e270d17585a",
   "sha256sums": {
-    "valetudo-armv7": "3f6ee1af3e67f649c073a8947f5694edeeea2e30f7ac4c2b9e6171d454a71b24",
-    "valetudo-armv7-lowmem": "eb56dbb3744aff3d508e2c8a59e1029b91e8cf06eac047248666274a03f78edc",
-    "valetudo-aarch64": "02eeaacd0d660859ddbe414a3e55be56ee9ed7aed8b9e82298fae8a23f53dc49",
-    "valetudo-armv7.upx": "b406ef6553bf5453b562c1f85d906c27a92e18052ba733c655e3d2f133b06fcf",
-    "valetudo-armv7-lowmem.upx": "1c91d63e8fe750efcde195c8f9203458aecbd7b9c4468fdb5ef2020a196824b9",
-    "valetudo-aarch64.upx": "261804641078e89e4caf2f84ba849907d22ebdf0114af03c58cfe088fbc01c28"
+    "valetudo-armv7": "58f517af44974a0a0dbdb17724487f252e821169fdf03f2137d4ef7a49ab6951",
+    "valetudo-armv7-lowmem": "5dd55b2214bba37f92e7dc529dc03261e7eec957cf2fec1c42d3adfbf27fd523",
+    "valetudo-aarch64": "eb1a41fdadefb579b968302b48d903771bdf609e25b655b50f76d9dca38f62a9",
+    "valetudo-armv7.upx": "2f8c24585cc282347e8ace8a05dea2747b9ef106a8a50a876042dff2e78ac978",
+    "valetudo-armv7-lowmem.upx": "087d507e43423760eb65c1fc050c87a21c034c47e7e1a98b536bac8e1f7354c8",
+    "valetudo-aarch64.upx": "0f4ab7030b4ec225c8742c8bd18914ed1e24c454eded41f52de8f8c412c146d2"
   },
-  "changelog": "## Valetudo nightly (2026-07-14T03:29:07.629Z)\n\n### Features\n\n- **vendor.dreame**: Segment material type carpet [`a975c3a`](https://github.com/Hypfer/Valetudo/commit/a975c3afef23a31f9e73a1e0f418283bc05dbf9b)\n- **vendor.dreame**: Map two more error codes [`6889856`](https://github.com/Hypfer/Valetudo/commit/688985601f3b0fb5bad1e047c166dc4f0fa7f625)\n- **core**: Segment material type carpet [`cdd6710`](https://github.com/Hypfer/Valetudo/commit/cdd6710c82e481ac1ba16e1377ff8c28fc7d4d85)\n- **vendor.dreame**: Add fan speed turbo quirk [`b4e3326`](https://github.com/Hypfer/Valetudo/commit/b4e3326070329d1147b4c569295601c697fc803d)\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n\n### Chores\n\n- Some cleanup [`f14b4c0`](https://github.com/Hypfer/Valetudo/commit/f14b4c077ef94f8e5f5716e768ffea857daba8aa)\n- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)\n"
+  "changelog": "## Valetudo nightly (2026-07-15T03:29:12.415Z)\n\n### Features\n\n- **vendor.dreame**: Segment material type carpet [`a975c3a`](https://github.com/Hypfer/Valetudo/commit/a975c3afef23a31f9e73a1e0f418283bc05dbf9b)\n- **vendor.dreame**: Map two more error codes [`6889856`](https://github.com/Hypfer/Valetudo/commit/688985601f3b0fb5bad1e047c166dc4f0fa7f625)\n- **core**: Segment material type carpet [`cdd6710`](https://github.com/Hypfer/Valetudo/commit/cdd6710c82e481ac1ba16e1377ff8c28fc7d4d85)\n- **vendor.dreame**: Add fan speed turbo quirk [`b4e3326`](https://github.com/Hypfer/Valetudo/commit/b4e3326070329d1147b4c569295601c697fc803d)\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n\n### Chores\n\n- Some cleanup [`f14b4c0`](https://github.com/Hypfer/Valetudo/commit/f14b4c077ef94f8e5f5716e768ffea857daba8aa)\n- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)\n"
 }
