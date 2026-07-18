@@ -1071,7 +1071,9 @@
               "type": {
                 "type": "string",
                 "enum": [
-                  "virtual_wall"
+                  "virtual_wall",
+                  "threshold",
+                  "curtain"
                 ]
               }
             }
@@ -1314,7 +1316,8 @@
                   "active_zone",
                   "no_go_area",
                   "no_mop_area",
-                  "carpet"
+                  "carpet",
+                  "ramp"
                 ]
               }
             }
@@ -1504,7 +1507,9 @@
                         "type": {
                           "type": "string",
                           "enum": [
-                            "virtual_wall"
+                            "virtual_wall",
+                            "threshold",
+                            "curtain"
                           ]
                         }
                       }
@@ -1600,7 +1605,8 @@
                             "active_zone",
                             "no_go_area",
                             "no_mop_area",
-                            "carpet"
+                            "carpet",
+                            "ramp"
                           ]
                         }
                       }
@@ -1738,6 +1744,37 @@
             "type": "object"
           }
         }
+      },
+      "ValetudoMapAnnotation": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "threshold",
+              "curtain",
+              "ramp"
+            ]
+          },
+          "points": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "x": {
+                  "type": "number"
+                },
+                "y": {
+                  "type": "number"
+                }
+              }
+            }
+          }
+        },
+        "required": [
+          "type",
+          "points"
+        ]
       },
       "ValetudoMapSegment": {
         "type": "object",
@@ -1946,7 +1983,9 @@
                             "type": {
                               "type": "string",
                               "enum": [
-                                "virtual_wall"
+                                "virtual_wall",
+                                "threshold",
+                                "curtain"
                               ]
                             }
                           }
@@ -2042,7 +2081,8 @@
                                 "active_zone",
                                 "no_go_area",
                                 "no_mop_area",
-                                "carpet"
+                                "carpet",
+                                "ramp"
                               ]
                             }
                           }
@@ -4572,7 +4612,9 @@
                                       "type": {
                                         "type": "string",
                                         "enum": [
-                                          "virtual_wall"
+                                          "virtual_wall",
+                                          "threshold",
+                                          "curtain"
                                         ]
                                       }
                                     }
@@ -4668,7 +4710,8 @@
                                           "active_zone",
                                           "no_go_area",
                                           "no_mop_area",
-                                          "carpet"
+                                          "carpet",
+                                          "ramp"
                                         ]
                                       }
                                     }
@@ -5259,7 +5302,9 @@
                                   "type": {
                                     "type": "string",
                                     "enum": [
-                                      "virtual_wall"
+                                      "virtual_wall",
+                                      "threshold",
+                                      "curtain"
                                     ]
                                   }
                                 }
@@ -5355,7 +5400,8 @@
                                       "active_zone",
                                       "no_go_area",
                                       "no_mop_area",
-                                      "carpet"
+                                      "carpet",
+                                      "ramp"
                                     ]
                                   }
                                 }
@@ -5618,7 +5664,9 @@
                                   "type": {
                                     "type": "string",
                                     "enum": [
-                                      "virtual_wall"
+                                      "virtual_wall",
+                                      "threshold",
+                                      "curtain"
                                     ]
                                   }
                                 }
@@ -5714,7 +5762,8 @@
                                       "active_zone",
                                       "no_go_area",
                                       "no_mop_area",
-                                      "carpet"
+                                      "carpet",
+                                      "ramp"
                                     ]
                                   }
                                 }
@@ -9538,6 +9587,82 @@
         }
       }
     },
+    "/api/v2/robot/capabilities/MapAnnotationsCapability": {
+      "put": {
+        "tags": [
+          "MapAnnotationsCapability"
+        ],
+        "summary": "Set map annotations",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "type": {
+                      "type": "string",
+                      "enum": [
+                        "threshold",
+                        "curtain",
+                        "ramp"
+                      ]
+                    },
+                    "points": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "x": {
+                            "type": "number"
+                          },
+                          "y": {
+                            "type": "number"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": [
+                    "type",
+                    "points"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Ok"
+          },
+          "400": {
+            "description": "Bad request"
+          }
+        }
+      }
+    },
+    "/api/v2/robot/capabilities/MapAnnotationsCapability/properties": {
+      "get": {
+        "tags": [
+          "MapAnnotationsCapability"
+        ],
+        "summary": "Get various capability-related properties",
+        "responses": {
+          "200": {
+            "description": "Ok",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/v2/robot/capabilities/MappingPassCapability": {
       "put": {
         "tags": [
@@ -10291,7 +10416,9 @@
                                         "type": {
                                           "type": "string",
                                           "enum": [
-                                            "virtual_wall"
+                                            "virtual_wall",
+                                            "threshold",
+                                            "curtain"
                                           ]
                                         }
                                       }
@@ -10387,7 +10514,8 @@
                                             "active_zone",
                                             "no_go_area",
                                             "no_mop_area",
-                                            "carpet"
+                                            "carpet",
+                                            "ramp"
                                           ]
                                         }
                                       }
