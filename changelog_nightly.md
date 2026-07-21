@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-07-21T03:30:32.816Z)
+## Valetudo nightly (2026-07-21T16:02:24.582Z)
 
 ### Features
 
@@ -14,12 +14,14 @@
 
 ### Fixes
 
+- **vendor.dreame**: Pass the mapId when saving segment material to maybe fix reverting material settings [`629ec17`](https://github.com/Hypfer/Valetudo/commit/629ec17602ba4cc778aa2d6363de985f45841ce4)
 - **ui**: Some client_structure cleanups [`345dab4`](https://github.com/Hypfer/Valetudo/commit/345dab497392b4156eb9ed8e1d28c5a9454ced24)
 - **vendor.dreame**: Fix Deep carpet cleaning quirk gracefully handling the firmware saying no [`371812c`](https://github.com/Hypfer/Valetudo/commit/371812c03728c6087bcd7986b180e2d5079ffebd)
 - End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)
 
 ### Chores
 
+- **vendor.viomi**: Clean up unnecessary optional chaining [`db19ec1`](https://github.com/Hypfer/Valetudo/commit/db19ec1da3e45d4d2d4c56b12310b395bc7664a8)
 - Minor cleanup [`fc9df01`](https://github.com/Hypfer/Valetudo/commit/fc9df01485b40047efab3a0492711c428aa9c486)
 - Some cleanup [`f14b4c0`](https://github.com/Hypfer/Valetudo/commit/f14b4c077ef94f8e5f5716e768ffea857daba8aa)
 - **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)
