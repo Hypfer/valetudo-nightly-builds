@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-07-21T16:02:24.582Z)
+## Valetudo nightly (2026-07-22T03:31:20.502Z)
 
 ### Features
 
@@ -14,7 +14,7 @@
 
 ### Fixes
 
-- **vendor.dreame**: Pass the mapId when saving segment material to maybe fix reverting material settings [`629ec17`](https://github.com/Hypfer/Valetudo/commit/629ec17602ba4cc778aa2d6363de985f45841ce4)
+- **vendor.dreame**: Pass the mapId when saving segment material to maybe fix reverting material settings [`e18dfcd`](https://github.com/Hypfer/Valetudo/commit/e18dfcd7edcb2c6e5716718877d1977cc7e011ce)
 - **ui**: Some client_structure cleanups [`345dab4`](https://github.com/Hypfer/Valetudo/commit/345dab497392b4156eb9ed8e1d28c5a9454ced24)
 - **vendor.dreame**: Fix Deep carpet cleaning quirk gracefully handling the firmware saying no [`371812c`](https://github.com/Hypfer/Valetudo/commit/371812c03728c6087bcd7986b180e2d5079ffebd)
 - End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)
