@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-23T03:31:45.421Z",
-  "version": "e18dfcd7edcb2c6e5716718877d1977cc7e011ce",
+  "timestamp": "2026-07-24T03:30:30.776Z",
+  "version": "87175829f3e87182e7796597ff9f064eccd75e02",
   "sha256sums": {
-    "valetudo-armv7": "c0562bb75a38f9f29e4ab8806a7da7090a402e735a533fa6f5179d44503895f1",
-    "valetudo-armv7-lowmem": "24e7b862885c9fe2b91bc21e9c088c3a9adf1ec1cefa8c132bc769952c8db67a",
-    "valetudo-aarch64": "cbe4d0d2fc68e7911fc63f7e5eefe72db1649272c6451fa77aea5f61718c862d",
-    "valetudo-armv7.upx": "33bba7b07cfabbf0c2160525c1287ac9d888b2d96d163611501585adaa0d264b",
-    "valetudo-armv7-lowmem.upx": "9e90ce6ad09ba2ccc32c5922a271f42d7667372e7c7be74f19280d1931355283",
-    "valetudo-aarch64.upx": "2424db03dc2ba9f52c756f5a53473181c33cbe9bef38a7986d296ae6dcdeb1ca"
+    "valetudo-armv7": "f220e1451f57acc8a40e7e743bd2262244864c76570d6bc789b9d42e93fdc494",
+    "valetudo-armv7-lowmem": "ac631b731a3ace624d5eabc63dd8cf3a0bce6339bcbf5b57038a843582ef660d",
+    "valetudo-aarch64": "a107d3d8968ce5fa7e1f8cb22ee12f24885d3cc8f3e07b20dbdfd318e4d4e14d",
+    "valetudo-armv7.upx": "0d64f6be817986a88139d951e4c8e61bfac5ead22bd013353f717fb0451f5ae4",
+    "valetudo-armv7-lowmem.upx": "a0a38fe7d85a57cd9c6fa6d1c01bff19445e5d19b517b4ae233994eb8e28d233",
+    "valetudo-aarch64.upx": "06010953077694aa9ae80c974b40f4093babc05c9325b571423dfc1a61801f9f"
   },
-  "changelog": "## Valetudo nightly (2026-07-23T03:31:45.166Z)\n\n### Features\n\n- **vendor.dreame**: MapAnnotationsCapability [`58446b8`](https://github.com/Hypfer/Valetudo/commit/58446b868ddf466a25173e5d6c0390f13fe749a4)\n- **ui**: MapAnnotationsCapability [`49bee99`](https://github.com/Hypfer/Valetudo/commit/49bee992f0765f814937e6fe0a9ceffca02c2dce)\n- **core**: MapAnnotationsCapability [`f1db08b`](https://github.com/Hypfer/Valetudo/commit/f1db08b8cb7d482a567db83a16c60e63b4863d3f)\n- **ui**: Reduce virtual restriction edit map button count using a unified add button [`80a3c25`](https://github.com/Hypfer/Valetudo/commit/80a3c25eb412e332a898c37748de6f95d864e2ea)\n- **vendor.dreame**: Segment material type carpet [`a975c3a`](https://github.com/Hypfer/Valetudo/commit/a975c3afef23a31f9e73a1e0f418283bc05dbf9b)\n- **vendor.dreame**: Map two more error codes [`6889856`](https://github.com/Hypfer/Valetudo/commit/688985601f3b0fb5bad1e047c166dc4f0fa7f625)\n- **core**: Segment material type carpet [`cdd6710`](https://github.com/Hypfer/Valetudo/commit/cdd6710c82e481ac1ba16e1377ff8c28fc7d4d85)\n- **vendor.dreame**: Add fan speed turbo quirk [`b4e3326`](https://github.com/Hypfer/Valetudo/commit/b4e3326070329d1147b4c569295601c697fc803d)\n- **vendor.midea**: Various no-up handlers for stuff in J15Max FW 558 [`72226e9`](https://github.com/Hypfer/Valetudo/commit/72226e92c512dc6b5eb72c89ec36129b9ca90717)\n\n### Fixes\n\n- **vendor.dreame**: Pass the mapId when saving segment material to maybe fix reverting material settings [`e18dfcd`](https://github.com/Hypfer/Valetudo/commit/e18dfcd7edcb2c6e5716718877d1977cc7e011ce)\n- **ui**: Some client_structure cleanups [`345dab4`](https://github.com/Hypfer/Valetudo/commit/345dab497392b4156eb9ed8e1d28c5a9454ced24)\n- **vendor.dreame**: Fix Deep carpet cleaning quirk gracefully handling the firmware saying no [`371812c`](https://github.com/Hypfer/Valetudo/commit/371812c03728c6087bcd7986b180e2d5079ffebd)\n- End logWriteStream instead of closing it [`df740d9`](https://github.com/Hypfer/Valetudo/commit/df740d9e513051d34ae633b332887bda81801e9d)\n\n### Chores\n\n- **vendor.viomi**: Clean up unnecessary optional chaining [`db19ec1`](https://github.com/Hypfer/Valetudo/commit/db19ec1da3e45d4d2d4c56b12310b395bc7664a8)\n- Minor cleanup [`fc9df01`](https://github.com/Hypfer/Valetudo/commit/fc9df01485b40047efab3a0492711c428aa9c486)\n- Some cleanup [`f14b4c0`](https://github.com/Hypfer/Valetudo/commit/f14b4c077ef94f8e5f5716e768ffea857daba8aa)\n- **test**: Switch to native nodejs test runner [`10866d0`](https://github.com/Hypfer/Valetudo/commit/10866d00e323a35b85869b8c7f3c96abc39793ae)\n"
+  "changelog": "## Valetudo nightly (2026-07-24T03:30:30.636Z)\n"
 }
