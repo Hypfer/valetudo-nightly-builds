@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-28T03:30:27.285Z",
-  "version": "cd7ede769b50baaec06d35e91fc3a89ba68a7a15",
+  "timestamp": "2026-07-29T03:31:04.791Z",
+  "version": "ccda25ee46a64915116111da801ac7009f6e42b6",
   "sha256sums": {
-    "valetudo-armv7": "5070b0a1242e25aebbc478ce6e75523dc7c3544131cb909ac859e4eba4242103",
-    "valetudo-armv7-lowmem": "2994b43b2382b44012514f4f9317221eeec6412e5427309b71d757f8b5b0e3e3",
-    "valetudo-aarch64": "250eebd2664fb443451a81972d247a90c1addcba3ec9444caac2f210cdb8e270",
-    "valetudo-armv7.upx": "452ef3e1d456608e4b27701341fe9840cf9680b400a39598a9d6a99529971ccd",
-    "valetudo-armv7-lowmem.upx": "456df6026578cec5d9b4fa102e6484db6f1d19900799807ec3d0fd777a2e2fa5",
-    "valetudo-aarch64.upx": "a003013ab6af966b53d1cfd88eaeedff0b5e78536fc9a0f1c2477b15863c4353"
+    "valetudo-armv7": "8e3aac3d220113a222cf86e80adcd7b1fceafe3f2010fea28d3ab2545a2bf39a",
+    "valetudo-armv7-lowmem": "546582e714c169d6c9f1ccd9b138898d2fde73d7c0de671cfd341481f5956366",
+    "valetudo-aarch64": "7f06dde450441337433b0209e189b6e0e6876f113fe9b0028cab306dcd5746ce",
+    "valetudo-armv7.upx": "c2826fb0a0a1a5ea479f2c69455129278182db5f993089b9abb61a245c0b247c",
+    "valetudo-armv7-lowmem.upx": "18a20a6daec30758e1cf658e3f1f57d32201c1a0e0dce60e1abc54dc17ed7cad",
+    "valetudo-aarch64.upx": "10d2f030ae845f714c125947a4d54bd102a8c9926856e720254a5ebf9ec66348"
   },
-  "changelog": "## Valetudo nightly (2026-07-28T03:30:27.105Z)\n"
+  "changelog": "## Valetudo nightly (2026-07-29T03:31:04.605Z)\n\n### Fixes\n\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
 }
