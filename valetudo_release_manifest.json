@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-30T03:27:32.194Z",
-  "version": "ccda25ee46a64915116111da801ac7009f6e42b6",
+  "timestamp": "2026-07-31T03:31:50.246Z",
+  "version": "7a2e09b86b553710d5bda239de24e4eac768592e",
   "sha256sums": {
-    "valetudo-armv7": "0a0de3bacd21f851455b94d33f910ff23e63439a1997846006b05291bcce814a",
-    "valetudo-armv7-lowmem": "cdae98aa926aa65523f4559c8101aa39256934f74bc7ce1b773a20c0dba114d8",
-    "valetudo-aarch64": "faf8c1dd1f379bda16c00200358fa31076be7bafcabbd833f63e75b9b43943bb",
-    "valetudo-armv7.upx": "53e56240e5d19bad7969b8d0ce4ffcde9c71a79bac1540ce6eb30394460979dd",
-    "valetudo-armv7-lowmem.upx": "491ec8c62c313d6b74c8635879e5558cb0d365676202ad72bc4d2b2115e9dad6",
-    "valetudo-aarch64.upx": "fdb80e930933a7624221d5b40ac59e6cc816b03eb441e8b696946f73e1c95667"
+    "valetudo-armv7": "2bd334c457af77e43b66554557f1d6a27bf88c6c7cbe3554094a5ab448ea6546",
+    "valetudo-armv7-lowmem": "048351b5128c8e20ef6ac764a74636eb8200b3981870caf8c4ebf5f10ea40536",
+    "valetudo-aarch64": "ef396788e6e392a6f0d403acd4c0b2b3bf9df43b54068a8bd854ef0794872f8c",
+    "valetudo-armv7.upx": "53ee18793f565c7eb68056bf798efd377e4d0327156a2f13f8d0ab1f299c0570",
+    "valetudo-armv7-lowmem.upx": "5296c4f30b68c5252f0816f56f1416828d4f3c25933ed3ec0cc0019806e3a343",
+    "valetudo-aarch64.upx": "85be46e3f6bc0a223adc8e33fb98abe6b537f50dac40de5def6c85506d0d2458"
   },
-  "changelog": "## Valetudo nightly (2026-07-30T03:27:31.999Z)\n\n### Fixes\n\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
+  "changelog": "## Valetudo nightly (2026-07-31T03:31:50.058Z)\n\n### Fixes\n\n- **vendor.dreame**: The set of states that can be resumable extends beyond just docked [`7a2e09b`](https://github.com/Hypfer/Valetudo/commit/7a2e09b86b553710d5bda239de24e4eac768592e)\n- **vendor.dreame**: Misc manual control improvements [`064cb88`](https://github.com/Hypfer/Valetudo/commit/064cb880eefc181610013e88eab71e68978cc662)\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
 }
