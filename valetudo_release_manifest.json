@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-07-31T03:31:50.246Z",
+  "timestamp": "2026-08-01T03:31:54.887Z",
   "version": "7a2e09b86b553710d5bda239de24e4eac768592e",
   "sha256sums": {
-    "valetudo-armv7": "2bd334c457af77e43b66554557f1d6a27bf88c6c7cbe3554094a5ab448ea6546",
-    "valetudo-armv7-lowmem": "048351b5128c8e20ef6ac764a74636eb8200b3981870caf8c4ebf5f10ea40536",
-    "valetudo-aarch64": "ef396788e6e392a6f0d403acd4c0b2b3bf9df43b54068a8bd854ef0794872f8c",
-    "valetudo-armv7.upx": "53ee18793f565c7eb68056bf798efd377e4d0327156a2f13f8d0ab1f299c0570",
-    "valetudo-armv7-lowmem.upx": "5296c4f30b68c5252f0816f56f1416828d4f3c25933ed3ec0cc0019806e3a343",
-    "valetudo-aarch64.upx": "85be46e3f6bc0a223adc8e33fb98abe6b537f50dac40de5def6c85506d0d2458"
+    "valetudo-armv7": "d480b6c54cf469b3a175e86d9be19656dde255b1f8c48f01714a75fae72c2e9d",
+    "valetudo-armv7-lowmem": "ac9c07b5c33e7f550437f80c32f42feddbc1f3745058fdf686d961079396c597",
+    "valetudo-aarch64": "ef401b60c38b7ddd4b0c82e1fd458e2e64512fe9036a2fc31fdee7c6bcbdcfc8",
+    "valetudo-armv7.upx": "db9371d53f5ea52aa84a6f1cad9b1c284b99e88e4d00091e2b1898c0ca776e04",
+    "valetudo-armv7-lowmem.upx": "a1434a9edc790e7de66acdf97d92fc57f65ddc46cc020cb38ba5fb60ac5de7cd",
+    "valetudo-aarch64.upx": "88f1f21003db0ca7e359651df96672ffa558a431d2c8291a6e125364bf849573"
   },
-  "changelog": "## Valetudo nightly (2026-07-31T03:31:50.058Z)\n\n### Fixes\n\n- **vendor.dreame**: The set of states that can be resumable extends beyond just docked [`7a2e09b`](https://github.com/Hypfer/Valetudo/commit/7a2e09b86b553710d5bda239de24e4eac768592e)\n- **vendor.dreame**: Misc manual control improvements [`064cb88`](https://github.com/Hypfer/Valetudo/commit/064cb880eefc181610013e88eab71e68978cc662)\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
+  "changelog": "## Valetudo nightly (2026-08-01T03:31:54.715Z)\n\n### Fixes\n\n- **vendor.dreame**: The set of states that can be resumable extends beyond just docked [`7a2e09b`](https://github.com/Hypfer/Valetudo/commit/7a2e09b86b553710d5bda239de24e4eac768592e)\n- **vendor.dreame**: Misc manual control improvements [`064cb88`](https://github.com/Hypfer/Valetudo/commit/064cb880eefc181610013e88eab71e68978cc662)\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
 }
