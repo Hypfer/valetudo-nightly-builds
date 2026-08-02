@@ -1,4 +1,12 @@
-## Valetudo nightly (2026-08-02T03:31:49.786Z)
+## Valetudo nightly (2026-08-02T20:09:12.913Z)
+
+### Features
+
+- **vendor.midea**: Duststreaming [`7ddc02e`](https://github.com/Hypfer/Valetudo/commit/7ddc02e596edc3be66b4d53f4b4eaebac631f993)
+- **vendor.roborock**: Duststreaming [`48545f2`](https://github.com/Hypfer/Valetudo/commit/48545f22081bac0d8b00df6d717af5de95cda2d2)
+- **vendor.dreame**: Duststreaming [`90dc810`](https://github.com/Hypfer/Valetudo/commit/90dc810cd548db2e9cd45a620c2f0e1f791539d6)
+- **ui**: Duststreaming [`d9fe988`](https://github.com/Hypfer/Valetudo/commit/d9fe988b32046b03638bf9041ba6ff85c9fd6ebe)
+- **core**: Duststreaming [`fb39d93`](https://github.com/Hypfer/Valetudo/commit/fb39d9396bb082c9b140cf9859d9c6cb4793d0c0)
 
 ### Fixes
 

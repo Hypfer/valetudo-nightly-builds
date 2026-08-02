@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-02T03:31:49.980Z",
-  "version": "7a2e09b86b553710d5bda239de24e4eac768592e",
+  "timestamp": "2026-08-02T20:09:13.080Z",
+  "version": "7ddc02e596edc3be66b4d53f4b4eaebac631f993",
   "sha256sums": {
-    "valetudo-armv7": "59ffdf3f929b37cc2eed5eb68cb788e52ce7ccc6d418b9bcf1252ca77264b88d",
-    "valetudo-armv7-lowmem": "dfeac8b95327b61912427ba1b50a2d90aa28d2a99c07ecf3a482758c48c2600c",
-    "valetudo-aarch64": "f84bf04fc82683481a1af70ea7eaa80a0f337ab8c0e4096a3e8bae0db197d710",
-    "valetudo-armv7.upx": "a5ff02152208880b747c39365f3b4c2e05f155b8743bd0ff7a9dd1fb17c74561",
-    "valetudo-armv7-lowmem.upx": "48aa6c8509850c1093dd89d7497c03c532d51d376a115f2f224cf677bcc7f9eb",
-    "valetudo-aarch64.upx": "691f1cb4de88f144a707e8fb8af20c07de0a624f39367489c0637a9adfaaa0a4"
+    "valetudo-armv7": "17322a56e3ec0f96784d058d66d46d24e15d870967dabafdf138f94cda43ca75",
+    "valetudo-armv7-lowmem": "531fa70103f6b1ace74e4872efc57b0c61f72cb0db1583950926e1be5f7dfe07",
+    "valetudo-aarch64": "8a6469e6589ed68f98e9a6e3571906b5b9aa57e56c020bb753292ec589b9ad03",
+    "valetudo-armv7.upx": "1034f738c2bc8941a5d965ea6e727d342c6d95c8dabd6d6216effaaf06743c9c",
+    "valetudo-armv7-lowmem.upx": "cd1e6547c34f6e951d51c7ea178c4c80fc91b4bd2fad75ed9f81a8c47ca1ac55",
+    "valetudo-aarch64.upx": "1a7d032c4153752ab04d31ebf1eeafe823ed2cda458860c90c3f9a2aef87e20f"
   },
-  "changelog": "## Valetudo nightly (2026-08-02T03:31:49.786Z)\n\n### Fixes\n\n- **vendor.dreame**: The set of states that can be resumable extends beyond just docked [`7a2e09b`](https://github.com/Hypfer/Valetudo/commit/7a2e09b86b553710d5bda239de24e4eac768592e)\n- **vendor.dreame**: Misc manual control improvements [`064cb88`](https://github.com/Hypfer/Valetudo/commit/064cb880eefc181610013e88eab71e68978cc662)\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
+  "changelog": "## Valetudo nightly (2026-08-02T20:09:12.913Z)\n\n### Features\n\n- **vendor.midea**: Duststreaming [`7ddc02e`](https://github.com/Hypfer/Valetudo/commit/7ddc02e596edc3be66b4d53f4b4eaebac631f993)\n- **vendor.roborock**: Duststreaming [`48545f2`](https://github.com/Hypfer/Valetudo/commit/48545f22081bac0d8b00df6d717af5de95cda2d2)\n- **vendor.dreame**: Duststreaming [`90dc810`](https://github.com/Hypfer/Valetudo/commit/90dc810cd548db2e9cd45a620c2f0e1f791539d6)\n- **ui**: Duststreaming [`d9fe988`](https://github.com/Hypfer/Valetudo/commit/d9fe988b32046b03638bf9041ba6ff85c9fd6ebe)\n- **core**: Duststreaming [`fb39d93`](https://github.com/Hypfer/Valetudo/commit/fb39d9396bb082c9b140cf9859d9c6cb4793d0c0)\n\n### Fixes\n\n- **vendor.dreame**: The set of states that can be resumable extends beyond just docked [`7a2e09b`](https://github.com/Hypfer/Valetudo/commit/7a2e09b86b553710d5bda239de24e4eac768592e)\n- **vendor.dreame**: Misc manual control improvements [`064cb88`](https://github.com/Hypfer/Valetudo/commit/064cb880eefc181610013e88eab71e68978cc662)\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
 }
