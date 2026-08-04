@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-03T03:31:49.014Z",
-  "version": "7ddc02e596edc3be66b4d53f4b4eaebac631f993",
+  "timestamp": "2026-08-04T03:31:24.897Z",
+  "version": "1783c55412e510518f68bd75e80faac25e3e7c41",
   "sha256sums": {
-    "valetudo-armv7": "f3c730c1e326f74bb080c49792904ab32049b432860d717db714ee7efe513287",
-    "valetudo-armv7-lowmem": "0cf7877b0789dd1901ddb54f6840396fd4028d749d927f6ed14e79a41acb5e90",
-    "valetudo-aarch64": "d215af305a62f12bd818e6a627146519ce6051ba5c4f2a80e6337239bb3bf7ff",
-    "valetudo-armv7.upx": "64e2dca13966d83eb660993a85c0097a5cb47506549f778b0d213c188d8702d2",
-    "valetudo-armv7-lowmem.upx": "28a985ab9614f1e93238a621fa549bc627e14a95b3dab4170c32a638d2f9672f",
-    "valetudo-aarch64.upx": "70e40e5ee8b6bc4b68d63b59b4512d7e29eb51e962a59ffbcad03dfb154ba797"
+    "valetudo-armv7": "e0e40a96172536e321365933251be1ea533089dfb842413733b2ec584ccf70f1",
+    "valetudo-armv7-lowmem": "36f07c5fab5fc1df4b9dd8e05dfedd8590bb633de56973cbb97485d5d7f5ce77",
+    "valetudo-aarch64": "a75ff9b36fe3dbf9d8441284fd8f942eb560cea40dba4163fa79fe9d60942769",
+    "valetudo-armv7.upx": "a6c9db0a3114b29c0d63f9bdc0191a2113773222fb1663d11c8e79fca792e8c4",
+    "valetudo-armv7-lowmem.upx": "cc2be9cb6b37f88dc59ed3571fdb80d550f72acecf63411345ec556d86c6cf79",
+    "valetudo-aarch64.upx": "6b654813a68b8763c0ce41e784ab80415b448df272127ce65abae45a3a867928"
   },
-  "changelog": "## Valetudo nightly (2026-08-03T03:31:48.807Z)\n\n### Features\n\n- **vendor.midea**: Duststreaming [`7ddc02e`](https://github.com/Hypfer/Valetudo/commit/7ddc02e596edc3be66b4d53f4b4eaebac631f993)\n- **vendor.roborock**: Duststreaming [`48545f2`](https://github.com/Hypfer/Valetudo/commit/48545f22081bac0d8b00df6d717af5de95cda2d2)\n- **vendor.dreame**: Duststreaming [`90dc810`](https://github.com/Hypfer/Valetudo/commit/90dc810cd548db2e9cd45a620c2f0e1f791539d6)\n- **ui**: Duststreaming [`d9fe988`](https://github.com/Hypfer/Valetudo/commit/d9fe988b32046b03638bf9041ba6ff85c9fd6ebe)\n- **core**: Duststreaming [`fb39d93`](https://github.com/Hypfer/Valetudo/commit/fb39d9396bb082c9b140cf9859d9c6cb4793d0c0)\n\n### Fixes\n\n- **vendor.dreame**: The set of states that can be resumable extends beyond just docked [`7a2e09b`](https://github.com/Hypfer/Valetudo/commit/7a2e09b86b553710d5bda239de24e4eac768592e)\n- **vendor.dreame**: Misc manual control improvements [`064cb88`](https://github.com/Hypfer/Valetudo/commit/064cb880eefc181610013e88eab71e68978cc662)\n- **vendor.midea**: Fix semantic_slam_node crashlooping on J15 Max FW 558 [`ccda25e`](https://github.com/Hypfer/Valetudo/commit/ccda25ee46a64915116111da801ac7009f6e42b6)\n"
+  "changelog": "## Valetudo nightly (2026-08-04T03:31:24.700Z)\n\n### Fixes\n\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n"
 }
