@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-12T03:12:32.015Z",
-  "version": "1783c55412e510518f68bd75e80faac25e3e7c41",
+  "timestamp": "2026-08-13T03:15:17.537Z",
+  "version": "fc433805db959a878c9861f66997ec1ab3974894",
   "sha256sums": {
-    "valetudo-armv7": "eaf7276d3c4e387f95293e8b73841e820cef36f93c43824dd15c6513b1b27215",
-    "valetudo-armv7-lowmem": "9a88d984ac3d1d5acf1f92fa091365e59efb9a45764df6d57bf45b69abe4ae88",
-    "valetudo-aarch64": "916f61747d6910019613bda30574e91756016b722b99f5e0c51bbf8a3e05822c",
-    "valetudo-armv7.upx": "da7856dfd1a968d76b6f959a0b98b9a69ec52969597ef6c2fcde290e6c275beb",
-    "valetudo-armv7-lowmem.upx": "034b020e279d230ca46487381eee72951ed385ad4c9cc2a9d34e1b06ed5e2b0b",
-    "valetudo-aarch64.upx": "088f03ec8270c260498aae8a19ee04f99a282a59e7dff18f0c9f6f0953e29d90"
+    "valetudo-armv7": "810b0b6a0b6fe33edd6b04242fd9b75287b3165a744372a1fe76cd135f9e5a23",
+    "valetudo-armv7-lowmem": "401638028f32a01af825ae38a74621b60f89bffb19278315872b0d50834df1ca",
+    "valetudo-aarch64": "9fcb7cd6450bbf3caab51ea827d13cfbdd56e3ae08d8aa074c6ab04c294acd01",
+    "valetudo-armv7.upx": "8219a1326e6544c9ab257989710e5324384f9b82ca4a3ec76afe887bfac0f6ff",
+    "valetudo-armv7-lowmem.upx": "8c9507fd14bb061d6150c00a7f853cc3409d88b27fefb579fc0c9bae57a2aa45",
+    "valetudo-aarch64.upx": "210a4b79e075f816ecd015c0072db4c4dc5f56b62711536c9434c6d19b88aa1f"
   },
-  "changelog": "## Valetudo nightly (2026-08-12T03:12:31.829Z)\n\n### Fixes\n\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n"
+  "changelog": "## Valetudo nightly (2026-08-13T03:15:17.349Z)\n\n### Fixes\n\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Chores\n\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
 }
