@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-14T03:14:15.106Z",
-  "version": "fc433805db959a878c9861f66997ec1ab3974894",
+  "timestamp": "2026-08-15T02:41:47.177Z",
+  "version": "4ca5609490b9cd85cfa2b25d4a808ccca109658a",
   "sha256sums": {
-    "valetudo-armv7": "590458ad97a955567ff1fe605c5a91a590f43aef04e1db0c2d1d81757ef40895",
-    "valetudo-armv7-lowmem": "fadbd65cc4d6e3dfe9b460f38e93d1da673b350aa3d5e545afa1146f1d08e144",
-    "valetudo-aarch64": "feb050db2fb2e4d586cab53729e268fed3aa98d767d6b5b94bea94d7f2fb7102",
-    "valetudo-armv7.upx": "c58abc6093b470054effed4a9642288077686b3d7145bbc86868261a7a5ce3bf",
-    "valetudo-armv7-lowmem.upx": "d74ff9c9f9d80d17bf0adc136b0639a4751b050c7b2584b8a5fd7e15a6b9e3eb",
-    "valetudo-aarch64.upx": "3b516213723f50416dcb1d5f8d53d3e8fc795f5df77906874ab58bd7ed64feae"
+    "valetudo-armv7": "275839089192139cf5c7314d4647f4aa2d41cdadcd68699a0fba04e0fb060c97",
+    "valetudo-armv7-lowmem": "b16f33b1767d14fe59794fcdf912c06058ae122ac118d5d3b86926550332766a",
+    "valetudo-aarch64": "e0437fe506a4c54dd97d927ecbd5159a65a3bae9bf7e8047a4fb8a5fda7f9bf7",
+    "valetudo-armv7.upx": "af17285e4db4f11d8cb433d2c829f91948e227997388fe5256cb5fa0833f5413",
+    "valetudo-armv7-lowmem.upx": "92449d31380d5c94a1960afee4127c48912acc949a4ed6f81b6dd738f015cb4d",
+    "valetudo-aarch64.upx": "2d3a0e6b532287fadda7125dd8063612452dcb826ee49e104571f878b053144e"
   },
-  "changelog": "## Valetudo nightly (2026-08-14T03:14:14.915Z)\n\n### Fixes\n\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Chores\n\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
+  "changelog": "## Valetudo nightly (2026-08-15T02:41:46.992Z)\n\n### Features\n\n- **ui**: Add another spectator map pip window size [`4ca5609`](https://github.com/Hypfer/Valetudo/commit/4ca5609490b9cd85cfa2b25d4a808ccca109658a)\n\n### Fixes\n\n- **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)\n- **ui**: Make my head hurt less [`1ead8e8`](https://github.com/Hypfer/Valetudo/commit/1ead8e8bea0af8f8bfd2a1d280c236f6f5b75947)\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Chores\n\n- Precision [`4651c19`](https://github.com/Hypfer/Valetudo/commit/4651c1979ba8528137948e30b94da9e7441148f6)\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
 }
