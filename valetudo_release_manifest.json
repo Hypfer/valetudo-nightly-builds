@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-15T02:41:47.177Z",
-  "version": "4ca5609490b9cd85cfa2b25d4a808ccca109658a",
+  "timestamp": "2026-08-16T02:47:18.480Z",
+  "version": "b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745",
   "sha256sums": {
-    "valetudo-armv7": "275839089192139cf5c7314d4647f4aa2d41cdadcd68699a0fba04e0fb060c97",
-    "valetudo-armv7-lowmem": "b16f33b1767d14fe59794fcdf912c06058ae122ac118d5d3b86926550332766a",
-    "valetudo-aarch64": "e0437fe506a4c54dd97d927ecbd5159a65a3bae9bf7e8047a4fb8a5fda7f9bf7",
-    "valetudo-armv7.upx": "af17285e4db4f11d8cb433d2c829f91948e227997388fe5256cb5fa0833f5413",
-    "valetudo-armv7-lowmem.upx": "92449d31380d5c94a1960afee4127c48912acc949a4ed6f81b6dd738f015cb4d",
-    "valetudo-aarch64.upx": "2d3a0e6b532287fadda7125dd8063612452dcb826ee49e104571f878b053144e"
+    "valetudo-armv7": "deb691c637deecf9a9a742b973211359f67a73931b2f5a7b24adec01da029bf6",
+    "valetudo-armv7-lowmem": "f5d4ba9ea986a7fa2d9252cfdcdc750fd29e1f1241a3d33f33b840ca675b1827",
+    "valetudo-aarch64": "718a1f1c5d8ccd9a73ed0de908fabb2a4c9094edfe2aab3e046690e87b4f431a",
+    "valetudo-armv7.upx": "2bd1452c632903c5b1db41932a5f8a5106401d9cfc0d4be9912ee5e0c78078ec",
+    "valetudo-armv7-lowmem.upx": "9c49e2c64c178e35eae8b7edd1dc93556ba0c32c64c2aa897c167d0daabcb7bb",
+    "valetudo-aarch64.upx": "89a79d9b79865e91ba3222330632d6eb63405a00c346af0a9fa399a90a9acfe1"
   },
-  "changelog": "## Valetudo nightly (2026-08-15T02:41:46.992Z)\n\n### Features\n\n- **ui**: Add another spectator map pip window size [`4ca5609`](https://github.com/Hypfer/Valetudo/commit/4ca5609490b9cd85cfa2b25d4a808ccca109658a)\n\n### Fixes\n\n- **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)\n- **ui**: Make my head hurt less [`1ead8e8`](https://github.com/Hypfer/Valetudo/commit/1ead8e8bea0af8f8bfd2a1d280c236f6f5b75947)\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Chores\n\n- Precision [`4651c19`](https://github.com/Hypfer/Valetudo/commit/4651c1979ba8528137948e30b94da9e7441148f6)\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
+  "changelog": "## Valetudo nightly (2026-08-16T02:47:18.255Z)\n\n### Features\n\n- **ui**: Add another spectator map pip window size [`4ca5609`](https://github.com/Hypfer/Valetudo/commit/4ca5609490b9cd85cfa2b25d4a808ccca109658a)\n\n### Fixes\n\n- **vendor.dreame**: Try a different ID [`b69ab0b`](https://github.com/Hypfer/Valetudo/commit/b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745)\n- **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)\n- **ui**: Make my head hurt less [`1ead8e8`](https://github.com/Hypfer/Valetudo/commit/1ead8e8bea0af8f8bfd2a1d280c236f6f5b75947)\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Chores\n\n- Precision [`4651c19`](https://github.com/Hypfer/Valetudo/commit/4651c1979ba8528137948e30b94da9e7441148f6)\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
 }
