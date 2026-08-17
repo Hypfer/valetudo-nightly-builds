@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-16T02:47:18.480Z",
+  "timestamp": "2026-08-17T02:46:59.578Z",
   "version": "b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745",
   "sha256sums": {
-    "valetudo-armv7": "deb691c637deecf9a9a742b973211359f67a73931b2f5a7b24adec01da029bf6",
-    "valetudo-armv7-lowmem": "f5d4ba9ea986a7fa2d9252cfdcdc750fd29e1f1241a3d33f33b840ca675b1827",
-    "valetudo-aarch64": "718a1f1c5d8ccd9a73ed0de908fabb2a4c9094edfe2aab3e046690e87b4f431a",
-    "valetudo-armv7.upx": "2bd1452c632903c5b1db41932a5f8a5106401d9cfc0d4be9912ee5e0c78078ec",
-    "valetudo-armv7-lowmem.upx": "9c49e2c64c178e35eae8b7edd1dc93556ba0c32c64c2aa897c167d0daabcb7bb",
-    "valetudo-aarch64.upx": "89a79d9b79865e91ba3222330632d6eb63405a00c346af0a9fa399a90a9acfe1"
+    "valetudo-armv7": "95f9a184291399e116603c9c441fc76e5b515b10b348374f740d9182ca69c092",
+    "valetudo-armv7-lowmem": "4d245e89dd6b76791ab44d7d8d742209d91ffd87e7f420d6e7cf52729bf915bb",
+    "valetudo-aarch64": "da165fc8218a07c2d1f5f07f918f29ba49b6b2fb986b2dc0804b3d29f546bc4f",
+    "valetudo-armv7.upx": "2d42b4de88d2b4f7f6c75e992adf0b61b065bfe1f44c5d04fde9e0a5a43356b6",
+    "valetudo-armv7-lowmem.upx": "add28e96ed0e92bd9886d4cb6f32e336899e51b70825831ecb576c45cc503ffe",
+    "valetudo-aarch64.upx": "06ea69cc7628876e54efcdc4abd366ab9c6d86dc07fe7de86b7aeaf37ba86bfe"
   },
-  "changelog": "## Valetudo nightly (2026-08-16T02:47:18.255Z)\n\n### Features\n\n- **ui**: Add another spectator map pip window size [`4ca5609`](https://github.com/Hypfer/Valetudo/commit/4ca5609490b9cd85cfa2b25d4a808ccca109658a)\n\n### Fixes\n\n- **vendor.dreame**: Try a different ID [`b69ab0b`](https://github.com/Hypfer/Valetudo/commit/b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745)\n- **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)\n- **ui**: Make my head hurt less [`1ead8e8`](https://github.com/Hypfer/Valetudo/commit/1ead8e8bea0af8f8bfd2a1d280c236f6f5b75947)\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Chores\n\n- Precision [`4651c19`](https://github.com/Hypfer/Valetudo/commit/4651c1979ba8528137948e30b94da9e7441148f6)\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
+  "changelog": "## Valetudo nightly (2026-08-17T02:46:59.369Z)\n\n### Features\n\n- **ui**: Add another spectator map pip window size [`4ca5609`](https://github.com/Hypfer/Valetudo/commit/4ca5609490b9cd85cfa2b25d4a808ccca109658a)\n\n### Fixes\n\n- **vendor.dreame**: Try a different ID [`b69ab0b`](https://github.com/Hypfer/Valetudo/commit/b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745)\n- **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)\n- **ui**: Make my head hurt less [`1ead8e8`](https://github.com/Hypfer/Valetudo/commit/1ead8e8bea0af8f8bfd2a1d280c236f6f5b75947)\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Chores\n\n- Precision [`4651c19`](https://github.com/Hypfer/Valetudo/commit/4651c1979ba8528137948e30b94da9e7441148f6)\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
 }
