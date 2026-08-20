@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-08-19T02:46:10.216Z)
+## Valetudo nightly (2026-08-20T02:45:12.634Z)
 
 ### Features
 
@@ -12,6 +12,10 @@
 - **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)
 - **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)
 - Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)
+
+### Refactoring
+
+- **duststreaming**: Punch some more intent into the code [`b6c0896`](https://github.com/Hypfer/Valetudo/commit/b6c0896208d72435701aba130ee9e5abf24474bc)
 
 ### Chores
 
