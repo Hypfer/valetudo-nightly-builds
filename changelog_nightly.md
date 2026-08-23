@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-08-22T02:43:13.966Z)
+## Valetudo nightly (2026-08-23T02:47:56.975Z)
 
 ### Features
 
@@ -6,6 +6,7 @@
 
 ### Fixes
 
+- **vendor.midea**: Reuse secureContext like a sane person that read the docs [`b41e048`](https://github.com/Hypfer/Valetudo/commit/b41e048de73e35f39f7fbfb604f1555bb8d45cd4)
 - **vendor.dreame**: Try a different ID [`b69ab0b`](https://github.com/Hypfer/Valetudo/commit/b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745)
 - **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)
 - **ui**: Make my head hurt less [`1ead8e8`](https://github.com/Hypfer/Valetudo/commit/1ead8e8bea0af8f8bfd2a1d280c236f6f5b75947)
