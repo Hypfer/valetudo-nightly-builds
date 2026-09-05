@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-09-04T02:42:07.113Z)
+## Valetudo nightly (2026-09-05T02:37:52.184Z)
 
 ### Features
 
@@ -7,6 +7,7 @@
 
 ### Fixes
 
+- **mqtt**: Remove legacy cruft provideMapData option [`5772c9c`](https://github.com/Hypfer/Valetudo/commit/5772c9c39e6bdb2519c2217c0c4a77cf1ad95aaa)
 - **vendor.midea**: Reuse secureContext like a sane person that read the docs [`b41e048`](https://github.com/Hypfer/Valetudo/commit/b41e048de73e35f39f7fbfb604f1555bb8d45cd4)
 - **vendor.dreame**: Try a different ID [`b69ab0b`](https://github.com/Hypfer/Valetudo/commit/b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745)
 - **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)
