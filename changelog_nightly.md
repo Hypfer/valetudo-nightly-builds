@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-09-14T02:43:42.773Z)
+## Valetudo nightly (2026-09-15T02:40:51.997Z)
 
 ### Features
 
+- **ui**: Analytics [`49a73b0`](https://github.com/Hypfer/Valetudo/commit/49a73b0990d1227752fc501bbd5713af4f2a11bc)
 - Some logo variants [`e048f8f`](https://github.com/Hypfer/Valetudo/commit/e048f8f10879b093de0bbeccfb0cb0d0624c43a7)
 - **ui**: Add another spectator map pip window size [`4ca5609`](https://github.com/Hypfer/Valetudo/commit/4ca5609490b9cd85cfa2b25d4a808ccca109658a)
 
