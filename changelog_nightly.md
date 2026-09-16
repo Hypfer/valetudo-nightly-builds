@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-09-15T02:40:51.997Z)
+## Valetudo nightly (2026-09-16T02:40:10.692Z)
 
 ### Features
 
@@ -8,6 +8,7 @@
 
 ### Fixes
 
+- **core**: Improve forced gc condition [`40e767d`](https://github.com/Hypfer/Valetudo/commit/40e767deb3607ece9b36e0af1643e59fdd1f270d)
 - **mqtt**: Remove legacy cruft provideMapData option [`5772c9c`](https://github.com/Hypfer/Valetudo/commit/5772c9c39e6bdb2519c2217c0c4a77cf1ad95aaa)
 - **vendor.midea**: Reuse secureContext like a sane person that read the docs [`b41e048`](https://github.com/Hypfer/Valetudo/commit/b41e048de73e35f39f7fbfb604f1555bb8d45cd4)
 - **vendor.dreame**: Try a different ID [`b69ab0b`](https://github.com/Hypfer/Valetudo/commit/b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745)
@@ -23,5 +24,6 @@
 
 ### Chores
 
+- Formatting [`190816d`](https://github.com/Hypfer/Valetudo/commit/190816dbe8c45c5f7256ef87ca1ffb04ecb6da78)
 - Precision [`4651c19`](https://github.com/Hypfer/Valetudo/commit/4651c1979ba8528137948e30b94da9e7441148f6)
 - Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)
