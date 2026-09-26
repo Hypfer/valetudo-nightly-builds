@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-09-25T02:39:55.065Z)
+## Valetudo nightly (2026-09-26T02:39:41.279Z)
 
 ### Features
 
@@ -8,6 +8,7 @@
 
 ### Fixes
 
+- **mqtt**: Remove legacy cruft homie and home assistant optionality [`31bbc50`](https://github.com/Hypfer/Valetudo/commit/31bbc50c8dc34d02d4ed1a24d2febe0444344c64)
 - **core**: Improve forced gc condition [`40e767d`](https://github.com/Hypfer/Valetudo/commit/40e767deb3607ece9b36e0af1643e59fdd1f270d)
 - **mqtt**: Remove legacy cruft provideMapData option [`5772c9c`](https://github.com/Hypfer/Valetudo/commit/5772c9c39e6bdb2519c2217c0c4a77cf1ad95aaa)
 - **vendor.midea**: Reuse secureContext like a sane person that read the docs [`b41e048`](https://github.com/Hypfer/Valetudo/commit/b41e048de73e35f39f7fbfb604f1555bb8d45cd4)

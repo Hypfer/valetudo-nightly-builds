@@ -303,8 +303,7 @@
               "enabled",
               "connection",
               "identity",
-              "customizations",
-              "interfaces"
+              "customizations"
             ],
             "properties": {
               "enabled": {
@@ -409,48 +408,6 @@
                   "topicPrefix": {
                     "type": "string",
                     "description": "You can override the default \"valetudo\" mqtt topic prefix if you e.g. prefer to group all your mqtt stuff by rooms/floors/protocols"
-                  }
-                }
-              },
-              "interfaces": {
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                  "homie",
-                  "homeassistant"
-                ],
-                "properties": {
-                  "homie": {
-                    "type": "object",
-                    "additionalProperties": false,
-                    "required": [
-                      "enabled",
-                      "cleanAttributesOnShutdown"
-                    ],
-                    "properties": {
-                      "enabled": {
-                        "type": "boolean"
-                      },
-                      "cleanAttributesOnShutdown": {
-                        "type": "boolean"
-                      }
-                    }
-                  },
-                  "homeassistant": {
-                    "type": "object",
-                    "additionalProperties": false,
-                    "required": [
-                      "enabled",
-                      "cleanAutoconfOnShutdown"
-                    ],
-                    "properties": {
-                      "enabled": {
-                        "type": "boolean"
-                      },
-                      "cleanAutoconfOnShutdown": {
-                        "type": "boolean"
-                      }
-                    }
                   }
                 }
               },
@@ -626,8 +583,7 @@
           "enabled",
           "connection",
           "identity",
-          "customizations",
-          "interfaces"
+          "customizations"
         ],
         "properties": {
           "enabled": {
@@ -732,48 +688,6 @@
               "topicPrefix": {
                 "type": "string",
                 "description": "You can override the default \"valetudo\" mqtt topic prefix if you e.g. prefer to group all your mqtt stuff by rooms/floors/protocols"
-              }
-            }
-          },
-          "interfaces": {
-            "type": "object",
-            "additionalProperties": false,
-            "required": [
-              "homie",
-              "homeassistant"
-            ],
-            "properties": {
-              "homie": {
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                  "enabled",
-                  "cleanAttributesOnShutdown"
-                ],
-                "properties": {
-                  "enabled": {
-                    "type": "boolean"
-                  },
-                  "cleanAttributesOnShutdown": {
-                    "type": "boolean"
-                  }
-                }
-              },
-              "homeassistant": {
-                "type": "object",
-                "additionalProperties": false,
-                "required": [
-                  "enabled",
-                  "cleanAutoconfOnShutdown"
-                ],
-                "properties": {
-                  "enabled": {
-                    "type": "boolean"
-                  },
-                  "cleanAutoconfOnShutdown": {
-                    "type": "boolean"
-                  }
-                }
               }
             }
           },
@@ -7367,8 +7281,7 @@
                     "enabled",
                     "connection",
                     "identity",
-                    "customizations",
-                    "interfaces"
+                    "customizations"
                   ],
                   "properties": {
                     "enabled": {
@@ -7476,48 +7389,6 @@
                         }
                       }
                     },
-                    "interfaces": {
-                      "type": "object",
-                      "additionalProperties": false,
-                      "required": [
-                        "homie",
-                        "homeassistant"
-                      ],
-                      "properties": {
-                        "homie": {
-                          "type": "object",
-                          "additionalProperties": false,
-                          "required": [
-                            "enabled",
-                            "cleanAttributesOnShutdown"
-                          ],
-                          "properties": {
-                            "enabled": {
-                              "type": "boolean"
-                            },
-                            "cleanAttributesOnShutdown": {
-                              "type": "boolean"
-                            }
-                          }
-                        },
-                        "homeassistant": {
-                          "type": "object",
-                          "additionalProperties": false,
-                          "required": [
-                            "enabled",
-                            "cleanAutoconfOnShutdown"
-                          ],
-                          "properties": {
-                            "enabled": {
-                              "type": "boolean"
-                            },
-                            "cleanAutoconfOnShutdown": {
-                              "type": "boolean"
-                            }
-                          }
-                        }
-                      }
-                    },
                     "optionalExposedCapabilities": {
                       "type": "array",
                       "items": {
@@ -7557,8 +7428,7 @@
                   "enabled",
                   "connection",
                   "identity",
-                  "customizations",
-                  "interfaces"
+                  "customizations"
                 ],
                 "properties": {
                   "enabled": {
@@ -7663,48 +7533,6 @@
                       "topicPrefix": {
                         "type": "string",
                         "description": "You can override the default \"valetudo\" mqtt topic prefix if you e.g. prefer to group all your mqtt stuff by rooms/floors/protocols"
-                      }
-                    }
-                  },
-                  "interfaces": {
-                    "type": "object",
-                    "additionalProperties": false,
-                    "required": [
-                      "homie",
-                      "homeassistant"
-                    ],
-                    "properties": {
-                      "homie": {
-                        "type": "object",
-                        "additionalProperties": false,
-                        "required": [
-                          "enabled",
-                          "cleanAttributesOnShutdown"
-                        ],
-                        "properties": {
-                          "enabled": {
-                            "type": "boolean"
-                          },
-                          "cleanAttributesOnShutdown": {
-                            "type": "boolean"
-                          }
-                        }
-                      },
-                      "homeassistant": {
-                        "type": "object",
-                        "additionalProperties": false,
-                        "required": [
-                          "enabled",
-                          "cleanAutoconfOnShutdown"
-                        ],
-                        "properties": {
-                          "enabled": {
-                            "type": "boolean"
-                          },
-                          "cleanAutoconfOnShutdown": {
-                            "type": "boolean"
-                          }
-                        }
                       }
                     }
                   },
