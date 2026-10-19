@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-18T02:38:07.354Z",
-  "version": "359a212e6897a31cea8df623b107fcb4a1373386",
+  "timestamp": "2026-10-19T02:44:50.741Z",
+  "version": "78267517d3036258322b6760ba8a9979d197e249",
   "sha256sums": {
-    "valetudo-armv7": "fd68fb03f8a09778d9653ff836e9fcb68b66fdd9d9bbe6d16bc94e1e8df507a6",
-    "valetudo-armv7-lowmem": "cb127866c6d06caea2a16846c6cb507dd99c4ea9f84102a89402e0d0a616336e",
-    "valetudo-aarch64": "9be51c85c3aa6be64d9dec4a68299c55132e2f1195d3942e8d3ab30ab8cd1b22",
-    "valetudo-armv7.upx": "2a5705e618455c0583cc1ab90c75ea52e6742b3ec7e02c4b6f67c8007dd1a1cf",
-    "valetudo-armv7-lowmem.upx": "3d2ae964392cd64614eb2b3f7abd9e43538c9c5844f86b5fb5b10780ce940446",
-    "valetudo-aarch64.upx": "ccaaf92ff280bab7fd0ee81307d34ac3bf8a4143f1ff79588529b41b1b1377bd"
+    "valetudo-armv7": "158a0e021c97ddeb43b9f29391b93562609ca8c4c161d52f2183ae29ee7f76ee",
+    "valetudo-armv7-lowmem": "73caf28b07ce5c15847cd4973c3f3af601bdd4e6ced183f4e11f285fc913b27b",
+    "valetudo-aarch64": "7f48aba22497b6f12790b254f38d08b443dfc6fb19770bea1c20984bc944278c",
+    "valetudo-armv7.upx": "35728261de1a2c2e1b17dcb75edae654245e5847546a669f94609ad8d4b38261",
+    "valetudo-armv7-lowmem.upx": "1f18ede6c32e354ad9b6e27a14142228a5aad2ca12b8933da5813b2b7c3522ba",
+    "valetudo-aarch64.upx": "eba504b1603a78da2e1cf72f304db19b5a9269d6cd83ec01764d0058cc8c832e"
   },
-  "changelog": "## Valetudo nightly (2026-10-18T02:38:07.197Z)\n\n### Features\n\n- **vendor.dreame**: Map two more error codes [`359a212`](https://github.com/Hypfer/Valetudo/commit/359a212e6897a31cea8df623b107fcb4a1373386)\n- **ui**: Analytics [`49a73b0`](https://github.com/Hypfer/Valetudo/commit/49a73b0990d1227752fc501bbd5713af4f2a11bc)\n- Some logo variants [`e048f8f`](https://github.com/Hypfer/Valetudo/commit/e048f8f10879b093de0bbeccfb0cb0d0624c43a7)\n- **ui**: Add another spectator map pip window size [`4ca5609`](https://github.com/Hypfer/Valetudo/commit/4ca5609490b9cd85cfa2b25d4a808ccca109658a)\n\n### Fixes\n\n- **mqtt**: Remove legacy cruft homie and home assistant optionality [`31bbc50`](https://github.com/Hypfer/Valetudo/commit/31bbc50c8dc34d02d4ed1a24d2febe0444344c64)\n- **core**: Improve forced gc condition [`40e767d`](https://github.com/Hypfer/Valetudo/commit/40e767deb3607ece9b36e0af1643e59fdd1f270d)\n- **mqtt**: Remove legacy cruft provideMapData option [`5772c9c`](https://github.com/Hypfer/Valetudo/commit/5772c9c39e6bdb2519c2217c0c4a77cf1ad95aaa)\n- **vendor.midea**: Reuse secureContext like a sane person that read the docs [`b41e048`](https://github.com/Hypfer/Valetudo/commit/b41e048de73e35f39f7fbfb604f1555bb8d45cd4)\n- **vendor.dreame**: Try a different ID [`b69ab0b`](https://github.com/Hypfer/Valetudo/commit/b69ab0b2c8637c1cf32dc52eac0c0ea3a3d4f745)\n- **vendor.midea**: Handle unhandled water_level [`c01fb4b`](https://github.com/Hypfer/Valetudo/commit/c01fb4b0d3431e8d51067806d21ff9a289e4156b)\n- **ui**: Make my head hurt less [`1ead8e8`](https://github.com/Hypfer/Valetudo/commit/1ead8e8bea0af8f8bfd2a1d280c236f6f5b75947)\n- **core**: Give the duststream clients some grace in handling packets [`fc43380`](https://github.com/Hypfer/Valetudo/commit/fc433805db959a878c9861f66997ec1ab3974894)\n- **vendor.midea**: Handle some unknown pixel types [`fa2c999`](https://github.com/Hypfer/Valetudo/commit/fa2c9997cfaabc097d8a3a5a337927d1ba8e0a47)\n- Use stat as intended in isDuststreamerInstalled [`1783c55`](https://github.com/Hypfer/Valetudo/commit/1783c55412e510518f68bd75e80faac25e3e7c41)\n\n### Refactoring\n\n- **duststreaming**: Punch some more intent into the code [`b6c0896`](https://github.com/Hypfer/Valetudo/commit/b6c0896208d72435701aba130ee9e5abf24474bc)\n\n### Chores\n\n- Formatting [`190816d`](https://github.com/Hypfer/Valetudo/commit/190816dbe8c45c5f7256ef87ca1ffb04ecb6da78)\n- Precision [`4651c19`](https://github.com/Hypfer/Valetudo/commit/4651c1979ba8528137948e30b94da9e7441148f6)\n- Put the LLMs in their place [`328dd39`](https://github.com/Hypfer/Valetudo/commit/328dd39c17d6d3c3010b749b6bf9d56da7c30be4)\n"
+  "changelog": "## Valetudo nightly (2026-10-19T02:44:50.550Z)\n"
 }
