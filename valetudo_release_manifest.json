@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-26T02:46:32.263Z",
+  "timestamp": "2026-10-27T02:44:19.596Z",
   "version": "50de90ab1f17ee0562819afcaf4269cdc8c0eaac",
   "sha256sums": {
-    "valetudo-armv7": "45198ba5142ad9df98971c1c02443224eb736d2fa40b3716b4293dcb02379afd",
-    "valetudo-armv7-lowmem": "d4f62b0ebcc1853b65dc2a04e9daac48208065f69e466b0f626053fa746a1119",
-    "valetudo-aarch64": "1bb6e8852133688e06057b9d7f42d26ea4c7f9f6d77c032a28ffacc35d7bf6f1",
-    "valetudo-armv7.upx": "bc8ab97b951212b84fdb59e9ff66ad7ac8adbd04d91ba09304cc4573a0860464",
-    "valetudo-armv7-lowmem.upx": "8bccce85a883e6488f048369257f7c859de1fd97fe3a548236df6bd0b339c628",
-    "valetudo-aarch64.upx": "114ac012ffac7ef21056d2a1bd9dda1597ce6a81de24a2b7224cff62f1f955c8"
+    "valetudo-armv7": "c14cb1c0cbe54e7d86a874daf5106e217ded26be49106b2dc2d41db02c2ac61e",
+    "valetudo-armv7-lowmem": "b90d210114c85be5cb04aa02ab889eaf612b1521c508e0bec781fb84c461aafb",
+    "valetudo-aarch64": "ae3040e4d9e98cb1e92763163441c70ea727160a61f619ca3c3d0ce96a160d5a",
+    "valetudo-armv7.upx": "db7f70da0e74dc8d843c760ccaffcde66928b82f035b942cf86a234a793a7398",
+    "valetudo-armv7-lowmem.upx": "78dd2829a788a1e5d5a2cf818d259c5755ce2651567fa17d7fb7c4534c1ab02a",
+    "valetudo-aarch64.upx": "efc8840f2d4f45b0e501a1c2fd54852a0ecc0dd85ba546d98cc49fe6adf0b01f"
   },
-  "changelog": "## Valetudo nightly (2026-10-26T02:46:32.114Z)\n\n### Features\n\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n"
+  "changelog": "## Valetudo nightly (2026-10-27T02:44:19.405Z)\n\n### Features\n\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n"
 }
