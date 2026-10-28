@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T02:44:19.596Z",
-  "version": "50de90ab1f17ee0562819afcaf4269cdc8c0eaac",
+  "timestamp": "2026-10-28T02:31:00.944Z",
+  "version": "209049bb90f63f4cf324e7e6d24590c442b50183",
   "sha256sums": {
-    "valetudo-armv7": "c14cb1c0cbe54e7d86a874daf5106e217ded26be49106b2dc2d41db02c2ac61e",
-    "valetudo-armv7-lowmem": "b90d210114c85be5cb04aa02ab889eaf612b1521c508e0bec781fb84c461aafb",
-    "valetudo-aarch64": "ae3040e4d9e98cb1e92763163441c70ea727160a61f619ca3c3d0ce96a160d5a",
-    "valetudo-armv7.upx": "db7f70da0e74dc8d843c760ccaffcde66928b82f035b942cf86a234a793a7398",
-    "valetudo-armv7-lowmem.upx": "78dd2829a788a1e5d5a2cf818d259c5755ce2651567fa17d7fb7c4534c1ab02a",
-    "valetudo-aarch64.upx": "efc8840f2d4f45b0e501a1c2fd54852a0ecc0dd85ba546d98cc49fe6adf0b01f"
+    "valetudo-armv7": "37ab14c2bbfc4db7d25aae773fbe118a434e6dda102705f155d19784b7825a8d",
+    "valetudo-armv7-lowmem": "522b6a47931c0f338726815bdd340612478ade29abdd908b7948fb26ae248086",
+    "valetudo-aarch64": "1a8db01a5c7cb21b9872077e10bd287c139a771cc6fc3f2437246c636d02a2f3",
+    "valetudo-armv7.upx": "c6a93c9cf89458a192a6bba609c8daf6be1b7659fe2e7aae93cbc1a6da0ef7cb",
+    "valetudo-armv7-lowmem.upx": "ce302aaf66b78da207cc9a8441af7995e8a6a96e1757fb09775d72fce54b3815",
+    "valetudo-aarch64.upx": "c4cb8c27baeb4fce3ecb57d1514a813d6f60287e05a3ad81229ca392dd4516d4"
   },
-  "changelog": "## Valetudo nightly (2026-10-27T02:44:19.405Z)\n\n### Features\n\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n"
+  "changelog": "## Valetudo nightly (2026-10-28T02:31:00.791Z)\n\n### Features\n\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n\n### Fixes\n\n- **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)\n"
 }
