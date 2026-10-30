@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T02:32:35.959Z",
+  "timestamp": "2026-10-30T02:32:30.894Z",
   "version": "209049bb90f63f4cf324e7e6d24590c442b50183",
   "sha256sums": {
-    "valetudo-armv7": "b9a62b7772e65787a7d520f979f12bcce6924c2299b3b5786c1e131ab92d90a3",
-    "valetudo-armv7-lowmem": "da37b49c24e1e7393b190cc8832eb4b62b7c4db7385e2b889430dba291563b48",
-    "valetudo-aarch64": "df3a1f7c6298a94b7d4db6d1b8d468ff9d056e89a4ee860dba1adbe5481b3e36",
-    "valetudo-armv7.upx": "42191c3227eb21ba11d645f9a86d2230c41e974b785fd7bc2a6bcd88010a68cd",
-    "valetudo-armv7-lowmem.upx": "26570085e4de80ab0818158551201c3b19ad0eb30b4d8972de03037b5497525f",
-    "valetudo-aarch64.upx": "e4dbfdeea89223be5254ae5ccdceba27d364ec0fce7a7eac87a873442cd14471"
+    "valetudo-armv7": "aa268a663b548945d8f7f091eeac360559f03dc82c2c53e02cdea1b6c6c83adc",
+    "valetudo-armv7-lowmem": "37df9fafdd68bb609c727454d4556a43ed706cb616bdf789192548a3c56f344a",
+    "valetudo-aarch64": "1861609018f6b4aa2606f476b5dc42e1540031d7493cf7bc62dae2b04e0c1bba",
+    "valetudo-armv7.upx": "57a9f89a8f3655b9662ac0ea15c4466c81c93b80f6ab06f34671eb5c39068bd4",
+    "valetudo-armv7-lowmem.upx": "67af36601521539863844104a95cc0874cfa5969a4a27f48d7622c438b5910da",
+    "valetudo-aarch64.upx": "52e9e1aca6de7492e029c94d560b6789beb8543125c73dfa6d4baf2547d27f39"
   },
-  "changelog": "## Valetudo nightly (2026-10-29T02:32:35.766Z)\n\n### Features\n\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n\n### Fixes\n\n- **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)\n"
+  "changelog": "## Valetudo nightly (2026-10-30T02:32:30.680Z)\n\n### Features\n\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n\n### Fixes\n\n- **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)\n"
 }
