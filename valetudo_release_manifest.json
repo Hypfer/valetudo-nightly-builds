@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-07T02:27:05.143Z",
+  "timestamp": "2026-11-08T02:28:24.473Z",
   "version": "fd91c6aa7ea123a6a29e8127ce8e4b90be90fb60",
   "sha256sums": {
-    "valetudo-armv7": "7a87b28aef17388522507cc7315e6a56d097542e37048e7deb8800e9ed729526",
-    "valetudo-armv7-lowmem": "88a520248c6b5cde799070dae2c6f5167a78af98e1ccbe7fea56de5a5c312738",
-    "valetudo-aarch64": "6d29331124d66dad30492e7391e61add04600287d222e643b0cdd0976f0f6271",
-    "valetudo-armv7.upx": "aaa33e967286011834f916d6937436bdd9d5d25162be6376f6b3d0360c8e9f98",
-    "valetudo-armv7-lowmem.upx": "b3a3a3cd58b8c29d6f1444fb781aaaa205d8e4037d6858606812d1054a474d5e",
-    "valetudo-aarch64.upx": "ba2e55e374ff99860f9183d8b76f92c7956da65f115d89b79f40eb5b119d59c4"
+    "valetudo-armv7": "d9afb4a4a25375688f885a07af4a746fcd80925b4a66e069882f2ca380b8306b",
+    "valetudo-armv7-lowmem": "1c69854a3e94f6d1f451491a7b563774d2ebe2470553d5edb988c3a591dee206",
+    "valetudo-aarch64": "a21114f2cb818a9bf6020870ceaaddbcdba6087993d29bfd8e18967940e34b56",
+    "valetudo-armv7.upx": "7b6f6186e593d46163059b8af7efd9ceb5586465ed6ff0219ea20a79e974bfdd",
+    "valetudo-armv7-lowmem.upx": "c4ef13c06a52c81f38d67a63e43b6b8208ef67f235a972f882567fc21172524c",
+    "valetudo-aarch64.upx": "0e4cde982184db7125700946831756e9f500f61f09b32b2ded02a474ad090def"
   },
-  "changelog": "## Valetudo nightly (2026-11-07T02:27:04.950Z)\n\n### Features\n\n- **ui**: Split the bundle for performance improvements invisible on home wifi [`13c262f`](https://github.com/Hypfer/Valetudo/commit/13c262f387979373f045fa1612c49dd9f74f417b)\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n\n### Fixes\n\n- **ui**: Hide all empty subheaders in menubar [`fd91c6a`](https://github.com/Hypfer/Valetudo/commit/fd91c6aa7ea123a6a29e8127ce8e4b90be90fb60)\n- **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)\n\n### Chores\n\n- **ui**: Strip legacy woff font files from bundle to conserve space + bundle in map structure svgs [`c6953bd`](https://github.com/Hypfer/Valetudo/commit/c6953bd664c2cc44ca740d699e43d921cf8f8446)\n- Time is monotonically moving in one direction [`24a20f1`](https://github.com/Hypfer/Valetudo/commit/24a20f1eed04c4aba90e006713e9d9b0e01d2a14)\n"
+  "changelog": "## Valetudo nightly (2026-11-08T02:28:24.296Z)\n\n### Features\n\n- **ui**: Split the bundle for performance improvements invisible on home wifi [`13c262f`](https://github.com/Hypfer/Valetudo/commit/13c262f387979373f045fa1612c49dd9f74f417b)\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n\n### Fixes\n\n- **ui**: Hide all empty subheaders in menubar [`fd91c6a`](https://github.com/Hypfer/Valetudo/commit/fd91c6aa7ea123a6a29e8127ce8e4b90be90fb60)\n- **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)\n\n### Chores\n\n- **ui**: Strip legacy woff font files from bundle to conserve space + bundle in map structure svgs [`c6953bd`](https://github.com/Hypfer/Valetudo/commit/c6953bd664c2cc44ca740d699e43d921cf8f8446)\n- Time is monotonically moving in one direction [`24a20f1`](https://github.com/Hypfer/Valetudo/commit/24a20f1eed04c4aba90e006713e9d9b0e01d2a14)\n"
 }
