@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-09T02:28:47.926Z",
-  "version": "fd91c6aa7ea123a6a29e8127ce8e4b90be90fb60",
+  "timestamp": "2026-11-10T02:27:45.218Z",
+  "version": "5ccb9662874fa18107518a6317d5d7eacef1879d",
   "sha256sums": {
-    "valetudo-armv7": "2b2d478bb20a07457ba245911db03dbc25b9cd0d349895b9a2b475ecb64aaaa7",
-    "valetudo-armv7-lowmem": "b2de5c1b8353008d98557ba0436e13c4afa004ad6a411076bd6ed3d559d9e039",
-    "valetudo-aarch64": "ab3da6b56526b72f8065f2117715a779784fdb86ba926ebf17807fac3f20ce04",
-    "valetudo-armv7.upx": "2b3723035489cd2f3b1caeed017ec729a37920f6b9686c558a7ceb0aee4d413d",
-    "valetudo-armv7-lowmem.upx": "4531ff33b0037608736469813ccae7e6fa37dee388323035ffa1f9665d0b6ec8",
-    "valetudo-aarch64.upx": "5db9d8ad6d2b85635cb980959e5b8703a3137ebf98716a882d631d56a4a1a70c"
+    "valetudo-armv7": "f219fbc78418c731c58df9534f7d16f7bdacd144ab0ee9a70e7398fa54bc793b",
+    "valetudo-armv7-lowmem": "d3e1e7725fb984cc8bd06627d675d7d6f02edad6390e7c925f116e930ebae882",
+    "valetudo-aarch64": "801e4dcb6ba4fef3a9b17760a56a765f6e46ae0207ae407a50a504e4f1457c2e",
+    "valetudo-armv7.upx": "04fb3ecf0d4c98eb9581fb8a8de2715bd0a8bf95054df3a81c675c77092eb605",
+    "valetudo-armv7-lowmem.upx": "eda441c343cea6bfcad64babb2e94ef74889e184cd5dce4f6bf83f82f416049e",
+    "valetudo-aarch64.upx": "cc1a61d8b3bcbcb4f2b954d7d3b5e753c518b8848f93478e7f621ceee8d4c4d1"
   },
-  "changelog": "## Valetudo nightly (2026-11-09T02:28:47.765Z)\n\n### Features\n\n- **ui**: Split the bundle for performance improvements invisible on home wifi [`13c262f`](https://github.com/Hypfer/Valetudo/commit/13c262f387979373f045fa1612c49dd9f74f417b)\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n\n### Fixes\n\n- **ui**: Hide all empty subheaders in menubar [`fd91c6a`](https://github.com/Hypfer/Valetudo/commit/fd91c6aa7ea123a6a29e8127ce8e4b90be90fb60)\n- **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)\n\n### Chores\n\n- **ui**: Strip legacy woff font files from bundle to conserve space + bundle in map structure svgs [`c6953bd`](https://github.com/Hypfer/Valetudo/commit/c6953bd664c2cc44ca740d699e43d921cf8f8446)\n- Time is monotonically moving in one direction [`24a20f1`](https://github.com/Hypfer/Valetudo/commit/24a20f1eed04c4aba90e006713e9d9b0e01d2a14)\n"
+  "changelog": "## Valetudo nightly (2026-11-10T02:27:45.059Z)\n\n### Features\n\n- **vendor.dreame**: More Mova V50 model IDs [`5ccb966`](https://github.com/Hypfer/Valetudo/commit/5ccb9662874fa18107518a6317d5d7eacef1879d)\n- **ui**: Split the bundle for performance improvements invisible on home wifi [`13c262f`](https://github.com/Hypfer/Valetudo/commit/13c262f387979373f045fa1612c49dd9f74f417b)\n- **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)\n- **vendor.dreame**: Another V50 modelId variation [`92342eb`](https://github.com/Hypfer/Valetudo/commit/92342eb6fa72091929b1ebe2939e7b74e607f7e9)\n\n### Fixes\n\n- **mqtt**: Another culprit for unexpectly high memory usage [`4b7a64f`](https://github.com/Hypfer/Valetudo/commit/4b7a64ffdb0e30b89ddbc97ebe9d4647d5af9cfe)\n- **ui**: Hide all empty subheaders in menubar [`fd91c6a`](https://github.com/Hypfer/Valetudo/commit/fd91c6aa7ea123a6a29e8127ce8e4b90be90fb60)\n- **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)\n\n### Chores\n\n- **ui**: Strip legacy woff font files from bundle to conserve space + bundle in map structure svgs [`c6953bd`](https://github.com/Hypfer/Valetudo/commit/c6953bd664c2cc44ca740d699e43d921cf8f8446)\n- Time is monotonically moving in one direction [`24a20f1`](https://github.com/Hypfer/Valetudo/commit/24a20f1eed04c4aba90e006713e9d9b0e01d2a14)\n"
 }
