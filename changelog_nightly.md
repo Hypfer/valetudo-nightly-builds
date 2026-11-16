@@ -1,4 +1,4 @@
-## Valetudo nightly (2026-11-15T02:28:32.424Z)
+## Valetudo nightly (2026-11-16T02:29:29.674Z)
 
 ### Features
 
@@ -9,11 +9,13 @@
 
 ### Fixes
 
+- **vendor.dreame**: Newer firmwares demand one command per map annotation type [`27d79e8`](https://github.com/Hypfer/Valetudo/commit/27d79e825da418929821986366d2e8b55ac8279b)
 - **mqtt**: Another culprit for unexpectly high memory usage [`4b7a64f`](https://github.com/Hypfer/Valetudo/commit/4b7a64ffdb0e30b89ddbc97ebe9d4647d5af9cfe)
 - **ui**: Hide all empty subheaders in menubar [`fd91c6a`](https://github.com/Hypfer/Valetudo/commit/fd91c6aa7ea123a6a29e8127ce8e4b90be90fb60)
 - **miio**: Treat dids like that one relative at christmas and pretend ignore their negativity [`209049b`](https://github.com/Hypfer/Valetudo/commit/209049bb90f63f4cf324e7e6d24590c442b50183)
 
 ### Chores
 
+- **build**: Bump to NodeJS v26.13.1 [`ba6e118`](https://github.com/Hypfer/Valetudo/commit/ba6e118b6ccfe688c645e13423044cda81fe0f5d)
 - **ui**: Strip legacy woff font files from bundle to conserve space + bundle in map structure svgs [`c6953bd`](https://github.com/Hypfer/Valetudo/commit/c6953bd664c2cc44ca740d699e43d921cf8f8446)
 - Time is monotonically moving in one direction [`24a20f1`](https://github.com/Hypfer/Valetudo/commit/24a20f1eed04c4aba90e006713e9d9b0e01d2a14)
