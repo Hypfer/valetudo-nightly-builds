@@ -1,7 +1,8 @@
-## Valetudo nightly (2026-11-21T02:27:14.014Z)
+## Valetudo nightly (2026-11-22T02:29:49.973Z)
 
 ### Features
 
+- **vendor.dreame**: More Mova Z60 model IDs [`0e29823`](https://github.com/Hypfer/Valetudo/commit/0e29823d0f97a5d0e439dee3a7ea1d567f9fecb0)
 - **vendor.dreame**: More Mova V50 model IDs [`5ccb966`](https://github.com/Hypfer/Valetudo/commit/5ccb9662874fa18107518a6317d5d7eacef1879d)
 - **ui**: Split the bundle for performance improvements invisible on home wifi [`13c262f`](https://github.com/Hypfer/Valetudo/commit/13c262f387979373f045fa1612c49dd9f74f417b)
 - **vendor.dreame**: Another Z60 modelId variation [`50de90a`](https://github.com/Hypfer/Valetudo/commit/50de90ab1f17ee0562819afcaf4269cdc8c0eaac)
